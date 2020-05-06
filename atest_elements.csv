@@ -19,7 +19,7 @@ SYS_Fag_00344,ApplicationComponent,Beboerundersøkelse,
 SYS_Fag_00235,ApplicationComponent,"Bergen Kulturskole, Mellomlagringsløsning ","Bergen Kulturskole benytter Speedadmin, et fagsystem som driftes av 3.part. IKT Drift har opprettet en mellomlagringsløsning for fagsystemet slik at filer vedr. fakturainformasjon kan overførestil Agresso via tjenesten."
 SYS_Fag_00006,ApplicationComponent,Bergenskart/Braplan,"Nettleserbasert innsynsapplikasjon for kartdata for Bergen kommune basert på ArcIMS fra ESRI, og produksjonssystem for dokumenttyper som leveres via infoland-portalen til Ambita. Brukere av systemet er hovedsaklig Plan og geodata. Løsningen er tilgjengelig for publikum via internett. Digitalt planarkiv braPLAN for Bergen kommune er levert av Geomatikk AS. Benyttes både for innsyn og FDV av planarkivet . Tilgjengelig for publikum via internett."
 SYS_Fag_00144,ApplicationComponent,Bergenskart/Braplan i test,"Test-miljø for Bergenkart.no og Braplan, digitalt planarkiv. "
-SYS_Fag_00159,ApplicationComponent,Bestillingsweb,"Bestillingsweb er IKT i Bergen kommune sin webshop, her kan autoriserte bestillere bestille IKT tjenester og produkter. Vi har ingen avtale med leverandøren Netpower. "
+SYS_Fag_00159,ApplicationComponent,Bestillingsweb,"Bestillingsweb er IKTl i Bergen kommune sin webshop, her kan autoriserte bestillere bestille IKT tjenester og produkter. Vi har ingen avtale med leverandøren Netpower. "
 SYS_Fag_00377,ApplicationComponent,Bibliofil,
 SYS_Fag_00416,ApplicationComponent,BIBSYS,
 SYS_Fag_00390,ApplicationComponent,BILKRAFT,
