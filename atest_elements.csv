@@ -1,0 +1,1222 @@
+ID,Type,Name,Documentation
+SYS_Fag_00253,ApplicationComponent,24 timers BT apparat,24 timers BT apparatBlodtrykksapparat
+SYS_Fag_00414,ApplicationComponent,ABAX,
+SYS_Fag_00290,ApplicationComponent,Adgangskontrollsystem for Bergen kommune (Starwatch),"Adgangskontrollsystem (Starwatch) for Rådhuset og omliggende bygninger. Leveres og konfigureres av Westec AS, som har fjerntilgang til løsningen. August 2018 er løsningen utvidet med en SALTO-modul."
+SYS_Fag_00376,ApplicationComponent,Adobe Sign,
+SYS_Fag_00001,ApplicationComponent,Adra Match,"Adra Match er et system for automatiske kontoavstemminger og for automatisk oppdatering av innbetalinger. Systemet benyttes av Kemneren og forenkler avstemmingsarbeidet slik at der blir en effektivisert arbeidsflyt, med mindre manuelt arbeid for avstemming mot sosialsystemet til Bergen kommune. Programpakke Adra Match tilhører systemet"
+SYS_Fag_00260,ApplicationComponent,"Agresso HR, kursmiljø","Kursmiljø til Agresso HR milestone 5
+Agresso HR er Bergen kommune sitt lønns- og HR-system. I tillegg til lønn inkluderer systemet en rekke andre HR-prosesser som rekruttering, oppstart og arbeidsavtaler, fravær og refusjon, samt medarbeideroppfølging og rapportering. "
+SYS_Fag_00254,ApplicationComponent,"Agresso HR, testmiljø","Agresso HR i Testmiljø. Milestone 5
+Agresso HR er Bergen kommune sitt lønns- og HR-system. I tillegg til lønn inkluderer systemet en rekke andre HR-prosesser som rekruttering, oppstart og arbeidsavtaler, fravær og refusjon, samt medarbeideroppfølging og rapportering. "
+SYS_Fag_00328,ApplicationComponent,"Agresso Økonomi, test","Agresso sitt testmiljø skal fortsatt være i drift pr. 1. august 2018 (gammel løsning). 
+Kursmiljø er opphørt for Agresso. Er blitt erstattet av UBW økonomi. Gammel testløsning skal fortsatt driftes av EDD."
+SYS_Fag_00374,ApplicationComponent,Aksjonssamband (TETRA),
+SYS_Fag_00389,ApplicationComponent,ANPR,
+SYS_Fag_00306,ApplicationComponent,ArcGIS Portal Bergenskart,"Systemet brukes av Kart- og oppmålingsavdelingen på PBE. Systemet var kartportal for beredskapsavdelingen som ble benyttet av samvirkesenteret under sykkelVM 2017. Løsningen består av Arcgis Enterprise server og Portal i BK-nett, samt at systemet nås ved pålogging eksternt ifra. Midlertidig løsning som skal avvikles, men en ny mer permanent løsning er under etablering, og dette fagystemnavnet skal gjenbrukes. Kanskje avlevering i q3 2018,"
+SYS_Fag_00005,ApplicationComponent,Asta Prod,"Informasjonssystem for systematisk registrering, lagring og fremfinning av informasjon om arkiver og arkivskapere"
+SYS_Fag_00344,ApplicationComponent,Beboerundersøkelse,
+SYS_Fag_00235,ApplicationComponent,"Bergen Kulturskole, Mellomlagringsløsning ","Bergen Kulturskole benytter Speedadmin, et fagsystem som driftes av 3.part. IKT Drift har opprettet en mellomlagringsløsning for fagsystemet slik at filer vedr. fakturainformasjon kan overførestil Agresso via tjenesten."
+SYS_Fag_00006,ApplicationComponent,Bergenskart/Braplan,"Nettleserbasert innsynsapplikasjon for kartdata for Bergen kommune basert på ArcIMS fra ESRI, og produksjonssystem for dokumenttyper som leveres via infoland-portalen til Ambita. Brukere av systemet er hovedsaklig Plan og geodata. Løsningen er tilgjengelig for publikum via internett. Digitalt planarkiv braPLAN for Bergen kommune er levert av Geomatikk AS. Benyttes både for innsyn og FDV av planarkivet . Tilgjengelig for publikum via internett."
+SYS_Fag_00144,ApplicationComponent,Bergenskart/Braplan i test,"Test-miljø for Bergenkart.no og Braplan, digitalt planarkiv. "
+SYS_Fag_00159,ApplicationComponent,Bestillingsweb,"Bestillingsweb er IKT i Bergen kommune sin webshop, her kan autoriserte bestillere bestille IKT tjenester og produkter. Vi har ingen avtale med leverandøren Netpower. "
+SYS_Fag_00377,ApplicationComponent,Bibliofil,
+SYS_Fag_00416,ApplicationComponent,BIBSYS,
+SYS_Fag_00390,ApplicationComponent,BILKRAFT,
+SYS_Fag_00325,ApplicationComponent,Bk Kvalitet med utvidet brukerstøtte ,"BK_Kvalitet er et skysystem levert og driftes av Extend i Trondheim.
+EDD leverer single sign-on via ADFS samt Utvidet brukerstøtte fra HD med inntil 10 henvendelser pr. mnd.
+Fagsystemet er integrert med Fellesdata - EDD leverer ikke integrasjonen med fellesdata. Extend henter data via en webnservice kalt feltservice. Denne er eksponert ut via WSM løysningen. Selve feltservicen snakker direkte med Fellesdata og leverer et fult uttrekk av ansatte samt organisasjonsenheter ved hver  forespørsel. 
+"
+SYS_Fag_00262,ApplicationComponent,"Bk360 sak- og arkivsystem, intern sone","Bk360 er løsning for saksbehandling, arkiv og dokumenthåndtering i Bergen kommune. Løsningen erstattet Doculive (kemsak, bksak, bkpers og bkdok). Utrulling av Bk360 strekker seg over perioden fra 31. mai 2017 til 1. juli 2018. Gjennom hele denne perioden vil både Doculive/bksak og Bk360 være i bruk for saksbehandling. Bkdok blir erstattet 2. halvår 2018.  Helpdesk har brukerstøtte for Bk360."
+SYS_Fag_00264,ApplicationComponent,"Bk360 sak- og arkivsystem, kurs","BK360 kursmiljø
+Bk360 er løsning for saksbehandling, arkiv og dokumenthåndtering i Bergen kommune."
+SYS_Fag_00263,ApplicationComponent,"Bk360 sak- og arkivsystem, test/utvikling","Test og utviklingsmiljø for BK360
+Bk360 er løsning for saksbehandling, arkiv og dokumenthåndtering i Bergen kommune"
+SYS_Fag_00404,ApplicationComponent,Bkbilde,
+SYS_Fag_00407,ApplicationComponent,BKPERS,
+SYS_Fag_00315,ApplicationComponent,BkProsjekt,"BkProsjekt er en sharepointløsning i skyen, levert av Microsoft og driftes av Microsoft. EDD har synkronisering mellom AD-ene for løsningene og singleSignOn mot Azure AD. Helpdesk leverer tjenesten Utvidet Brukerstøtte med inntil 30 henvendelser pr mnd. Denne oppføringen i systemoversikten er fordi SA ønsker et område å lagre sin dokumentasjon på ASK. "
+SYS_Fag_00119,ApplicationComponent,BKsak,"Saksbehandlings og arkivsystem for Bergen kommune som erstattes av Bk360 og det meste av løsningen skal overføres til Byarkivet utover i 2018. 
+BKSAK skal benyttes videre av Plan og – bygningsetaten frem til sommer 2019."
+SYS_Fag_00140,ApplicationComponent,BKSAK i Sikker sone,"BKOppvekst i Sikker Sone. (Elevmapper, barnehagebarn)
+"
+SYS_Fag_00228,ApplicationComponent,BOEI for EBF - Testmiljø,"Testmiljø for BOEI. BOEI er et system som ivaretar forvaltningen av utleieboliger og eiendommer for kommuner. Hovedfokus er boligadministrasjonsdelen, f. eks. leieobjektsinformasjon (over 5000 stk.), kontrakter, leieforhold, oppsigelser, fakturering, innbetaling, purring og leiejusteringer. BOEI er integrert med systemet for drift og vedlikehold av eiendomsmassen, Portico for EBF. "
+SYS_Fag_00225,ApplicationComponent,BOEI for Etat for boligforvaltning (EBF),"BOEI er et system som ivaretar forvaltningen av utleieboliger og eiendommer for kommuner. Hovedfokus er boligadministrasjonsdelen, f. eks. leieobjektsinformasjon (over 5000 stk.), kontrakter, leieforhold, oppsigelser, fakturering, innbetaling, purring og leiejusteringer. BOEI er integrert med systemet for drift og vedlikehold av eiendomsmassen, Portico for EBF. Systemet består av en pc-programpakke og en database. "
+SYS_Fag_00012,ApplicationComponent,BoInfo Test,"Testløsning for BoInfo, system for behandling og oppfølging av søknader, også informasjonssystem for all saksbehandling vedrørende håndtering av søknader om bolig, kommunal bostøtte, trekkhåndtering statlig bostøtte og finansiering samt utbetaling og oppfølging av lån."
+SYS_Fag_00011,ApplicationComponent,BoInfo_prod,"System for behandling og oppfølging av søknader, også informasjonssystem for all saksbehandling vedrørende håndtering av søknader om bolig, kommunal bostøtte, trekkhåndtering statlig bostøtte og finansiering samt utbetaling og oppfølging av lån.
+
+Boligetaten er en bydekkende tjeneste som omfatter tildeling av kommunale utleieboliger, boligfinansiering, kommunal bostøtte og statlig bostøtte. Tjenesten retter seg mot husstander som er vanskeligstilte på boligmarkedet, og som vil motta varierte tjenester."
+SYS_Fag_00388,ApplicationComponent,Bookit.no,
+SYS_Fag_00013,ApplicationComponent,braArkiv,BraArkiv er en åpen og integrasjonsvennlig løsning for lagring og gjenfinning av data.
+SYS_Fag_00014,ApplicationComponent,braArkiv testmiljø,braArkiv sitt dedikerte testmiljø
+SYS_Fag_00015,ApplicationComponent,Brannvegg BIBSYS,Brannvegg BIBSYS er den dedikerte brannveggen i BK-nettverket for at skolene skal kunne nå biblioteksystemet som ligger i Bergen bibliotek sitt eget nettverk. 
+SYS_Fag_00417,ApplicationComponent,Brettboka,
+SYS_Fag_00017,ApplicationComponent,Brief-P SP,Scoringsprogram for bruk i PP-tjenesten
+SYS_Fag_00313,ApplicationComponent,Brukerstøtte Adgangskontrollsystem (Starwatch),"Helpdesk skal utføre dedikerte tjenester i systemet på bestilling. Helpdesk mottar bestillingen fra autorisert bestiller via Bestillingsweb. Ansvar for utførelse fordeles mellom autorisert bestiller, EDD og sikkerhetsenheten. "
+SYS_Fag_00133,ApplicationComponent,Brukerstøtte Agresso HR,"Agresso HR er Bergen kommune sitt lønns- og HR-system. I tillegg til lønn inkluderer systemet en rekke andre HR-prosesser som rekruttering, oppstart og arbeidsavtaler, fravær og refusjon, samt medarbeideroppfølging og rapportering. 
+IKT Drift ved Helpdesk har 1. linje brukerstøtte på HR-systemene. "
+SYS_Fag_00312,ApplicationComponent,Brukerstøtte BkProsjekt,"Helpdesk skal gi tilganger til BkProsjekt, veilede brukere innenfor FAQ og henvise brukere til opplæringsmateriell og brukerveiledninger. BkProsjekt er en sharepointløsning i skyen, levert av Microsoft og driftes av Microsoft. EDD har synkronisering mellom AD-ene for løsningene og singleSignOn mot Azure AD. Helpdesk leverer tjenesten Utvidet Brukerstøtte med inntil 30 henvendelser pr mnd. "
+SYS_Fag_00243,ApplicationComponent,Brukerstøtte Byfjell (brukeradm),"""Kjøretillatelser i byfjellene"" (Byfjell-applikasjonen) er en applikasjon for administrasjon av kjøretillatelser i byfjellene i Bergen, som til dels fungerer som en slags front-end for saks-arkivsystemet, BkSak. Søknader om midlertidig kjøretillatelse kan godkjennes eller avslås. Det lages et svar-dokument som arkiveres i BkSak og som sendes til søker via SvarUt – fortrinnsvis på epost (hvis epost-adressen er kjent). Byfjell er en applikasjon i SOA. 
+"
+SYS_Fag_00239,ApplicationComponent,Brukerstøtte FastSend (brukeradm),"Overføring av store filer. Helpdesk skal være SPOC for alle typer henvendelser vedr. FastSend, herunder administrere brukere i FileFlow sitt web-konsoll"
+SYS_Fag_00180,ApplicationComponent,Brukerstøtte Kemneren,"Kemneren i Bergen har utvidet brukerstøtte fra EDD for sine løsninger.
+Egne rutiner er utarbeidet for Procasso og BOEI, de finnes på ASK under fagsystem.
+I tillegg er det etablert overvåking av kommunikasjon mot Procasso (ASP-løsning);
+gjelder feil ved VPN – forbindelse mot Procasso og om Procasso svarer på nettkall.
+EDD har administrasjon av mal-brukere for Kemner.
+Pris er basert på 5 henvendelser pr. mnd."
+SYS_Fag_00266,ApplicationComponent,Brukerstøtte KS Læring 1.linje,"Løsning for administrasjon av, og påmelding til kurs og arrangementer i kommunal regi. BK Læring er en del av KS Læring (ASP-løsning), som tilbyr kurs for ansatte i kommunene. Helpdesk har brukerstøtte for BK Læring."
+SYS_Fag_00249,ApplicationComponent,Brukerstøtte Lovdata Pro (brukeradm),"Lovdata Pro gir tilgang til rettskilder, registre og rettsområder på internett via nettleser. Alle ansatte i Bergen kommune kan bli registrert  som personlig bruker av tjenesten.
+IKT Drift har ikke brukerstøtte på systemet. IKT Drift håndterer tilganger og årlig fakturering. 
+Hjelp og informasjon om systemet finner du her:  https://lovdata.no/pro/#article&url=/info/hjelpeside_for_lovdata_pro (krever innlogging)."
+SYS_Fag_00265,ApplicationComponent,Brukerstøtte Performit,"""Brukerstøttetjenester fra Helpdesk på Performit"""
+SYS_Fag_00250,ApplicationComponent,Brukerstøtte Rettsdata Total (Brukeradm),"Rettsdata Total gir samlet tilgang til oppdaterte rettskilder, lovkommentarer fra Norsk Lovkommentar, praktiske dokumenter, fagbøker og tidsskrifter.  internett via nettleser. Alle ansatte i Bergen kommune kan bli registrert  som personlig bruker av tjenesten.
+IKT Drift har ikke brukerstøtte på systemet. IKT Drift håndterer tilganger og årlig fakturering. 
+"
+SYS_Fag_00161,ApplicationComponent,Brukerstøtte Tjenestekatalogen (NTK),Tjenestekatalogen er en løsning for definering av kommunale tjenester ut mot innbyggerne i Bergen kommmune. Drift av løsningen inngår i SLA for Innbyggerportalen.
+SYS_Fag_00261,ApplicationComponent,Brukerstøtte VISGI ,"Brukerstøttetjenester fra Helpdesk på fagsystemet VISGI (VIS Geografisk Informasjon). Helpdesk skal utføre 1. og 2. linje brukerstøtte for fagsystemet.  
+1. linje Helpdesk bistår innmelder og dersom saken ikke løses ved første henvendelse, overføres saken til 2. linje på Helpdesk. Ny behov, feil og ønsker i løsningen sendes til 3. linje hos Plan og Geodata, fra Helpdesk. "
+SYS_Fag_00179,ApplicationComponent,Brukerstøtte_Værstasjoner,"IKT Drift registrere og videreformidle henvendelser vedr de 50 værstasjonenen som er utplassert  til bruk i grunnskolene i BK.  Værstasjonene er utplassert hovedsakelig på skoler, og værdata brukes i undervisningen i grunnskolen"
+SYS_Fag_00353,ApplicationComponent,Byggforsk,
+SYS_Fag_00354,ApplicationComponent,Byggtjenester,
+SYS_Fag_00309,ApplicationComponent,Cactus-data til T/U-nettet ,"Løsning for å sende data fra Cactus(SCADA)-nettet inn til T/U-nettet. Det er etablert OPC servere i henholdsvis Cactus-nettet og i T/U-nettet. OPC serverne håndterer datautvekslingen.  Brannmur er satt opp foran Cactus-nettet til Bergen Vann og sørger for integrasjonen mellom Cactus-nettet og T/U-nettet. Bergen Vann ivaretar selv driften av denne brannmuren.   
+Data skal kun kunne sendes fra Cactus-nettet og inn til T/U-nettet. Det skal ikke sendes data fra T/U-nettet til Cactus-nettet. Under avlevering har PL opplyst at det ikke skulle være SLA-avtale på dette systemet.
+"
+SYS_Fag_00391,ApplicationComponent,Cale Web Office,
+SYS_Fag_00418,ApplicationComponent,Campus Inkrement ,
+SYS_Fag_00419,ApplicationComponent,Cappelen Damm Undervisning,
+SYS_Fag_00019,ApplicationComponent,CBCL,Kartleggingssystem som benytte av PPT-kontorene
+SYS_Fag_00408,ApplicationComponent,Chatroboten Kari,
+SYS_Fag_00364,ApplicationComponent,Complete Control,
+SYS_Fag_00356,ApplicationComponent,Conexus Engage,
+SYS_Fag_00021,ApplicationComponent,Corporater Prod,"Corporater er Bergen kommunes verktøy for mål- og virksomhetsstyring. Det omfatter webbasert sluttbrukergrensesnitt, administratormodul ""Corporater EPM-suite"". Corporator er tett integrert med Surveyor, som benyttes ifm distribusjon av brukerundersøkelser internt og eksternt"
+SYS_Fag_00022,ApplicationComponent,Corporater Test,Testløsning felles for Corporater og Surveyor
+SYS_Fag_00275,ApplicationComponent,Deltager.no,Brukerstøtte Deltager.noHelpdesk brukerstøtteCa. 10 henvendelser med gjennomsnittlig forbrukt tid pr. sak på 6 minutter
+SYS_Fag_00420,ApplicationComponent,Den Virtuelle matematikkskolen,
+SYS_Fag_00268,ApplicationComponent,Digital medarbeider i intern sone,"Digital medarbeider i intern sone er det miljøet som tilsammen lar en digital medarbeider utføre operasjoner i programvare på en arbeidsstasjon av en robotbruker. Løsningen er basert på software fra Blue Prism, levert og programmert av Bouvet/AVO Consulting. SDI ved Kjersti Steindal er prosessadmininstrator og avgjør hvilke prosesser som skal automatiseres. 
+"
+SYS_Fag_00288,ApplicationComponent,Digital medarbeider i sikker sone ,"Digital medarbeider i sikker sone er applikasjonen som kjører Digitale medarbeidere i produksjonsmiljøet til Sikker sone. Monotone operasjoner i programvare blir utført på en arbeidsstasjon av en robotbruker. Løsningen er basert på software fra Blue Prism, levert og programmert av Bouvet/AVO Consulting. SDI ved Kjersti Steindal er prosessadmininstrator og avgjør hvilke prosesser som skal automatiseres. Digital medarbeider i Sikker sone er produksjonsmiljø for ""Digifrid"" i sikker sone.
+"
+SYS_Fag_00285,ApplicationComponent,Digital medarbeider i T/U for Intern sone testing,"Digital medarbeider i T/U for intern sone er testmiljø for Digitale medarbeidere som skal produksjonssettes i ADM-nettet i Bergen kommune. Monotone operasjoner i programvare blir utført på en arbeidsstasjon, av en robotbruker. Løsningen er basert på software fra Blue Prism, levert og programmert av Bouvet/AVO Consulting. SDI ved Kjersti Steindal er prosessadmininstrator og avgjør hvilke prosesser som skal automatiseres. 
+"
+SYS_Fag_00295,ApplicationComponent,Digital medarbeider i T/U for Sikker sone testing,"Digital medarbeider i T/U for sikker sone er dedikert testmiljø for Digitale medarbeidere som skal produksjonssettes i Sikker sone. Monotone operasjoner i programvare blir utført på en arbeidsstasjon av en robotbruker. Løsningen er basert på software fra Blue Prism, levert og programmert av Bouvet/AVO Consulting. SDI ved Kjersti Steindal er prosessadmininstrator og avgjør hvilke prosesser som skal automatiseres."
+SYS_Fag_00269,ApplicationComponent,Digitalt sikringsmagasin (DSM) byarkivet,"Bergen byarkiv - digitalt sikringsmagasin. Løsningen er plassert Spelhaugen, med en server i Hansahallen, der offline lagring og operativ bruk legges til Hansahallen.  Vil håndtere systemer fra både sikker og intern sone, samt fra eksterne kunder."
+SYS_Fag_00345,ApplicationComponent,Dossier,
+SYS_Fag_00238,ApplicationComponent,Driftsavtale Bergen Parkering as,"Avtalen baserer seg på Driftsavtale for kjøp av IKT-tjenester i Bergen kommune ut i fra at Kunde er en del av konsernet. Kunde vil som en følge av dette også være underlagt de generelle sikkerhetskrav og retningslinjer gitt av Bergen kommune i dag. 
+
+Priser og leveringsbetingelser oppgitt i denne avtale følger av utarbeidede retningslinjer for kommunale aksjeselskap og justeres årlig uavhengig av denne avtale. Årlige prisendringer varsles våre kunder direkte samt i våre prislister på intranett.  "
+SYS_Fag_00378,ApplicationComponent,Dropbox,
+SYS_Fag_00245,ApplicationComponent,DSB-CIM SingelSignOn + Helpdesktjenester,"DSB-CIM for beredskapsarbeid i Bergen kommune er en tjeneste lervert av OneVoice, lokalisert i Trondheim. EDD leverer en Singel Sign On-løsning til dette systemet. Tjenesten består av fast overføring av brukere til 3. parts leverandør, som drifter løsningen.  Roller i systemet blir etablert av dem, basert på definerte AD-grupper i Bergen kommune.  Bestillingsskjema for tilganger er etablert på Bestillingsweb. 
+"
+SYS_Fag_00025,ApplicationComponent,eBC - Business case,"Elektronisk databaseløsning for kartlegging, registrering og kontroll av Business Case. Businesscase beskriver behov for et IKT-prosjekt i Bergen kommune, og danner grunnlaget for IKT Handlingsplan. Formålet med systemet er å holde oversikt over planlagte og pågående IKT-prosjekter i Bergen kommune."
+SYS_Fag_00299,ApplicationComponent,eDialog,Verktøy for nettprat/chat mellom Bergen kommune og innbyggere i Bergen kommune
+SYS_Fag_00026,ApplicationComponent,eDoc løsning,Løsning for utvikling av skjema til bruk i innbyggerportalen
+SYS_Fag_00027,ApplicationComponent,eDoc løsning TEST,Testløsning for eDoc- Løsning for utvikling av skjema til bruk i Portalen
+SYS_Fag_00365,ApplicationComponent,Educatia,
+SYS_Fag_00317,ApplicationComponent,"eFeide Sync, inklusiv utvidet brukerstøtte","eFeide-løsning for Bergen kommune. Etablering og dokumentasjon av løsning og tjeneste. Etter endring desember 2017 driftes systemet av leverandør Identum. Løsningen skal fortsatt opprettholde at autentisering av elevnettet i Bergen kommune går via eFeide sin autentiseringsløsning. Kunde ønsker at EDD overtar support,  oppfølging og koordinering av feil som oppstår i skjeringen mellom Identum/EDD "
+SYS_Fag_00028,ApplicationComponent,Eiendomsøk,Løsningen inneholder oversikt over kommunale avgifter på eiendommer i BK
+SYS_Fag_00192,ApplicationComponent,EKG apparater - BHO,"System for å samle data fra EKG - apparater av merket Spirare. ""EKG-apparater - BHO"" gjelder Bergen Legevakt, Legevaktstasjonen i Åsane, Fana, Loddefjord og Bergen Fengsel. Systemet er integrert med Profdoc Vision.  "
+SYS_Fag_00255,ApplicationComponent,EKG for ØHD,"EKG-løsning og spirometri-løsning for ØHD-posten. Apparatene er av merket Spirare  og systemet er satt opp med en felles database for data fra 2 ulike spirare-apparater tilrettelagt for ØHD-posten, knyttet mot Profdoc Vision for ØHD/Smittevern. "
+SYS_Fag_00030,ApplicationComponent,Elektra Kofax ,"Systemet innholder av Bergen kommunes rørleggerarkiv og bildearkiv med oppslagsfunksjoner og linking direkte fra Gemini VA. 
+Dokumenter scannes til digitale bilder eller lastes opp fra digitale filer.
+FotoWeb er innsynsløsning for bildefiler og er tilgjengelig fra intern sone. 
+Rørleggerdokumenter blir skannet og data blir lagt inn i en SQL database(ELEKTRA). Programmet ColorFactory fra Fotoware er installert på dedikert server. Dette programmet henter skannede dokumenter og metadata fra ELEKTRA database og ""syr"" disse sammen til ferdige bildefiler. Ferdige bildefiler blir lagt på en server i DMZ sone, hvor også Fotoware produktene IndexManager og FotoWeb er installert. IndexManager er indexseringsmotoren for bildefiler. FotoWeb er innsynsløsning for bildefiler og skal være tilgjengelig fra intern sone.
+
+Det er åpnet opp tilgang for systemkoordinator til å administrere deler av programmet og brukere.
+"
+SYS_Fag_00298,ApplicationComponent,Elektronisk skjema,Brukerstøttetjeneste - Elektronisk skjema
+SYS_Fag_00409,ApplicationComponent,Elektronisk tinglysning (eiendom),
+SYS_Fag_00301,ApplicationComponent,eLås-administrasjonssystem PROD,"eLås er en applikasjon/tjeneste for bruk av elektroniske nøkler i dører hos personer som har et hjelpebehov fra kommunal tjeneste. Systemet består av sentral infrastrutur med data og administrasjonssystem hos EDD og app-er på mobile enheter, distribuert via mobiladministrasjonssystemet. Appene på mobilene kommuniserer via Bluetooth med dørlåsen. Leverandør er Atea, med Heikki Bruvik og BeKey i Danmark som underleverandør. BeKey har utviklet og leverer systemet. Tid for support og tilrettelegging i app-ene timeføres, da de ikke har en fast driftstpris slik som Fagsystemet eLås-administrasjonssystem.  "
+SYS_Fag_00302,ApplicationComponent,eLås-administrasjonssystem TESTmiljø,"Dedikert testmiljø for eLås Administrasjonssystem. eLås er en applikasjon/tjeneste for bruk av elektroniske nøkler i dører hos personer som har et hjelpebehov fra kommunal tjeneste. Systemet består av sentral infrastrutur med data og administrasjonssystem hos EDD og app-er på mobile enheter, distribuert via mobiladministrasjonssystemet. Appene på mobilene kommuniserer via Bluetooth med dørlåsen. Leverandør er Atea, med Heikki Bruvik og BeKey i Danmark som underleverandør."
+SYS_Fag_00366,ApplicationComponent,Excelark med kompetanseoversikt,
+SYS_Fag_00034,ApplicationComponent,Extens,"Administrasjonssystem for barnehager og skoler, her registreres bl.a betalingsinfo, karakterer, ulike tilbud ( barnhage/ SFO), personalopplysninger, fag "
+SYS_Fag_00401,ApplicationComponent,Facebook (i skolene),
+SYS_Fag_00421,ApplicationComponent,Fagbokforlagets e-portal ,
+SYS_Fag_00035,ApplicationComponent,Familia,"Saksbehandler- og administrativt system for barnevernstjenesten.
+Unique Familia er et saksbehandler- og administrativt system for barnevernstjenesten i Bergen Kommune. Løsningen ivaretar alle deler av saksbehandlingsprosessen med tilhørende maler, i tillegg til å støtte offentlig rapportering og statistikk.  
+Unique Familia er satt opp med integrasjon mot Agresso, NLP, Statistisk Sentralbyrå og Telebank. I tillegg har Unique Familia et rapporterings-/analysemiljø basert på Microsoft 2005 SQL med Analyse Service som henter styringstall og rapporter fra Familia ut i fra behov, uavhengig av standardrapporte
+"
+SYS_Fag_00322,ApplicationComponent,Familia barnevernsvakten,"Familia barnevernsvakten. Fagsystem med driftsnivå 2, erstatter Vaktdata"
+SYS_Fag_00244,ApplicationComponent,Familia EMFO (Enslige Mindreårige Flyktningers Omsorgsbase),Barneverns-system flyktninger
+SYS_Fag_00036,ApplicationComponent,Familia test,Testløsning for Familia. Saksbehandler- og administrativt system for barnevernstjenesten.
+SYS_Fag_00037,ApplicationComponent,Fastmerkeregisteret,"System for registrering av varig merkede punkt med koordinater bestemt i et geodetisk system, benyttes ved kartlegging og måling.Fastmerkeregisteret er et skjema i oracledatabasen gmiprod for Gemini. "
+SYS_Fag_00038,ApplicationComponent,Fellesdata prod,"Fellesdata er en løsning for å samle, strukturere, kvalitetssikre og tilgjengelig-gjøre ansatt- og virksomhetsinformasjon. Fellesdata er knyttet mot flere offentlige registre."
+SYS_Fag_00039,ApplicationComponent,Fellesdata test,"Fellesdata er en løsning for å samle, strukturere, kvalitetssikre og tilgjengeliggjøre ansatt- og virksomhetsinformasjon. Fellesdata er knyttet mot flere offenlige registre."
+SYS_Fag_00126,ApplicationComponent,Forskrivningsmodulen (eResept)  for BLV,"Program utviklet av Helsedirektoratet, knyttet opp mot Profdoc for utskriving av resepter og elektronisk overføring av resepter i Norsk Helsenett Produksjonsmiljø er felles for BLV, Fengselshelsetjenesten og Smittevern og består av 2 applikasjonsservere dedikert eResept-løsningen, samt andel DB-servere. Inkludert i SLA-vedlegg for Profdoc for legevaktene. "
+SYS_Fag_00127,ApplicationComponent,Forskrivningsmodulen (eResept) for BLV og legevaktstasjonene TESTmiljø,"Testmiljø for E-resept mot Profdoc. BLV, Legevaktstasjonene, Smittevern og Fengselshelsetjenesten deler testmiljø, med hver sine dedikerte baser. Andel servere fordeles med 1,5 for BLV og legevaktstasjonene, samt 0,25 DB-server. De andre får 0,5 testserver og hver sin andel DB-server (2 stk)."
+SYS_Fag_00194,ApplicationComponent,Forskrivningsmodulen (eResept) for Fengselshelsetjenesten og ØHD/Smittevern,"Program utviklet av Helsedirektoratet, knyttet opp mot Profdoc for utskriving av resepter og elektronisk overføring av resepter i Norsk Helsenett Produksjonsmiljø er felles med BLV, Fengselshelsetjenesten og ØHD/Smittevern og består av 2 applikasjonsservere dedikert eResept-løsningen, samt andel DB-servere. Fengselshelstjenesten belastes 0,25 applikasjonsserver og 0,25 DB-server, det samme gjelder ØHD/Smittevern. "
+SYS_Fag_00129,ApplicationComponent,Forvaltning av avtale for kopi- og utskriftstjenester,"Avtale for spesifisering av operativ forvaltning av avtale om leveranse av kopi og utskriftstjenester i Bergen kommune
+Systemkoordinator for print/kopi/scan er Lisbeth Skodvin."
+SYS_Fag_00272,ApplicationComponent,Forvaltning av DT - avtalen ,"Forvaltning av DT – avtalen- EQS 042-2014. Datakommunikasjon og Telefonitjenester.
+Avtalen gjelder Transportnett, Internettaksess, Fasttelefon og Mobiltelefoni
+EDD skal forvalte avtalen med 3. part,TDC
+
+Varighet 1.7. 2016 til 31.6. 2022 med opsjon i ytterligere 3 år. Totalt max 9 år.
+"
+SYS_Fag_00146,ApplicationComponent,Forvaltning av rammeavtale -  Mobil og nettbrett," Dette avtalevedlegget inngås for å spesifisere operativ forvaltning for avtale med 3. part, fastsatt til «EQS 046-2016 Rammavtale mobil og nettbrett» inngått mellom Bergen Kommune og Nordialog, se BKsak 201726701. Gjelder kjøp av IKT –utstyr under kr. 1 500 000,-. Beløp over kr. 1 500 000,- skal ut på DPS.
+ 
+
+
+
+      
+Dette avtalevedlegget inngås for å spesifisere operativ forvaltning for avtale med 3. part, fastsatt til «EQS 046-2016 Rammavtale mobil og nettbrett» inngått mellom Bergen Kommune og Nordialog, se BKsak 201726701. Gjelder kjøp av IKT –utstyr under kr. 1 500 000,-. Beløp over kr. 1 500 000,- skal ut på DPS.
+ 
+
+"
+SYS_Fag_00156,ApplicationComponent,Forvaltning av rammeavtale for AV-utstyr,"Operativ forvaltning av rammeavtalen for kjøp av audio-visuelt utstyr. 
+EØS 032-2008   «Rammeavtale for AV-utstyr» med 3. part
+"
+SYS_Fag_00155,ApplicationComponent,Forvaltning av rammeavtale PC,"Dette avtalevedlegget inngås for å spesifisere operativ forvaltning for avtale med 3.part, fastsatt til «Rammeavtale for kjøp av IKT-utstyr (under 1 500 000)» med ATEA AS. Kjøp som foretas utenfor gjeldende «Rammeavtale for kjøp av IKT-utstyr (under 1 500 000)» dekkes ikke av dette SLA-vedlegget. 
+
+Avtalen som skal forvaltes er en rammeavtale Bergen kommune ved IKT Konsern har inngått med 3. part for anskaffelser av IKT-utstyr og definerte tjenester i tilknytning til dette for sluttbrukere."
+SYS_Fag_00153,ApplicationComponent,Forvaltning av TEK avtalen ,"Operativ forvaltning av ""Drift av Telefonsentraler,ekspidientstøtte og kontaktsenter"" med 3.part"
+SYS_Fag_00040,ApplicationComponent,FotoWeb/ BK Bilde,System for lagring og arkivering av multimedia filer
+SYS_Fag_00372,ApplicationComponent,FRAMSIKT,
+SYS_Fag_00162,ApplicationComponent,Fürst Forum,"Fürst Forum er et nettbasert verktøy som sikrer samspillet mellom legekontor og laboratoriet, ved elektronisk rekvirering og svarrapportering."
+SYS_Fag_00164,ApplicationComponent,GATturnus,"System for registrering, rapportering, oppfølging av turnusinformasjon, kompetanse og ansettelsesforhold"
+SYS_Fag_00041,ApplicationComponent,GBD (Geriatrisk Basis Datasett) PROD,Journal- og kvalitetssikringssystem for kommunale sykehjem. Utveksler også meldinger via DIPS og Norsk Helsenett.
+SYS_Fag_00257,ApplicationComponent,GBD (Geriatrisk Basis Datasett) TEST,Journal- og kvalitetssikringssystem for kommunale sykehjem. Testmiljø
+SYS_Fag_00042,ApplicationComponent,Gemini,"Gemini er et verktøy som samler mange kommunaltekniske oppgaver i egne moduler, bl.a. Melding, Varsling, Forvaltning, VA og Kunde. Gemini består av flere programmoduler, som igjen inneholder ulike programmer.
+Gemini Melding - består av Gemini Melding og Gemini Varsling 
+Gemini Forvaltning -  består av Gemini Slam, Gemini Vannmåler, Gemini Sanitær og Gemini Indsys
+Gemini Kunde - brukes av Vako for avvikshåndtering av data
+Gemini VA - eget system
+Geminisystemene er ikke fagsystemer som er installert sentralt. Programvare for de ulike programmene er installerte på Arbeidsstasjoner eller terminalservere. Det er Oracle-databasene som ligger installert på sentrale servere. 
+
+Gemini VA er et system for forvaltning og dokumentasjon av VA nett, og inkluderer GIS-funksjoner for synliggjøring og analyse. "
+SYS_Fag_00252,ApplicationComponent,Gemini feltarbeid,"Gemini feltarbeid for bestilling og rapportering av tømming av slamavskillere, samspill med Gemini Slam"
+SYS_Fag_00122,ApplicationComponent,Gemini melding på Web,"System for at kommunens innbyggere kan melde feil via internett direkte inn i Gemini Melding. Løsningen nås via kommunens portalløsning og har i tillegg egne internett-adresser: http://www.feilmelding.bergen.kommune.no/
+http://feilmelding.bergen.kommune.no/
+"
+SYS_Fag_00123,ApplicationComponent,Gemini Melding på Web testmiljø,Testmiljø for Gemini Melding på Web. 
+SYS_Fag_00251,ApplicationComponent,Gemini portal med AD pålogging,"Gemini portal med AD pålogging.
+Bruker AD- pålogging som sikring. Gir elektroniske arbeidsbøker på web for Bergen Vann.
+Leverandøren Powell har via agent adgang til å pushe ut ny versjon 24/7, men skal kun gjøre dette etter avtale med systemeier og EDD."
+SYS_Fag_00307,ApplicationComponent,Gemini skjemamottak VA,"Løsning med skjema for innmelding av saker og dokumentasjon av disse.
+VA tenker bruke samme server som Powel ellers bruker for kommunikasjon mot internett."
+SYS_Fag_00043,ApplicationComponent,Gemini Vannmåler,Benyttes av BBKM for å registrere standen på vannmåler via en web-løsning. 
+SYS_Fag_00059,ApplicationComponent,GisLine Matrikkel,"System levert av Norkart AS som inneholder kart- og eiendomsdata i Bergen kommune. Omfatter nettleserbasert innsynsløsning (Gisline WebMatrikkel) og FDV-løsning for matrikkelen. Er en lokal versjon av sentral matrikkel som forvaltes av Kartverket.
+"
+SYS_Fag_00044,ApplicationComponent,GisLine med QMS,"System for forvaltning av digital geografisk informasjon (vektordata) levert av Norkart AS. Benyttes i hovedsak til forvaltning av FKB-data og plandata. Synkroniseres mot eksterne off.etater. 
+"
+SYS_Fag_00379,ApplicationComponent,Google Analytics (BOB),
+SYS_Fag_00045,ApplicationComponent,G-Prog Beskrivelse,"Verktøykasse ved prosjekteringsoppgaver i kommunen. Følger Norsk Standard for kommunikasjon, dokumentasjon og beregningsregler. Dette fagsystemet er kun til for programpakken G-Prog Beskrivelse (Grønn Etat). Det dekker altså ikke den andre programpakken G-Prog Link."
+SYS_Fag_00357,ApplicationComponent,Gsuite,
+SYS_Fag_00300,ApplicationComponent,Gurosoft,Rapporteringsløsning for VA
+SYS_Fag_00422,ApplicationComponent,Gyldendal.no,
+SYS_Fag_00392,ApplicationComponent,Halo,
+SYS_Fag_00143,ApplicationComponent,Handyman (prod),"ePocket Handyman er software for håndholdte enheter. Utfører registrerer tidsforbruk, materiell og utførte tjenester ute hos kunden. Handyman er en ”offline”-løsning som betyr at programmet også fungerer i områder uten mobil dekning. Handyman lagrer data og sender det automatisk når nettverket blir tilgjengelig igjen. Løsningen gir mulighet for økt produktivitet og mindre administrasjon. Dette SLA – vedlegget gjelder av ePocket Handyman i produksjon.  Løsningen brukes av Etat for bygg og eiendom. De håndholdte enhetene om benyttes mot fagsystemet for Handyman ivaretas av kunde."
+SYS_Fag_00284,ApplicationComponent,Helge tester,test
+SYS_Fag_00047,ApplicationComponent,Historisk arkiv og Innsynsløsning,"Historisk arkiv og innsynsløsning er en elektronisk løsning for sikring, bevaring og tilgjengeliggjøring av historiske elektroniske arkiv i Bergen kommune. "
+SYS_Fag_00139,ApplicationComponent,Historisk arkiv og Innsynsløsning i Sikker sone,"Historisk arkiv og innsynsløsning for systemer som har vært på sikker sone og som inneholder sensitive data. Sikring, bevaring og tilgjengeliggjøring av data."
+SYS_Fag_00081,ApplicationComponent,HK Oppvekst ,"Saksbehandlersystem for PP-tjenesten, inneholder klientkartotek og journaler"
+SYS_Fag_00355,ApplicationComponent,Holte,
+SYS_Fag_00048,ApplicationComponent,HsPro,"Pasientjournalsystem for helsestasjoner og skolehelsetjenesten inkludert VismaLink for Hspro.
+HsPro benyttes på helsestasjoner/legekontor og skolehelsetjenesten, også på private skoler, samt Integrasjonssenter for flyktninger og IFK, helsetjenester for barn og unge. Systemet inneholder pasientjournal og har meldingsutveksling mot Sysvak - vaksineoverføringer til nasjonalt system, via Vismalink. Chrome er pakket spesifikt for løsningen pga avhengigheter.
+"
+SYS_Fag_00049,ApplicationComponent,HsPro Test,Testløsning for HsPro
+SYS_Fag_00423,ApplicationComponent,iMal,
+SYS_Fag_00223,ApplicationComponent,Infoskjerm - Quickinfo PortalX,"Tjenesten gir enheter i BK mulighet for å sette opp og administrere innholdet på infoskjermer, som er rettet mot egne ansatte eller publikum. Løsningen består av endeutstyr med en lokal komponent som er selve skjermen og en Mini-PC (for montering bak på skjermen), i tillegg til servere og sentrale komponenter for innholdsadministrasjon Sentralisert programvare, Quickinfo PortalX og PowerPoint WebPro plugin, er installert hos og driftes av IKT Drift. "
+SYS_Fag_00352,ApplicationComponent,Infront,
+SYS_Fag_00231,ApplicationComponent,Innbyggerportal_Escenic og Allmenningen_prod,"Innbyggerportalen (www.bergen.kommune.no) og intranettportalen (Allmenningen) for ansatte i Bergen kommune (allmenningen.bergen.kommune.no) er hovedverktøyet for informasjonsformidling, tjenesteformidling og samhandling med kommunens målgrupper (innbyggere, organisasjoner, næringsliv og ansatte). Også kalt ""PORTALEN"".
+Allmenningen har driftsnivå 2- se SLA - vedlegg
+"
+SYS_Fag_00232,ApplicationComponent,Innbyggerportal_Escenic og Allmenningen_TEST,"Innbyggerportalen (www.bergen.kommune.no) og intranettportalen (allmenningen) for ansatte i Bergen kommune (allmenningen.bergen.kommune.no) er hovedverktøyet for informasjonsformidling, tjenesteformidling og samhandling med kommunens målgrupper (innbyggere, organisasjoner, næringsliv og ansatte)."
+SYS_Fag_00297,ApplicationComponent,Invoice Online,"Invoice Online er et system, levert av TDC, hvor Bergen kommune administrerer mobil- og fasttelefonabonnement."
+SYS_Fag_00314,ApplicationComponent,IST Barnehage,Administrasjonssystem for barnehagene i Bergen kommune
+SYS_Fag_00393,ApplicationComponent,ISY Park,
+SYS_Fag_00267,ApplicationComponent,ISY Prosjektøkonomi,ISY Prosjektøkonomi er et system for styring av prosjekter og økonomien i disse. Systemet brukes av VA-etaten og Etat for Utbygging for styring av deres prosjektportefølje. Systemet mottar bokførte transaksjoner på fil hver natt fra Agresso økonomi. 
+SYS_Fag_00340,ApplicationComponent,ISY Prosjektøkonomi skyløsning,"ISY Prosjektøkonomi er et system for styring av prosjekter og økonomien i disse. Systemet brukes av VA-etaten og Etat for Utbygging for styring av deres prosjektportefølje. I Agresso er det laget en spørring som lager tre filer med bokførte transaksjoner (bilagsdata) hver natt – en pr avdeling (VA, EFU og BME). Filene flyttes til et FTP-område pr avdeling."
+SYS_Fag_00412,ApplicationComponent,ItsLearning,
+SYS_Fag_00279,ApplicationComponent,Jenkins inkl app.server for SDI_utviklere,"Utviklingsløsning for SDI. Egen Jenkins-server med fulle rettigheter for utviklerne, og virtuell server med GIT, RPM-Repo, Artifactory. Virtuell server (driftsnivå 2), Jenkins er type serverhosting, der all bistand skal faktureres."
+SYS_Fag_00052,ApplicationComponent,Jira og Confluence,Oppgave- og prosjektoppfølgingssystem for IKT Konsern
+SYS_Fag_00170,ApplicationComponent,Jira til  BHO,"Brukerstøttemiljøet hos BHO  skal benytte JIRA for oppfølging av henvendelser fra brukere av fagsystemene Familia, Socio og HsPro"
+SYS_Fag_00292,ApplicationComponent,Junglemap,"System for nanolearning, i form av kortere kurs fra Junglemaps, eller egenlagde kurs. Integrasjon via Mellomlagringsløsning til Azure for SingleSignOn for alle ansatte i Bergen kommune. "
+SYS_Fag_00375,ApplicationComponent,Kameraovervåkning,
+SYS_Fag_00424,ApplicationComponent,Klassetrivsel.no,
+SYS_Fag_00167,ApplicationComponent,KomTek - Bergen Brannvesen,"Fagsystem for brannforebyggende avdeling, hvor en registrerer, rapporterer og generer gebyr for kommunens husstander (Feiing & Tilsyn). "
+SYS_Fag_00054,ApplicationComponent,KomTek Forvaltning_PROD Kemner,Takseringssystem for eiendomsskatt
+SYS_Fag_00142,ApplicationComponent,KomTek Forvaltning_test Kemner,Testbase for KomTek Forvaltning (eiendomsskatt)
+SYS_Fag_00242,ApplicationComponent,KomTek Miljørettet helsevern,"KomTek Miljørettet helsevern er et fagsystem og saksbehandlingssystem for komunens ansatte som jobber med miljørettet helsevern. Løsningen er integrert med Bergen kommunes arkiv, matrikkel, kart og Outlook/Office. Sentralt i løsningen er arbeidsprosesser som forenkler arbeidet med :
+Registrering av tilsynsobjekter
+Planlegging av tilsyn
+Oppfølging av tilsyn
+Dokumentasjon,rapportering, arkivering.
+"
+SYS_Fag_00320,ApplicationComponent,KS Autorisasjonsdata DB for FIKS plattform,"SQL DB for KS FIKS plattform, for lagring av autorisasjonsdata. Løsningen består av en DB i HA Databasehotell og en testdatabase.  "
+SYS_Fag_00316,ApplicationComponent,KS Deploy server for KS MinSide,KS Deployserver inneholder config for Caas-løsningen og tilgang til å deploye ny programvare på caas-løsningen. Den er etablert for å avlaste KS Jenkins-server og forbedre sikkerheten i MinSide-løsningen. 
+SYS_Fag_00319,ApplicationComponent,KS Elasticsearch for KS MinSide,"Elasticsearch for KS MinSide, er en kraftig søkemotor som benyttes for søk i Minside-løsningen.  Installasjon med 3 servernoder i cluster, installert på SLES. 
+Searchguard er installert på Elasticsearch og driftes av KS. Searchguard skiller ulike kunders data i søkene."
+SYS_Fag_00333,ApplicationComponent,KS Elasticsearch Testmiljø,"Testmiljø for KS Elasticsearch. Installasjon med 3 servernoder i cluster, installert på SLES. Searchguard er installert på Elasticsearch, denne er satt opp og driftes selv av KS. "
+SYS_Fag_00318,ApplicationComponent,KS Eventstore,Eventstore er en log database som lagrer data for minside og andre tjenester på Fiks platformen. Etablert som 3 servernoder i et cluster.
+SYS_Fag_00332,ApplicationComponent,KS Eventstore Testmiljø,"Testmiljø for KS Eventstore, som er en del av KS Minside. Eventstore er en log database som lagrer data for minside og andre tjenester på Fiks platformen. Etablert som 3 servernoder i et cluster."
+SYS_Fag_00305,ApplicationComponent,KS Læring,"Kursplattform som Bergen kommune kjøper hos KS, sammen med mange andre kommuner. Egne kurs legges under Bergne kommune og løsningen håndterer påmelding og oppstart av nettkurs. Helpdesk har brukerstøtte 1. linje på løsningen i en egen brukerstøtte-avtale."
+SYS_Fag_00329,ApplicationComponent,KS MinSide,"KS MinSide er en Container as a Service plattform (CaaS) for KS, som kjører på SUSE CaaS. KS Minside brukes av kommuner og andre til å kommunisere med innbyggere fra sine systemer. Benytter ID-porten til autentisering. Min Side bruker Eventstore og Elasticsearch i løsningen. "
+SYS_Fag_00286,ApplicationComponent,KS SvarUt Jenkins-server,"Filserver KS Svar_UT
+(Skal ha Nivå 2) + Forutsetninger."
+SYS_Fag_00303,ApplicationComponent,KS SvarUT Loggserver,"Loggserver for KSSvarUT og MinSide (MinSide er ikke prodsatt i skrivende stund 20180430.) Graylogg-server. 
+Kontaktperson er Idar Borlaug"
+SYS_Fag_00136,ApplicationComponent,KS_SvarUT Test,"Sentralisert løsning i for digitalisering av offentlige tjenester. Kommuner og fylkeskommuner kan benytte KS SvarUT for å sende brev til innbyggere, organisasjoner eller næringsliv elektronisk eller som papirbrev gjennom en sentral utskriftsløsning. Løsningen driftes av IKT Drift."
+SYS_Fag_00131,ApplicationComponent,KS_SvarUT_prod,"Sentralisert løsning i for digitalisering av offentlige tjenester. Kommuner og fylkeskommuner kan benytte KS SvarUT for å sende brev til innbyggere, organisasjoner eller næringsliv elektronisk eller som papirbrev gjennom en sentral utskriftsløsning. Løsningen driftes av IKT Drift. "
+SYS_Fag_00246,ApplicationComponent,KS-system for EFU (Spiterstulen),"KSefu, kvalitetssystem og prosjektportal for bygg og anlegg. Sharepointløsning."
+SYS_Fag_00425,ApplicationComponent,Kunnskap.no,
+SYS_Fag_00321,ApplicationComponent,Kyrkjekrinsen skole - skolekonsulent,"Lokaldrift leverer 2 dager pr mnd til Kyrkekrinsen skole med konsulenttjenester, der Lokaldrift utfører oppgaver på stedet etter behov og ønsker fra skolen relatert til IKT. SKolen melder saker på vanlig måte i Remedy.  "
+SYS_Fag_00380,ApplicationComponent,Last Pass,
+SYS_Fag_00426,ApplicationComponent,Lesemeister,
+SYS_Fag_00369,ApplicationComponent,Lokus - Aschehoug undervisning,
+SYS_Fag_00057,ApplicationComponent,Lydlogg for BLV,"Løsning som logger innkommende telefonsamtaler på noen didikerte nummer. Server driftes av Tele-com, EDD tar backup av den og har serverdrift sammen med Tele-com Bergen."
+SYS_Fag_00224,ApplicationComponent,Lync 2013,"Lync er en samhandlingsmodul i Office-pakken som blant annet gir deg følgende kommunikasjonsmuligheter; taleanrop, direktemeldinger, videosamtale og deling/samarbeid 
+Lync kan også benyttes på mobile enheter, pt kan dette kun benyttes av dem som har personlig kommunal PC. "
+SYS_Fag_00381,ApplicationComponent,Mailchimp,
+SYS_Fag_00427,ApplicationComponent,Mattemesteren,
+SYS_Fag_00060,ApplicationComponent,Meddommerregisteret,"System som gir oversikt over meddommere til tingretten og lagretten, samt skjønnsmenn og jordskiftemenn"
+SYS_Fag_00341,ApplicationComponent,Melin medical betalingsautomat,"Melin betalingsautomat, Bergen legevakt. Terminalen krever to reserverte IP-adresser, hvor begge må ha tilgang til NHN. Den ene IPen brukes til selve MMT-computeren i terminalen, som behøver tilgang til vår fjernpålogging via NetOp. Den må også ha tilgang til journalsystem-databasen Profdoc.
+Den andre IPen brukes til NETS-kortmodulen for kortbetalinger. Denne krever kun tilgang til Nets’ betalingsserver.
+Terminalen krever kun et fysisk nettverkspunkt. Både strøm- og nettverkspunkt må være maks 1 meter fra terminalen. Dette er fordi kablene som følger med er satt på forhånd. Om det ønskes lengre kabler ønsker vi at dere står for dette, og at kabler er klare på installasjonsdato.
+Bergen Legevakt kan kontakte Helpdesk for å bestille fjerntilgang for Leverandør til løsningen, rutiner for dette finnes på Helpdesk ved EDD. Timeforbruk vedr. fjernstyring registreres rett inn på fagsystemet Melin medical.
+
+
+"
+SYS_Fag_00185,ApplicationComponent,Metasys - SD-system ,"System for oppfølging av automasjonsprosesser (husdrift) Kjøling, lys etc"
+SYS_Fag_00190,ApplicationComponent,MIC Mobil,Mobilplattformen skal integreres mot telefonsentralene (Ny standard tjeneste)
+SYS_Fag_00428,ApplicationComponent,Moava,
+SYS_Fag_00222,ApplicationComponent,MobiCall Alarmløsning - med nettverksvakt for Tele-Com,"Løsning for ulike alarmer - kommunikasjon over GSM- eller IP-nett. Sentralisert, redundant løsning, med systemet MobiCall som kjerne. Benyttes pr i dag til heisalarmer, sykesignalering  og varsling på skole. 
+Tele-Com har fullt driftsansvar for løsningen inkl servere og databaser, med remote tilgang til redundante servere som står i sentral datahall hos IKT Drift.
+Egne rutiner/instruks er utarbeidet mellom Tele-Com og IKT Drift, og Kunde er informert om disse iht Forvaltning av TEK-avtalen. Utgifter ifm løsningen bekostes av Kunde."
+SYS_Fag_00240,ApplicationComponent,MobiCall for Trygghetsalarmer inkl nettverksvakt og helpdesktjenester,"Mottakssystem for trygghetsalarmer for innbyggere i Bergen kommune. Tjenesten mot brukerne leveres og håndteres av BHO. Brukere av Trygghetsalarm har alarmsender i boligen. Når alarm utløses vil det gå signal til MobiCall, med informasjon om hvem som har utløst alarmen. Alarmer håndteres av BHO ved  blant andre hjemmesykepleie. 
+Tele-Com har fullt driftsansvar for løsningen inklusiv servere og databaser, med remote tilgang til redundante servere plassert i sentral datahall hos EDD. Egne rutiner/instruks er utarbeidet mellom Tele-Com og EDD, og Kunde er informert om disse iht Forvaltning av TEK-avtalen. Alle utgifter ifm løsningen bekostes av Kunde. 
+Tillegg:
+Nettverksvakt: Tele-Com har tilgang til å ringe utenom ordinær arbeidstid og skal slippes inn og følges i serverrom ved behov. Helpdesk-tjenester: brukeradministrasjon; motta bestilling, opprette systemtilgang og sende sak videre til IKT Helse/Profil postmottak. Estimert 10 henv./måned"
+SYS_Fag_00276,ApplicationComponent,Mobil Omsorg,"Mobil omsorg er et system tilhørende Profil, der mobile enheter kommuniserer via en Sandbox i Mobiladministrasjonssystemet mot Profil i Sikker sone. Mobil Profil er en del av SLA-vedlegget til Profil, men med et lavere driftsnivå (nivå 2). Inkludert testmiljø."
+SYS_Fag_00293,ApplicationComponent,Mobilflex Connect,Administrasjon og konfigurering av SIM-kort
+SYS_Fag_00405,ApplicationComponent,Mobilise,
+SYS_Fag_00061,ApplicationComponent,NAV tilgang,"Teknisk løsning som gir tilgang til BK-nett fra NAV-desktop (statlig)
+
+"
+SYS_Fag_00361,ApplicationComponent,NICE Lydlogg,
+SYS_Fag_00063,ApplicationComponent,Nimes,Kvalitetssikringsverktøy for Bergen legevakt  for bruk ved medisinsk koding og analyse. 
+SYS_Fag_00064,ApplicationComponent,NygSys,"Data- og logistikksystem/ kursadminstrativt system som benyttes av Nygård skole.
+"
+SYS_Fag_00304,ApplicationComponent,Nøkkelbank,Forvaltning av fysiske nøkler
+SYS_Fag_00234,ApplicationComponent,"Nøkkelkortsystem, Bergen Vann",Driftsavtale Nøkkelkortsystem i Spelhaugen 22 . Bergen Vann benytter IKT Drift sitt nøkkelkortsystem.
+SYS_Fag_00349,ApplicationComponent,Offisielle kanaler på sosiale medier,
+SYS_Fag_00066,ApplicationComponent,Omnivista,Kommunikasjons-/bakcupløsning for telefonsentralene i BK (5556 XXXX). I bruk av Tele-Com for administrasjon av fasttelefoner i BK.
+SYS_Fag_00067,ApplicationComponent,OnGuard Vann- og avløpsetaten,"Onguard er adgangskontrollsystemet til VANN, vaktsentralen i Grønneviken og alle vannstasjoner som Vaktsentralen bruker til overvåkning, primært på kveldstid.  
+
+Onguard er et integrert adgangskontrollsystem med et stort bruksområde, gir oversikt, er enkelt å operere. Det kan tilpasses organisasjonen. Systemet er basert på åpen arkitektur og er svært fleksibelt. Det kan integreres med forskjellige multimedialøsninger og andre sikkerhetssystemer. Systemet støtter ulike kortleserteknologier: magnetstripe, berøringsfri, MYFARE og biometri."
+SYS_Fag_00433,ApplicationComponent,Onsite konsulenttjeneste Legevakten,EDD skal ha lokaldriftkonsulent på Begen Legevakt 08:00 til 11:00 2 dager pr uke fra januar 2019 til juni 2019. 
+SYS_Fag_00174,ApplicationComponent,OnVisit,"Besøksystem som håndterer besøkende til lokasjoner i Bergen kommune. Systemet registrerer gjester, printer ut gjesteskilt til gjesten og varsler mottaker av besøket pr SMS. "
+SYS_Fag_00429,ApplicationComponent,Ordnett.no,
+SYS_Fag_00358,ApplicationComponent,PAS/PGS,
+SYS_Fag_00184,ApplicationComponent,Pegasys Låsesystem,"Adgangskontrollsystem til hovedbrannstasjonen. Styrer adgang til bygget basert på RFID-låsebrikker. Oppsett av logiske adgangssoner, konfigurasjon av underterminaler osv "
+SYS_Fag_00294,ApplicationComponent,PixEdit Sikker sone,"Løsning for bunkeskanning til sikker sone, BSBI. Håndtering av skanning av mange dokumenter som en elektronisk fil, for så å dele dokumentene opp i ettertid."
+SYS_Fag_00382,ApplicationComponent,Planday,
+SYS_Fag_00073,ApplicationComponent,Plania prod,"FDV-system for Bergen Vann KF, som benyttes til oppfølging og lagring av informasjon om bygninger og oppgaver.
+Plania 8 Desktop og Plania Web. Kjøres på PC og Terminalserver."
+SYS_Fag_00074,ApplicationComponent,Plania test,Testløsning for Plania; FDV-system til oppfølging og lagring av informasjon om bygninger og oppgaver
+SYS_Fag_00403,ApplicationComponent,PlanKon,
+SYS_Fag_00383,ApplicationComponent,Plone CMS - Bergenbibliotek.no,
+SYS_Fag_00394,ApplicationComponent,PocketControl Mellomvare,
+SYS_Fag_00395,ApplicationComponent,"PocketControl, betjent app",
+SYS_Fag_00078,ApplicationComponent,Portico Estate Prod EBE,"System for forvaltning av bygningsmasse og ressurser. (FDV for EBE og AktivBy). Portico Estate er et verktøy for forvaltning av bygningsmasse og ressurser som defineres inn i systemet.  Systemet har et grensesnitt mot internett for at ansvarlige pr. lag kan registrere treningstider/leietider. Det er også mulig for publikum å gjøre oppslag på bygg og idrettslag for å finne treningstider og steder. Autentisering i systemet over internett styres gjennom Altinn og Bergen kommunes portalløsning.  
+
+Løsningen er en PHP- løsning som i dette tilfellet betyr at både applikasjonslogikk og presentasjonslogikk ligger på samme server, i samme applikasjon. 
+
+Internett- delen av system er kjent som AktivBy. Den interne delen av systemet er navngitt BKBygg.
+"
+SYS_Fag_00079,ApplicationComponent,Portico Estate Test EBE,"Testløsning for Portico Estate. Løsning i testmiljøet er todelt, med en installasjon for utvikling og en installasjon for akseptansetesting på samme server. "
+SYS_Fag_00226,ApplicationComponent,Portico for Etat for Boligforvaltning (EBF),"Portico for EBF er et system for Forvaltning, Drift og Vedlikehold av leieobjekter som forvaltes av Etat for Boligforvaltning. Det innholder informasjon om bygninger, utstyr, prosjekter og vedlikeholdsplaner. Systemet har oversikt over avtaler og arbeidsordrer. Løsningen applikasjonslogikk og presentasjonslogikk på samme server i samme applikasjon.
+"
+SYS_Fag_00124,ApplicationComponent,PortWin Prod,"Havne-administrasjonssystem som benyttes for å styre utnyttelsen av kaier, ha kontroll med forventede og faktiske liggetider, losset og lastet gods, samt fakturering og rapportering til SSB."
+SYS_Fag_00125,ApplicationComponent,PortWin Test,Testmiljø for BOH sitt system for styring og kontroll over kaiområder
+SYS_Fag_00080,ApplicationComponent,PPI ( Syns og audiopedagogisk senter),Saksbehandlingssystem
+SYS_Fag_00396,ApplicationComponent,Primo System,
+SYS_Fag_00384,ApplicationComponent,Princh,
+SYS_Fag_00084,ApplicationComponent,Profdoc for Bedriftshelsetjenesten,"Profdoc er et Elektronisk Pasient Journal-system (EPJ) som brukes av ulike avdelinger i Bergen kommune. Profdoc finnes i 2 ulike versjoner, med hver sin dedikerte installasjon. Bedriftshelsetjenesten har en versjon av fagsystemet som ligger på dedikerte servere med egen database. Bedriftshelse har i tillegg en installasjon av programvaren Spirare og pusteapparat tilknyttet Profdoc-systemet. "
+SYS_Fag_00082,ApplicationComponent,Profdoc for Bergen Legevakt og legevaktstasjonene,"Pasient journal-system (EPJ) for Bergen legevakt med tynne klienter og virtuelle maskiner. Profdoc Vision er et Elektronisk Pasient Journal-system (EPJ) som brukes av flere avdelinger i Bergen kommune. Installasjonen med en felles database brukes av Bergen Legevakt, Legevaktstasjonene i Loddefjord, Åsane og Fana. Denne løsningen er satt opp med automatisk fail-over og har vaktordning med automatiserte alarmer til vakt 24/7. Meldingsutveksling går via EDI-løsningen DIPS til Norsk Helsenett og har driftsnivå 2. 
+Forskrivningsmodulen (eResept) er utviklet av Helsedirektoratet, knyttet opp mot Profdoc for utskriving av resepter og elektronisk overføring av resepter i Norsk Helsenett og inkludert i avtalen for Profdoc. "
+SYS_Fag_00138,ApplicationComponent,Profdoc for Frisklivsentralen,Profdoc EPJ-system for bruk hos Frisklivsentralen
+SYS_Fag_00083,ApplicationComponent,Profdoc og EDI for Fengelshelsetjenesten,"Pasient journal-system (EPJ) for Fengelshelestjenesten. Deler infrastuktur med BLV og har andeler av infrastukturen. Inkluderer EDI-løsning (DIPS) for elektronisk meldingsutveksling via Norsk Helsenett. Forskrivningsmodulen (eResept) inngår i SLA-vedlegg, men har egen oppføring i systemoversikten. "
+SYS_Fag_00209,ApplicationComponent,Profdoc og eResept Test for ØHD/Smittevern,"Testmiljø for test av profdoc med 1 oralcebase, kun øhd/smitte har testmiljø. Testmiljø for Forskrivningsmodulen (eResept) med 1 SQL-baser og andel servere for begge testmiljøene"
+SYS_Fag_00256,ApplicationComponent,Profdoc og Meldingsutveksling (EDI) for ØHD/Smittevern,"Pasient journal-system (EPJ) for ØHD-posten og Smittevern. Deler infrastuktur med BLV, Fengsel og har andeler av infrastukturen. Inkluderer EDI-løsning (DIPS) for elektronisk meldingsutveksling via Norsk Helsenett. Denne løsningen er satt opp med automatisk fail-over og har vaktordning med automatiserte ala|rmer til vakt 24/7."
+SYS_Fag_00137,ApplicationComponent,Profdoc testmiljø for Bedriftshelsetjenesten,Dedikert testdatabase for Bedriftshelsetjenesten og andel av felles testmiljø for Profdoc
+SYS_Fag_00085,ApplicationComponent,Profdoc testmiljø for Bergen legevakt og legevaktsatasjonene,Testløsning for Profdoc for Bergen legevakt og legevaktsstasjonene
+SYS_Fag_00086,ApplicationComponent,Profil,"Unique Profil er journalsystem for pleie-, rehabiliterings- og omsorgstjenesten i Bergen kommune og er realisert på sikker sone. 
+Systemet har meldingsutveksling med Norsk Helsenett og rapportering til Helsedirektoratet sitt nasjonale helseregister, IPLOS.
+Visma Samhandling Link er inkludert i SLA for Profil, samt et dedikert kurs- og test-miljø med driftsnivå 1 som etablert i sikker sone."
+SYS_Fag_00311,ApplicationComponent,"Profil Forskrivningsmodul (eResept), test",Visma Omsorg Profil implementert mot FM 3.77.3 i testmiljø versjon
+SYS_Fag_00087,ApplicationComponent,Profil test,"Test- og kursløsning for Profil inkludert Adresseregister og Iplos. Testmiljøet er i sikker sone produksjonsmiljø, grunnet gammel historie.  "
+SYS_Fag_00296,ApplicationComponent,Profil Testmiljø i T/U ,"Profil Testmiljø i T/U for digital medarbeider er et dedikert miljø etablert for å teste robotprogramvare fra BluePrism inn mot fagapplikasjnen Profil og Visma Link. Når roboten utfører ønskede aktiviteter i testmijøet, blir den overført til Sikker sone produksjonsmiljø for å stå der og utføre gjentagende repeterende oppgaver. Testmiljøet i T/U for Profil inneholder også en dedikert server for MS SQL-verktøy.  Testmiljøet brukes også av eLås-løsningen til BHO, men har egen SLA. "
+SYS_Fag_00088,ApplicationComponent,Prosjektallmenningen,"Prosjektstyringsverktøy - for planlegging, oppfølging og rapportering på prosjekter i BK. Løsningen er konsernovergripende og alle som har behov for prosjektstyringsverktøy i BK kan benytte løsningen. 
+Brukerne aksesserer dokumentene i Prosjektalmenningen via Internet Explorer og PWA eller Microsoft Project. Prosjektallmenningen er tilrettelagt for bruk for eksterne. Helpdesk ved IKT Drift utfører 1. linjer brukerstøtte basert på ""ofte stilte spørsmål"" levert av systemkoordinator. Helpdesk vil registrere sak og ved behov for 2. linje kompetanse, overføre sak til dedikert gruppe hos systemeier.  Lisenser for bruk av saksbehandlingsverktøy betales i tillegg.
+"
+SYS_Fag_00158,ApplicationComponent,Remedy,"Remedy er IKT Drift sitt saksbehandlingverktøy hvor alle feil, bestillinger og henvendelser blir registrert og fulgt opp."
+SYS_Fag_00331,ApplicationComponent,Reserveportal for Bergen kommune,"Reserveportalen til Bergen kommune er et system som ligger i Microsoft Azure og benytter tjenesten webhotell, med Wordpress. Tjenesten er tilrettelagt av EDD, innholdsproduksjon og tofaktorautentisering i Wordpress eies av Systemkoordinator. "
+SYS_Fag_00090,ApplicationComponent,Ressursstyringssystem,"Systemet brukes til planlegging av ressurser og turnuser. I tillegg kan ansatte melde interesse for ledige vakter via internett og motta forespørsler om vakter/oppdrag via SMS.Produksjon og kurs har driftsnivå 2. Avtalen inkluderer 1. linje brukerstøtte, samt testløsningen med driftsnivå 1. "
+SYS_Fag_00091,ApplicationComponent,Ressursstyringssystem Test,"Testløsning for Ressursstyringssystemet. Systemet brukes til planlegging av ressurser og turnuser. I tillegg kan ansatte melde interesse for ledige vakter via internett og motta forespørsler om vakter/oppdrag via SMS.
+"
+SYS_Fag_00367,ApplicationComponent,SCADA,
+SYS_Fag_00270,ApplicationComponent,SiPort (Byggalarm),Byggalarm hos Enhet for Digitale driftstjenester. 
+SYS_Fag_00308,ApplicationComponent,Siteimprove,Analyseverktøy for utvikling av nettsted.
+SYS_Fag_00385,ApplicationComponent,Sjølvbetjeningsløysinger og videoovervåking,
+SYS_Fag_00430,ApplicationComponent,Skolekassa.no,
+SYS_Fag_00431,ApplicationComponent,Smart Skole,
+SYS_Fag_00350,ApplicationComponent,Småpudden overvåking,
+SYS_Fag_00336,ApplicationComponent,Snow,"SAM-verktøy. Snow License Manager er navet for Snows avanserte Software Asset Management (SAM)-plattform – og gir en helhetlig visning av alle programvare- og maskinvareaktiva, lisensrettigheter og applikasjonsbruk."
+SYS_Fag_00093,ApplicationComponent,SOA løsning,"Løsning for tjenesteorientert arkitektur som er knyttet mot tjenester og informasjonsvisning i Portalen og i eDoc-løsningen. Byfjell er en applikasjon i SOA uten egen SLA. 
+Har apache som web service proxy og webserver. 
+Netaxept er en applikasjon/mikrotjeneste i SOA uten egen SLA. Dette er en betalingsløsning fot nett for Kemneren. "
+SYS_Fag_00094,ApplicationComponent,SOA løsning TEST,Testløsning for SOA m APIgwi (owsm)
+SYS_Fag_00097,ApplicationComponent,Socio Flyktning,"System for  fag- og merkantiltpersonell hos Introduksjonssenteret for flyktninger, benyttes til adminsitrasjon, saksbehandling, journalføring, rapportering og vedtaksbehandling. Versjon oppgradert med SMS-tjenester fra systemet 2014. "
+SYS_Fag_00193,ApplicationComponent,Socio for Krisesenteret,"Tilpasset versjon av Socio for bruk på Bergen og Omland Krisesenter. System for  fag- og merkantilt personell. Benyttes til adminsitrasjon, saksbehandling, journalføring, rapportering og vedtaksbehandling."
+SYS_Fag_00273,ApplicationComponent,Socio for Sosiale botjenester,"System for  fag- og merkantilt personell. Benyttes til adminsitrasjon, saksbehandling, journalføring, rapportering og vedtaksbehandling."
+SYS_Fag_00098,ApplicationComponent,Socio sosialtjenestene Prod,Systemet Socio levert av TietoEnator er i bruk for sosialtjenestene i Bergen kommune. Socio skal være en komplett løsning for den kommunale sosialtjenesten og skal være en fleksibel standard som kan benyttes med varierende utforming av organisasjon og tiltak. Socio for Web er satt opp til bruk for NAV-kontorene i kommunen for rapportering til NAV via Web-servere i løsningen. Løsning utvidet med SMS-utsendelse via PSWincom i 2014.
+SYS_Fag_00099,ApplicationComponent,Socio sosialtjenestene Test,Testløsning for Socio sosialtjenester
+SYS_Fag_00100,ApplicationComponent,Socio Utekontakten,"Systemet for  fag- og merkantiltpersonell hos Utekontakten, benyttes til adminsitrasjons, saksbehandling, journalføring, rapportering og vedtaksbehandling."
+SYS_Fag_00373,ApplicationComponent,SOFIE,
+SYS_Fag_00386,ApplicationComponent,Sommerles,
+SYS_Fag_00400,ApplicationComponent,Speedadmin,
+SYS_Fag_00411,ApplicationComponent,"Spørreundersøkelse (avsluttet, data destruert)",
+SYS_Fag_00347,ApplicationComponent,Standard Online,
+SYS_Fag_00410,ApplicationComponent,StartSak/StartSkudd/StartRapp,
+SYS_Fag_00406,ApplicationComponent,Streaming av bystyremøter,
+SYS_Fag_00370,ApplicationComponent,Streamingløsning for droner etc.,
+SYS_Fag_00371,ApplicationComponent,SuperOffice,
+SYS_Fag_00130,ApplicationComponent,"Surveyor, integrert med Corporator ","Surveyor benyttes ifm distribusjon av brukerundersøkelser internt og eksternt. I bruk som en del av Corporater (verktøy for mål- og virksomhetsstyring).
+Surveyor DRS er en frittstående spørreundersøkelsesmodul. Løsningen skal brukes av enhetsledere samt støttepersonell og sentrale funksjoner i kommunen, opp til 500 brukere. Surveyor er satt opp med satellitt for eksterne undersøkelser, samt offentlig SSL sertifikat (2 års varighet) etter ønske fra kunde.
+"
+SYS_Fag_00282,ApplicationComponent,TestTM,TMs test
+SYS_Fag_00415,ApplicationComponent,Ticket.co,
+SYS_Fag_00236,ApplicationComponent,Tilgang til tu-miljøet for mobile enheter,Tilgang til tu-miljø for mobile enheter.
+SYS_Fag_00051,ApplicationComponent,Tilskuddsordning (Insights),"System for behandling av søknader om kommunale tilskudd, 1. linje brukerstøtte er inkludert i avtalen. Kristin Akselberg er Systemkoordinator sammen med Jorunn Tengren Hansen."
+SYS_Fag_00050,ApplicationComponent,Tilskuddsordning testmiljø  (Insights test ),"Testløsning for Insight, alias Tilskuddsordning. System for behandling av søknader om kommunale tilskudd"
+SYS_Fag_00102,ApplicationComponent,Tolkesystemet IntTranWin,"Administrasjonssystem for tildeling av tolkeoppdrag, oversikt over oppdrag og kunder av tolketjenesten. Systemet har en Web-portal, som benyttes for tildeling av oppdrag, samt kvittering for oppdrag. Meldinger går via epost og på SMS. IntranWin"
+SYS_Fag_00348,ApplicationComponent,TQM,
+SYS_Fag_00368,ApplicationComponent,TQM Enterprise,
+SYS_Fag_00310,ApplicationComponent,Transfire,"Mottak for analog og digitale automatalarmer. Får blant annet alarmer fra Addsecure som er en ekstern leverandør. 
+
+"
+SYS_Fag_00387,ApplicationComponent,Trello (skytjeneste),
+SYS_Fag_00360,ApplicationComponent,Triona Veivarsling,
+SYS_Fag_00359,ApplicationComponent,UBAS,
+SYS_Fag_00337,ApplicationComponent,UBW HR,"UBW HR (agresso) er Bergen kommune sitt lønns- og personalsystem. I tillegg til lønn inkluderer systemet HR-prosesser som rekruttering, oppstart og arbeidsavtaler, fravær og refusjon, samt medarbeideroppfølging og rapportering. "
+SYS_Fag_00338,ApplicationComponent,"UBW HR, kursmiljø","Kursmiljø til UBW HR
+UBW HR (agresso) er Bergen kommune sitt lønns- og personalsystem. I tillegg til lønn inkluderer systemet HR-prosesser som rekruttering, oppstart og arbeidsavtaler, fravær og refusjon, samt medarbeideroppfølging og rapportering. "
+SYS_Fag_00339,ApplicationComponent,"UBW HR, testmiljø","Testmiljø til UBW HR
+UBW HR (agresso) er Bergen kommune sitt lønns- og personalsystem. I tillegg til lønn inkluderer systemet HR-prosesser som rekruttering, oppstart og arbeidsavtaler, fravær og refusjon, samt medarbeideroppfølging og rapportering. "
+SYS_Fag_00002,ApplicationComponent,UBW økonomi,"Økonomisystem for Bergen kommune, 
+(tidligere kalt Agresso)
+Det har moduler som ivaretar:
+ • Økonomi og regnskap  
+• Innkjøp og logistikk  
+• Prosjektstyring  "
+SYS_Fag_00335,ApplicationComponent,"UBW økonomi, kursmiljø","Kursmiljø for Økonomisystemet for Bergen kommune, (tidligere kalt Agresso). 
+ Det har moduler som ivaretar:
+• Økonomi og regnskap • Innkjøp og logistikk • Prosjektstyring 
+"
+SYS_Fag_00003,ApplicationComponent,"UBW økonomi, testmiljø","Testmiljø for UBW økonomisystemet (tidligere kalt Agresso)
+UBW Økonomi er Bergen kommune sitt økonomisystem. Det har moduler som ivaretar:
+• Økonomi og regnskap 
+• Innkjøp og logistikk 
+• Prosjektstyring 
+
+"
+SYS_Fag_00291,ApplicationComponent,Ultralyddata til Profdoc,"Ultralydapparat (TE7) er anskaffet av ØHD-posten og tilhørende program (Ultraassist) er installert på EKG-serveren til ØHD-posten. Det er laget et skript som overfører data fra EKG-serveren til avtalt område for ØHD, der de kan hente ultralydbilder og importere dem inn i Profdoc i rett journal. "
+SYS_Fag_00363,ApplicationComponent,UMS,
+SYS_Fag_00397,ApplicationComponent,Utkallingstjenesten,
+SYS_Fag_00399,ApplicationComponent,Utstyrsregister,
+SYS_Fag_00237,ApplicationComponent,Utviklingsmiljø i TU-nett,Utviklingsmiljø i TU-nett for konsernovergripende systemer/løsninger. Gir mulighet for tilgang til interne- og eksterne utviklere.
+SYS_Fag_00105,ApplicationComponent,VAKO,"Systemet VAKO er kundeoppfølgingssystemet til Vann- og avløpsetaten. Dette systemet har med innkreving av kommunale vann avgifter/gebyrer for Bergen Kommune. VAKO tar også vare på all historikk av gebyrer som er innkrevd, fra systemet ble satt i produksjon. Systemet opererer fritt på en selvstendig server, men har i tillegg test og utviklingsmiljø som er tilnærmet identisk med driftsmiljøet."
+SYS_Fag_00106,ApplicationComponent,VAKO test,"Testløsning for VAKO, tilnærmet identisk med produksjonsløsningen for VAKO, som er kundeoppfølgingssystemet til Vann- og avløpsetaten. "
+SYS_Fag_00107,ApplicationComponent,Vaktdata,"System for adminstrasjon/ saksbehandling for Barnevernsvakten, benyttes bl.a til registrering av alle henvendelser samt klientlogg"
+SYS_Fag_00109,ApplicationComponent,Vaprod01 Epanet og Mike Urban,"Dette er 2 ulike system som går på samme server for planlegging og beregning av vann og avløpsystem. 
+• EPANET er et program for modellering av vannkvalitet og vanndistribusjon i rørsystemet til Bergen kommune.
+• Mike Urban er et program som samhandler med EPANET og gir mulighet for modellering av vann og avløpssystem. 
+"
+SYS_Fag_00324,ApplicationComponent,Varmesøkende kamera løsning Bergen Brannvesen,"Varmesøkende kamera installasjoner på verneverdige lokasjoner for Bergen Brannvesen, installert på Bryggen. Ekstern leverandør Elotec leverer system/sentral/lagring samt alle kameraprodukter. EDD leverer housing av Server/sentral/lagring utstyr i datasenter på Spelhaugen 22, samt tilrettelegger for nettverk som vil benytte byggteknisk nett fra alle lokasjoner og inn til EDD. LokalDrift ivaretar terminering/tilkopling frem til kamerautstyr ute på lokasjoner.  "
+SYS_Fag_00413,ApplicationComponent,Varsling 24,
+SYS_Fag_00343,ApplicationComponent,Varsling24,
+SYS_Fag_00398,ApplicationComponent,Veivokteren,
+SYS_Fag_00247,ApplicationComponent,VISGI produksjonsmiljø,"VISGI er et fagsystem som skal være GIS-plattform for hele Bergen kommune. Det er et produksjonsmiljø for nettleserbasert kartløsning for ansatte i Bergen kommune (intranett) levert av Geodata AS. Tjenestebaserte applikasjoner bygget på ArcGIS Server og ArcSDE geodatabase (MsSQL) fra ESRI,  samt datakonvertering basert på FME fra Safe Software."
+SYS_Fag_00248,ApplicationComponent,VisGI Test,Test- og utviklingsmiljø for nettleserbasert kartløsning for ansatte i Bergen kommune (intranett).
+SYS_Fag_00175,ApplicationComponent,Visma Link Testmiljø,"Testmiljø for Visma Link, knyttet mot Norsk Helsenett er etablert som følge av at Osean. Osean er en en kommunikasjonsmetode mot NHN, utviklet av Visma. Brukes ifm Profil."
+SYS_Fag_00111,ApplicationComponent,Visma Samhandling Arkiv,"Saksarkiv beregnet for Profil, Familia og HsPro basert på Noark 5. Visma Arkiv er  koblet mot HsPro Prod og Familia. HsPro sender ut brev fra Arkiv via KsSvarUT. De ulike avgivende systemene lagrer arkivdata i en felles arkivkjerne for BHO. Hvert tilkoblet system med overføring av arkivdata regnes som 1 integrasjon mot Visma Samhandling Arkiv. "
+SYS_Fag_00283,ApplicationComponent,Visma Samhandling Arkiv Testmiljø,Testmiljø for Visma samhandling arkiv. Testmiljøet er satt opp med arkiv-integrsjon mot Profil Test og HsPro Test. Det er planlagt at Familia skal teste med samme arkiv. 
+SYS_Fag_00157,ApplicationComponent,Visma Samhandling Link (VS Link),"System som benyttes av Profil for elektronisk meldingsutveksling med NHN. Driftsnivå 3 er avtalt med kunde, men satt til nivå 1 her, da det ellers slår feil inn i driftspris, da dette systemet er en integrert del av fagsystemet Profil. Drifsnivå 3 er med forbehold, da systemet ikke er clustret. "
+SYS_Fag_00432,ApplicationComponent,Viten.no,
+SYS_Fag_00330,ApplicationComponent,Wave callsenterløsning med utvidet brukerstøtte,"Wave er Bergen kommunes system for callsenter. Helpdesk har brukerstøtte i systemet for de ulike brukergruppene, samt opprettelse av brukere på eksisterende lokasjoner. Ny lokasjoner som skal ta løsningen i bruk etableres som et prosjekt, med systemkoordinator. Løsningen driftes av leverandør som en skytjeneste for Bergen kommune og er avhengig av Chrome som nettleser. "
+SYS_Fag_00346,ApplicationComponent,Webcruiter,
+SYS_Fag_00112,ApplicationComponent,Wilab/Lims_prod,"System for registrering, lagring, rapportering og fakturering av laboratoriedata hos Bergen Vann KF"
+SYS_Fag_00113,ApplicationComponent,Wilab/Lims_test,"Testløsning for Wilab/Lims; system for registrering, lagring, rapportering og fakturering av laboratoriedata hos Bergen Vann KF"
+SYS_Fag_00114,ApplicationComponent,WinTid,Felles løsning for tidsregistrering iht avtale om fleksibel arbeidstid i Bergen kommune. Systemet brukes av alle enheter som benytter maskinell løsning for tidsregistrering.Avtalen inkluderer Helpdesk 1. linje brukerstøtte på WinTid.
+SYS_Fag_00163,ApplicationComponent,WinVed,"System for oppfølging av periodisk vedlikehold av biler og teknisk utstyr for Bergen Brannvesen.
+"
+SYS_Fag_00287,ApplicationComponent,Workplace by Facebook,"Bergen Vann benytter Facebook at work  som samhandlingsverktøy til ansatte. Leverandør er Evry og det er integrasjoner satt opp mellom Bergen kommunes AD, Azure AD for Bergen kommune og Facebook. 
+"
+SYS_Inf_00001,Artifact,Active Directory,"Microsofts katalogtjeneste for håndtering av brukere, brukerrettigheter, og ressurskontrol.
+Forkortelser: AD, AD DS (Active Directory Domain Services)"
+SYS_Inf_00128,Artifact,AD Innsyn,En webside lar en gjøre oppslag på AD-brukere og AD-grupper. En frontend for AD.  En internetside for bestillere av tilganger.
+SYS_Inf_00082,Artifact,ADFS,"Active Directory Federation Services.  Autentiseringstjeneste.
+Benyttes av allmenningen for SSO i intern sone. Benyttes av Feide og Office 365 for elevpålogging."
+SYS_Inf_00132,Artifact,Akseptansenett,"Akseptansenett er et privat labnett for EDD, slik at en kan eksperimentere uten å ødelegge for kundens test eller prodsystemer. Er helt adskilt fra TU-nett, hvor kunde og deres konsulenter kan ha tilgang. Aksept inneholder kun EDD sine systemer, og brukes hovedsaklig av SA. "
+SYS_Inf_00090,Artifact,Ansattinformasjon,"Database og integrasjoner mellom Fellesdata, AD, Remedy, Bestillingsweb...."
+SYS_Inf_00120,Artifact,Ansible,Automatiseringsverktøy for Linux og Windows. 
+SYS_Inf_00089,Artifact,Appsense,"Brukes til å styre diverse klientinnstillinger på de virtuelle pc’ene. Bl.a. printerstyring og registerinnstillinger ut fra klientens ip adresse, aktiviteter som skal skje ved oppstart av prosesser."
+SYS_Inf_00027,Artifact,ASK,Sharepoint for IKT Drift er også kalt ASK. SA står for drift. Petter og  Jarle har kompetanse på deler av innholdssiden.
+SYS_Inf_00119,Artifact,Azure,Microsoft sin skytjeneste. 
+SYS_Inf_00131,Artifact,Azure Active Directory,"Azure AD er MS sin multi-tenant skybaserte katalog og identitetshåndteringstjeneste, og brukes også til å håndtere applikasjonstilganger.  Til dels lisenser. "
+SYS_Inf_00072,Artifact,Backup-routere,Egentlig driftet av Atea
+SYS_Inf_00039,Artifact,Barracuda,Lastbalanserer for Exchange. Spam Filter for Exchange
+SYS_Inf_00064,Artifact,Blade-switcher,
+SYS_Inf_00065,Artifact,Brannmurer,
+SYS_Inf_00078,Artifact,Brukeradmin,"Applikasjon for administrasjon av brukere og tilganger i Active Directory og tilhørende systemer som fks. Exchange, adresselister, ressurser osv.."
+SYS_Inf_00049,Artifact,Cisco TelePresence Management Suite,"TMS. Program som brukes til overvåkning av Cisco videokonferanse utstyr, samt legger ut adressebøker."
+SYS_Inf_00006,Artifact,Citrix,WTS (Terminalserver-farm)
+SYS_Inf_00020,Artifact,Datacenter,"Database, web-grensesnitt og diverse script som gir oversikt over servere mm..."
+SYS_Inf_00031,Artifact,DataProtector og D2D,Backup av Produksjon. 
+SYS_Inf_00009,Artifact,Datarom,"Strøm, UPS, Diesel, Kjøling, rutiner"
+SYS_Inf_00062,Artifact,Datasenter ToR-switcher ,
+SYS_Inf_00084,Artifact,DBcenter,Gir oversikt over Oracle og MSSQL-databasene og deres bruk. 
+SYS_Inf_00010,Artifact,DHCP,Dynamic Host Configuration Protocol
+SYS_Inf_00041,Artifact,DirectAccess,System for å automatisk koble en PC til adm-nettet. Avansert løsning for fjerntilgang (VPN).
+SYS_Inf_00011,Artifact,DNS,Domain Name System
+SYS_Inf_00091,Artifact,Driftsmeldinger,Database og web-grensesnitt for å legge ut driftsmeldinger
+SYS_Inf_00012,Artifact,Elevnett,"Nettverk for skole. Ikke et system i seg selv, men er oppført for å ha en oversikt på hvem som har kompetanse rundt elevnettet. "
+SYS_Inf_00013,Artifact,Exchange,Eposttjenesten
+SYS_Inf_00103,Artifact,Filservere,
+SYS_Inf_00080,Artifact,Fjerndriftsverktøy,
+SYS_Inf_00075,Artifact,Fjernstyring,De ansvarlige skal sørge for at IKT Drift til enhver tid har de verktøyene og driftsopplegg som best kan ivareta våre samlede behov. Dette innebærer bl.a. å sørge for at de valgte verktøyene er tilrettelagt på best mulig måte slik at der ikke er terskler for å ta dem i bruk. Det må hele tiden søkes å forbedre de oppleggene vi har samt holde seg orientert i markedet slik at vi vet at vi har gode nok verktøy i drift. Arbeidsprosessene skal dokumenteres med rutiner og annen nødvendig dokumentasjon. 
+SYS_Inf_00014,Artifact,FTP SFTP,File Transfer Protoco og SSH File Transfer Protocol
+SYS_Inf_00016,Artifact,GPO,Group policy
+SYS_Inf_00038,Artifact,Hardware,"Servere, Bladkasser osv.."
+SYS_Inf_00117,Artifact,Helse-CERT,"Helse-CERT er et samarbeid mellom forskjellige aktører innen helse. For BK leverer de blant annet en scannetjenester hvor de scanner alle våre servere fra innsiden, og sender oss rapporter annenhver måned."
+SYS_Inf_00071,Artifact,HPE Network Node Manager (NNM),Overnåkning av nettverksutstyr.
+SYS_Inf_00125,Artifact,HUB-nett,HUB-nettet er beregnet for plassering av systemer og tjenester som skal betjene flere av de andre sonene
+SYS_Inf_00095,Artifact,IBM Systems Director,Management-verktøy for IBM servere
+SYS_Inf_00127,Artifact,"IPA. (Identity, Policy and Audit.)",Autentiseringsystem for Linux (LDAP/Kerberos)
+SYS_Inf_00083,Artifact,IPAM,IP-Address Management
+SYS_Inf_00081,Artifact,KMS,"Key Management Service.  Utsteder lisensnøkler til Windows-maskiner, både klienter og servere."
+SYS_Inf_00061,Artifact,L3-switcher (Core),
+SYS_Inf_00105,Artifact,Lagringsløsning,SAN og annen lagring i stor skala. P9500 og P6500.
+SYS_Inf_00106,Artifact,Lagringsnettverk,Switcher for SAN og andre lagringsløsninger.
+SYS_Inf_00074,Artifact,LAN drift,"Lan drift gruppen skal jobbe med LAN/WLAN, sørge for at IKT D leverer gode løsninger for sine kunder. I tillegg til fokus på teknologi, nyvinninger og forbedringer, skal gruppen også aktivt sørge for at intern kompetanse løftes for resten av avdelingen og andre relevante på IKT Drift. Gruppen er ansvarlig for at området dokumenteres. Gruppen er ansvarlig for  rådgivning overfor kunder ihht vedtatte standarder. Gruppen må også generelt sørge for at området driftes ihht god praksis."
+SYS_Inf_00068,Artifact,LBR,
+SYS_Inf_00112,Artifact,LINK SMS Gateway,"SMS Gateway. Leveres av Link Mobility - tidligere Pswin.com. Benytes av RSA (Fjerntilgang med SMS), OnVisit (Besøkssystem), Gjestenett, GATturnus, Starwatch (Alarmer på overvåkning av server go terminalserver sendes på SMS til Westec), Brukeradmin og Passordhjelpen. IKT Drift drifter ikke denne, men når det er problemer med den får de andre systemene problemer. Vi må ha dokumentasjon slik at vi raskt kan kontakte leverandør når det er problemer.  Brukes også til masseutsendelse av SMS for kunder som bestiller dette via Bestillingswe. Det er TDC som utfører utsendelsene, HD bare videresender bestilling til TDC. "
+SYS_Inf_00018,Artifact,Logonscript,Påloggingsscript
+SYS_Inf_00019,Artifact,Lokasjonsdatabase,"Før en gjør endringer i lokasjonsbasen skal avdelingsledere for SA, Nettverk, Lokaldrift, Helpdesk, Direktør IKT Drift og en representant for SM, konsulteres. "
+SYS_Inf_00063,Artifact,Lokasjonsswitcher ,
+SYS_Inf_00110,Artifact,MAS,"Mobilt Administrasjons System. Citrix sin løsning, XenMobile, for administrasjon av mobile enheter.  Brukes også til å gi appen Mobil Omsorg tilgang til Profil via Micro VPN på Netscaler. "
+SYS_Inf_00085,Artifact,MBAM,"Microsoft Bitlocker Administration and Monitoring  - Verktøy for administrasjon av Bitlocker (diskkryptering i Windows).  SA drifter server og database.
+"
+SYS_Inf_00116,Artifact,Mobile enheter,"Roadmap, dokumentasjon og retningslinjer for drift av mobile enheter"
+SYS_Inf_00007,Artifact,MS SQL,Microsoft SQL Database
+SYS_Inf_00088,Artifact,MS SQL Reporting Services,"System for å lage og kjøre rapporter.
+Forkortelse: SSRS (SQL Server Reporting Serivices)"
+SYS_Inf_00096,Artifact,Nessus,Sikkerhet
+SYS_Inf_00069,Artifact,NetDisco,Lasse som backup?
+SYS_Inf_00048,Artifact,Netscaler,Citrix Netscaler
+SYS_Inf_00108,Artifact,Nettfart,
+SYS_Inf_00043,Artifact,Nettverk,
+SYS_Inf_00015,Artifact,NPS,"Network Policy and Access Services.  RADIUS-tjeneste for trådløst nettverk. 
+Betjener WLAN for adm og elev. bk_mas_adm for mobile enheter."
+SYS_Inf_00002,Artifact,Offentlige Sertifikater,Kompetanseperson for bestilling av Offentlige sertifikater.
+SYS_Inf_00123,Artifact,Office Online Server,"Gir web-basert lese- og redigeringsmulighet for Office-dokumenter i SharePoint, Exchange og Skype"
+SYS_Inf_00111,Artifact,Office365,MS-Office på MS sine webservere. Tilhørere tjenesten drift av arbeidsstasjon
+SYS_Inf_00097,Artifact,Omnicast,Kameraovervåkning IKT Drift
+SYS_Inf_00008,Artifact,Oracle,Database
+SYS_Inf_00021,Artifact,Overvåkning,"Microfocus Open Bridge Sute, BAC - Business Availability Center, NNMi - Network Node Manager, SiteScope, BAC datacollectors"
+SYS_Inf_00022,Artifact,OWA,Outlook Web Access
+SYS_Inf_00094,Artifact,Passwordstate,Passordadministrasjonsverktøy for IKT Drift. Lagrer kryptert.
+SYS_Inf_00023,Artifact,PC telling,"Samling av script, databaser og web-sider.  Blant annet siden for PC lokalisering."
+SYS_Inf_00040,Artifact,PKI,"PKI-infrastruktur for utstedelse og behandling av Interne sertifikater.
+PKI=Public Key Infrastructure.  Bygget på Microsoft AD CS (Active Directory Certificate Services)"
+SYS_Inf_00024,Artifact,Print,"Inneholdt før også XDM, som pga. overvåkning ble skilt ut som et eget system under infrastruktur. Inneholder RightFax."
+SYS_Inf_00073,Artifact,ProCurve Manager,
+SYS_Inf_00107,Artifact,RioRey,RioRey er DDoS beskyttelsen til Bergen kommune. All internettrafikk passerer gjennom denne enheten og meget avanserte algoritmer overvåker trafikken og beskytter ved angrep
+SYS_Inf_00005,Artifact,RSA,RSA Authentication Manager - system for 2-faktor autentisering med brikke eller SMS-melding. Består av 2 Linux-baserte virtuelle appliancer som kjører på VMware.
+SYS_Inf_00029,Artifact,SCCM,Microsoft System Center Configuration Manager
+SYS_Inf_00135,Artifact,SCOM,System Center Operation Manager
+SYS_Inf_00087,Artifact,SCORCH,System Center Orchestrator
+SYS_Inf_00102,Artifact,Shibboleth,"Single-sign in / federation-løsning.  ""Utveksling"" av identitet mellom forskjellige systemer. Se også ADFS. Viktighet her avhenger av hvert fagsystem det er satt opp på. "
+SYS_Inf_00129,Artifact,SMS Driftsmelding,Brukes av EDD til å sende ut SMS til grupper eller enkeltpersoner. Det inneholder en del predefinerte varslingsgrupper.
+SYS_Inf_00070,Artifact,Solan,"Driftsverktøyene, ikke serverdriften"
+SYS_Inf_00028,Artifact,Suse SLES,Linux
+SYS_Inf_00118,Artifact,Sysman,"Sysman SMS server. Sender SMS fra overvåkningen til vaktlagene, via et modem i kjelleren i Spelhaugen 22. Modemet bruker et TDC-abonnement."
+SYS_Inf_00045,Artifact,Systemoversikt,"Oversikt over programpakker, fagsystemer, basissystemer mm."
+SYS_Inf_00046,Artifact,Team Foundation Server,Kildekodekontroll for Visual Studio (og evt. andre utviklerverktøy)
+SYS_Inf_00079,Artifact,Telefoni,Bergen kommune har i dag flere rammeavtaler som kan knyttes til telefoniområdet. IKT Drift sin rolle er å understøtte eksterne leverandører og vi har en rekke prosessorienterte tjenester og delleveranser innenfor ulike deler av telefoniområdene. IKT Drift har ansvaret for operativ håndtering av de ulike rammeavtalene. 
+SYS_Inf_00099,Artifact,TMG,Microsoft Threat Management Gateway
+SYS_Inf_00113,Artifact,Trend Deep Security,
+SYS_Inf_00003,Artifact,Trend Micro,Antivirus
+SYS_Inf_00044,Artifact,Trådløst Nettverk,
+SYS_Inf_00124,Artifact,TU-nett,Testmiljø der en har testsystemer som i mest mulig grad skal være lik prodmiljøet for fagsystemene EDD drifter. 
+SYS_Inf_00122,Artifact,Vaktlag Infrastruktur,
+SYS_Inf_00032,Artifact,Vaktlag SA,Vaktlag på 6-8 personer. Dekker de systemer med nivå 3 som SA har ansvar for drift av. 
+SYS_Inf_00037,Artifact,VMWare,
+SYS_Inf_00126,Artifact,Windows Event Log Server ,"Tar i mot logger fra AD-kontrollere i adm-domenet. Det er meningen at loggene senere skal sendes videre til Greylog, men pr. 23/1-2018 er videresending ikke implementert. "
+SYS_Inf_00115,Artifact,Windows klient,"Roadmap, dokumentasjon og retningslinjer for drift av windowsklienter, basert på SA sitt ansvarsområde. Windows 7 og Windows 10"
+SYS_Inf_00114,Artifact,Windows Server,"Roadmap, dokumentasjon og retningslinjer for drift av windowsservere."
+SYS_Inf_00093,Artifact,Wise,Server for pakketeringsprogram
+SYS_Inf_00066,Artifact,WLAN-kontrollere,
+SYS_Inf_00067,Artifact,WLAN-routere,
+SYS_Inf_00036,Artifact,WSUS,Windows Server Update Services - Microsoft-oppdateringer. For klienter i stor grad overtatt av SCCM som igjen bruker WSUS. Med tiden (2016 ) bør Stig ut fra WSUS og de tre andre overta.
+SYS_Inf_00033,Artifact,Wyse tynnklienter,VDI for Bergen Legevakt
+SYS_Inf_00109,Artifact,XDM,XDM er et system Xerox bruker for å overvåke skriverne sine og sende inn rapporter til Xerox.
+SYS_Inf_00034,Artifact,XenDesktop,Virtuell Løsning brukt av Bergen Legevakt
+SYS_Pro_00204,SystemSoftware,3D studio Max 2011,"Bare tilgjengelig for spesial-pcer. Skal ikke pakkes. Autodesk-verktøy som brukes til 3d-modellering, animasjon og presentasjon. "
+SYS_Pro_00205,SystemSoftware,7-Zip,Komprimering og arkivering av filer
+SYS_Pro_00649,SystemSoftware,AccuWin Pro v 3,Leser av data (24 timers blodtrykk av våre pasienter). Programmet lager statistikk over BT gjennom hele døgnet. 
+SYS_Pro_00657,SystemSoftware,AccuWin Pro v3,Leser av data (24 timers blodtrykk av våre pasienter). Programmet lager statistikk over BT gjennom hele døgnet. 
+SYS_Pro_00206,SystemSoftware,ActiveX-komponenter,Løses etter hvert som det oppstår behov. 
+SYS_Pro_00738,SystemSoftware,"Actor, ver 8",Administrativt system for drift av AdO Arena
+SYS_Pro_00771,SystemSoftware,Adobe Acrobat DC Pro (65234083BC01A12),Konverterer pdf-format til word
+SYS_Pro_00207,SystemSoftware,Adobe Acrobat Pro 9 (54026336AF01A00),"Adobe Acrobat Professional er et verktøy for PDF-redigering. Det må kjøpes lisens for hver PC det skal installeres på.
+"
+SYS_Pro_00208,SystemSoftware,Adobe Acrobat Pro X (65083781AC01A00),"Opprette og vedlikeholde PDF-dokumenter. Lage utfyllbare PDF-skjemaer.  Det må kjøpes lisens for hver PC det skal installeres på.
+"
+SYS_Pro_00209,SystemSoftware,Adobe Acrobat Reader,Program for å lese PDF-dokumenter
+SYS_Pro_00557,SystemSoftware,Adobe Acrobat XI Pro (65195458AC01A00),"Opprette og vedlikeholde PDF-dokumenter. Lage utfyllbare PDF-skjemaer, etc."
+SYS_Pro_00210,SystemSoftware,Adobe Air,Installasjons-støtte
+SYS_Pro_00211,SystemSoftware,Adobe Audition,Lydredigeringsprogram
+SYS_Pro_00718,SystemSoftware,"Adobe Captivate, v8","Lage opplæringsmateriell, enten det er å beskrive hvordan programvare fungerer eller rene presentasjoner til bruk i undervisning/foredrag"
+SYS_Pro_00788,SystemSoftware,Adobe Connect add-in,"Tillegg til Adobe Connect
+
+Min anbefaling er at man i forkant av nettmøtet går til adressen:
+
+https://admin.acrobat.com/common/help/en/support/meeting_test.htm
+
+Hvis man får melding om problem med nettstedets sikkerhetssertifikat, trykk Fortsett til dette nettstedet.
+
+Nettstedet vil foreta 4 tester; flash player, nettilgang til Adobe Connect, hastighetstest og plugintest. Hvis man mangler tillegget, trykk Install Add-in og bekreft at man ønsker å installere tillegget.
+
+Tillegget skal nå bli installert. Dette fungerer også når man ikke har utvidete rettigheter på maskinen.
+
+Det skal nå være mulig å fortsette til møterommet man skal delta i."
+SYS_Pro_00695,SystemSoftware,Adobe Creative Cloud (65206809BC01A12),"Adobe CC er et avansert verktøysett for design, utvikling og produksjon av alt innen media, trykksaker, etc.
+
+Programpakken består av følgende Adobe CC-moduler: Photoshop, Lightroom, Illustrator, InDesign, Premiere Pro*, Adobe Muse, Acrobat XI Pro og After Effects*. 
+
+* Disse er kun tilgjengelig for brukere med 64-bits operativsystem."
+SYS_Pro_00212,SystemSoftware,Adobe Creative Suite 5 Design Std (65057902AF01A00),Adobe Creative Suite 5 Design Standard er et  verktøysett for design og produksjon av trykksaker. Det må kjøpes lisens for hver PC det skal installeres på.
+SYS_Pro_00213,SystemSoftware,Adobe Creative Suite 5.5 Design Std (65122304AC01A00),Adobe Creative Suite 5.5 Design Standard er et  verktøysett for design og produksjon av trykksaker. Det må kjøpes lisens for hver PC det skal installeres på.
+SYS_Pro_00169,SystemSoftware,Adobe Creative Suite 5.5 Dreamweaver,Ikke oppgitt
+SYS_Pro_00533,SystemSoftware,Adobe Creative Suite 6 Design Std (65163314AC01A00),"Adobe Creative Suite ver. 6 Design Standard er et verktøysett for design og produksjon av trykksaker, etc. Den inneholder følgende produkter: Photoshop, Illustrator, InDesign, Acrobat X Pro, Bridge og Media Encoder."
+SYS_Pro_00641,SystemSoftware,"Adobe Creative Suite 6 Design Std, oppgradering fra Adobe CS 5 (65163374AC01A00)","NB! Bare tilgjengelig for de som allerede har kjøpt en CS 5-lisens.    
+Adobe Creative Suite ver. 6 Design Standard er et verktøysett for design og produksjon av trykksaker, etc. Den inneholder følgende produkter: Photoshop, Illustrator, InDesign, Acrobat X Pro, Bridge og Media Encoder."
+SYS_Pro_00643,SystemSoftware,"Adobe Creative Suite 6 Design Std, oppgradering fra Adobe CS 5.5 (65162908AC01A00)","NB! Bare tilgjengelig for de som allerede har kjøpt en CS 5.5-lisens.    
+Adobe Creative Suite ver. 6 Design Standard er et verktøysett for design og produksjon av trykksaker, etc. Den inneholder følgende produkter: Photoshop, Illustrator, InDesign, Acrobat X Pro, Bridge og Media Encoder."
+SYS_Pro_00527,SystemSoftware,Adobe Creative Suite 6 Dreamweaver (65168461AC01A00),"Programvare for design av html-baserte internettsider, også apps."
+SYS_Pro_00610,SystemSoftware,Adobe Creative Suite 6 Master Collection,"Pakken inneholder de nødvendige programmene for å gjennomføre kreativt arbeid – enten det er fotografi, video, lydbehandling, design, web-løsninger, brukt bl.a. på.avansert produksjons- og profileringsløsninger"
+SYS_Pro_00170,SystemSoftware,Adobe Flash player,Nettleser-tillegg for å vise Flash-innhold på nettsider. Pakken inneholder både IE- og Non-IE-versjon av tillegget.
+SYS_Pro_00723,SystemSoftware,Adobe Lightroom 6,Avansert fotoprosessering og bildeorganisering. Kun tilgjengelig for 64-bits operativsystem.
+SYS_Pro_00777,SystemSoftware,Adobe Photoshop CC (65270793BC02A12),Bilderedigeringsprogram
+SYS_Pro_00172,SystemSoftware,Adobe Photoshop Elements 10 (65137894AC01A00),Program for produksjon og redigering av bilder. Til lettere bruk.
+SYS_Pro_00558,SystemSoftware,Adobe Photoshop Elements 11 (65193589AC01A00),Program for produksjon og redigering av bilder. Til lettere bruk.
+SYS_Pro_00560,SystemSoftware,Adobe Photoshop Elements og Premiere Elements 11 (65192996AC01A00),Program for produksjon og redigering av bilder og av film/video. Til lettere bruk.
+SYS_Pro_00683,SystemSoftware,Adobe Photoshop Elements v. 12,Leveres av Atea. Produseres av Adobe- Program for produksjon og redigering av bilder. Til lettere bruk.
+SYS_Pro_00579,SystemSoftware,Adobe Photoshop Lightroom 4 (65164760AC01A00),"Lage fotobok. GPS-tagge bilder i kart. Arkivsystem. Opplasting (Facebook, f.eks.). Eksport. Web album. Utskriftsmaler. Organisere EXIF data. Videosupport, ++"
+SYS_Pro_00559,SystemSoftware,Adobe Premiere Elements 11 (65194233AC01A00),Program for produksjon og redigering av film/video. Til lettere bruk.
+SYS_Pro_00719,SystemSoftware,"Adobe Premiere Elements 13, 65234274AC01A00","Program for produksjon og redigering av video. Til lettere bruksbehov.
+Varenr. 65234274AC01A00. Pris kr. 598 ekskl. mva. Premiere Elements 13.  Multiple Platforms International English AOO License. Lisensnøkkel (serienr.) pakkes inn i programmet. Kopi av tilgangsmelding sendes til Atea as.
+Programmet gjøres tilgjengelig av Adobe gjennom CLP-avtalen via Atea. Konf. med Thoralf Dahle eller Atle Hansen."
+SYS_Pro_00174,SystemSoftware,Adobe Shockwave Player,Plugin for avspilling av shockwave-innhold på nettsider
+SYS_Pro_00175,SystemSoftware,Adra Match Accounts,Kontoavstemmingsprogram (for Socio)
+SYS_Pro_00176,SystemSoftware,Agresso BIF,Agresso batch input formater
+SYS_Pro_00216,SystemSoftware,Agresso Web,Økonomisystem. Agresso web benyttes i utgangspunktet av desentrale enheter.
+SYS_Pro_00588,SystemSoftware,AIS Shiplog,Skipstrafikk overvåking for sikkerhet og beredskap.
+SYS_Pro_00727,SystemSoftware,Alcatel-Lucent_4980,Brukes for Legevakt sentralen
+SYS_Pro_00759,SystemSoftware,AlphaNet,Utendørs info skilt 
+SYS_Pro_00218,SystemSoftware,Altova XMLspy 2008,Ikke oppgitt
+SYS_Pro_00219,SystemSoftware,AMIS 3.1,Avspillingsprogram for lydbøker
+SYS_Pro_00739,SystemSoftware,Analytics Edge Basic Add-in,Trekker ut data fra Google analytics inn i Excel. Overtar etter Excellent Analytics.
+SYS_Pro_00807,SystemSoftware,ArcGIS Maps for Office,"“ArcGIS Maps for Office gives you the power to ask location-related questions of your data, get new insights, and make smarter decisions.» Dette er en gratis add-on til MS Office som muliggjør publisering av kartgrensesnitt via ArcGIS Online og ArcGIS Enterprise"
+SYS_Pro_00840,SystemSoftware,ArcGIS Pro,Avansert GIS produksjoner og analyser
+SYS_Pro_00828,SystemSoftware,Archi,Modellering av virksomhetsarkitektur i Archimate notasjon
+SYS_Pro_00658,SystemSoftware,ArchiCAD,BIM-prosjekteringsverktøy for arkitekter. (BSBO/Grønn etat).
+SYS_Pro_00221,SystemSoftware,ArcPAD,Bare tilgjengelig for spesial-pcer. Skal ikke pakkes. Mobil kart- og datafangstapplikasjon. Berstår av ArvPAD og innebygget Application Builder
+SYS_Pro_00222,SystemSoftware,ArcView 3.2a VISSIT,Desktop GIS fra ESRI med diverse utvidelser.
+SYS_Pro_00786,SystemSoftware,Arduino 1.6.12,Programmeringsspråk. Forutsetter at man har Arduino/Genuino-bord som kan programmeres.
+SYS_Pro_00223,SystemSoftware,Artcut,Program til utstyr til å lage bokstaver/figurer i på skilt mm
+SYS_Pro_00225,SystemSoftware,ArtWeaver Free,Bildeprogram beregnet på kunst- og håndverksfaget
+SYS_Pro_00830,SystemSoftware,Assessment of Motor and Process Skills (AMPS),"Funksjonstest ved standardisert aktivitetsobservasjon. AMPS tester kvaliteten på aktivitetsutførelsen. Pasienten observeres i to aktiviteter. Pasienten velger blant 120 standardiserte aktiviteter. Terapeuten skårer pasientens prosessferdigheter og motoriske ferdigheter i forhold til grad av anstrengelse, effektivitet, sikkerhet og selvstendighet /grad av hjelp. Skåringene bearbeides av et dataprogram. Utstyr og rom avhenger av aktivitet som velges (f.eks. brette tøy, plante om en plante, støvsuge, lage et måltid).."
+SYS_Pro_00230,SystemSoftware,Asta 5.1,"Informasjonssystem for systematisk registrering, lagring og fremfinning av informasjon om arkiver og arkivskapere"
+SYS_Pro_00846,SystemSoftware,Atom,"Programmering (statistikk, øvrig programmering)"
+SYS_Pro_00231,SystemSoftware,Audacity,Lydredigering - og innspilling
+SYS_Pro_00234,SystemSoftware,AutoCAD 2012,Programvare til konstruksjon i 2D og 3D
+SYS_Pro_00236,SystemSoftware,AutoCAD 2013 - 32 bits,Teknisk tegneprogram
+SYS_Pro_00235,SystemSoftware,AutoCAD 2013 - 64 bits,Programvare til konstruksjon i 2D og 3D
+SYS_Pro_00601,SystemSoftware,AutoCAD 2014 ,Arkitekttegningsverktøy
+SYS_Pro_00689,SystemSoftware,AutoCAD 2014 LT,Teknisk tegneprogram
+SYS_Pro_00741,SystemSoftware,AutoCAD 2016,Arkitekttegningsverktøy
+SYS_Pro_00802,SystemSoftware,AutoCAD LT 2018 – 64 bits,Teknisk tegneprogram
+SYS_Pro_00651,SystemSoftware,Autodesk Building Design Premium Suite 2014 for BOH,"Arkitekt tegnings verktøy. Inneholder Revit 2014, AutoCad 2014, Sketchbook Designer 2014, Navisworks Simulate 2014, Workflows 2014 og Autodesk 360. "
+SYS_Pro_00652,SystemSoftware,Autodesk Building Design Standard Suite 2014 for BOH,Mangler
+SYS_Pro_00582,SystemSoftware,Autodesk Building Design Suite Premium 2013 ,Arkitekt tegnings verktøy
+SYS_Pro_00602,SystemSoftware,Autodesk Building Design Suite Premium 2014,"Arkitekt tegnings verktøy. Inneholder Revit 2014, AutoCad 2014, Sketchbook Designer 2014, Navisworks Simulate 2014, Workflows 2014 og Autodesk 360. "
+SYS_Pro_00534,SystemSoftware,Autodesk Design Review,Leser/printer DWG filer
+SYS_Pro_00628,SystemSoftware,Autodesk Infrastructure Design Suite Standard 2016,Arkitekt-programvare. 
+SYS_Pro_00754,SystemSoftware,Autodesk Infraworks 2016,"From transportation to site planning and water analysis and design, InfraWorks 360 offers benefits in planning, preliminary engineering, design, and the management of your infrastructure projects."
+SYS_Pro_00122,SystemSoftware,Autodesk Navisworks Freedom Viewer 2015,Programvareverktøy for å lese 3D-modeller i bygg- og anlegg-prosjekter
+SYS_Pro_00123,SystemSoftware,Avogadro,Molecule editor and visualizer 
+SYS_Pro_00124,SystemSoftware,Bamboo CTH-460 ,Software til elektronisk musematte
+SYS_Pro_00639,SystemSoftware,Bergen Parkering as (BP as)_ftp-overføring,"Integrasjon - schedulert overføringsjobb mot Skidata-nettet, som går to ganger i døgnet"
+SYS_Pro_00126,SystemSoftware,Bergenskart,Kart-innsynsløsning for Inter- og intranett
+SYS_Pro_00127,SystemSoftware,Bewator adgangskontroll,"Adgangskontrollsystem, skal være i byggteknisk nett."
+SYS_Pro_00128,SystemSoftware,Bibliofil,Biblioteksprogram med utlån
+SYS_Pro_00131,SystemSoftware,Bkdok,Produksjon- og revisjonshåndterting av styrende dokumenter
+SYS_Pro_00132,SystemSoftware,Bkdok Administrator,Systemadministrasjon Bkdok
+SYS_Pro_00133,SystemSoftware,Bksak Administrator                  ,Systemadministrasjon bksak
+SYS_Pro_00134,SystemSoftware,Bksak Barcode generator          ,Generere strekkode-ark for bunkeimport i bksak 
+SYS_Pro_00135,SystemSoftware,Bksak Batch Import                  ,Masseimport bksak etter skanning 
+SYS_Pro_00136,SystemSoftware,Bksak Eksport til Onenote         ,Eksportere data fra bksak til papirløs behandling 
+SYS_Pro_00137,SystemSoftware,Bksak E-post import arkiv      ,Program for å importere e-poster fra postmottak til arkivdatabasene 
+SYS_Pro_00138,SystemSoftware,Bksak fotoweb vaa          ,Bksak for vann og avløp 
+SYS_Pro_00139,SystemSoftware,Bksak Import fra Extens            ,Program for å importere fra extens til bksak 
+SYS_Pro_00140,SystemSoftware,Bksak Import skjenkebevilling    ,Program for å importere fra skjema skjenke/serveringbevillinger 
+SYS_Pro_00141,SystemSoftware,Bksak Offentlig journal admin    ,Administrere offentlig journal (hvilke enheter som skal presenteres m.m.)
+SYS_Pro_00142,SystemSoftware,Bksak Offentlig journal eksport  ,Eksportere fra bksak til xml-filer som skal importeres til innsynsdatabasen
+SYS_Pro_00143,SystemSoftware,Bksak Offentlig journal import    ,Importere til publiseringsbasen på nett
+SYS_Pro_00144,SystemSoftware,Bksak Pdf mappe konvertering  ,Program for å pdf-konvertere alle filer på en mappe 
+SYS_Pro_00049,SystemSoftware,Bksak pdf-konvertering    ,Pdf-konvertering av dokumenter i bksak 
+SYS_Pro_00050,SystemSoftware,Bksak Plan- og byggesak         ,Saksbehandlerverktøy for Etat for Byggesak og private planer / Etat for Plan og geodata (I kommentarfeltet skrives det inn evt tilgangsgrupper brukeren skal være med i)
+SYS_Pro_00051,SystemSoftware,Bksak Saksarkiv                      ,Produksjonssystem for arkivpersonale 
+SYS_Pro_00052,SystemSoftware,"Bksak Styrer, råd og utvalg       ",Produskjonssystem for å oppdatere utvalg og medlemmer m.m. 
+SYS_Pro_00053,SystemSoftware,Bksak wwwbkpers,Saksbehandlerverktøy for bkpers (I kommentarfeltet skrives det inn evt tilgangsgrupper brukeren skal være med i)
+SYS_Pro_00054,SystemSoftware,Bksak wwwbkurs                      ,Saksbehandlerverktøy mot kursbase
+SYS_Pro_00055,SystemSoftware,Bksak wwwbystyr                    ,Saksbehandlerverktøy for bystyredatabasen
+SYS_Pro_00056,SystemSoftware,Bksak wwwkemsak                  ,Saksbehandlerverktøy  for kemneren (I kommentarfeltet skrives det inn evt tilgangsgrupper brukeren skal være med i)
+SYS_Pro_00057,SystemSoftware,Bksak wwwsak,Saksbehandlerverktøy for all administrativ saksbehandling (I kommentarfeltet skrives det inn evt tilgangsgrupper brukeren skal være med i)
+SYS_Pro_00576,SystemSoftware,Blom Desktop Viewer,"Program for visning og måling i skråbilder, skal erstatte EFS Pictometry"
+SYS_Pro_00059,SystemSoftware,Boardmaker,"Programvare for å lage kommunikasjonstavler med symboler og tekst, med tale.
+
+Boardmaker® with Speaking Dynamically Pro builds on the power of Boardmaker® Plus! with features like natural sounding voices, word prediction and more! Designed for individuals challenged by significant speech or language disabilities, Boardmaker ® with Speaking Dynamically Pro transforms any computer into a speech output device and powerful student learning tool."
+SYS_Pro_00703,SystemSoftware,BOEI,Forvaltning av kommunale boliger
+SYS_Pro_00061,SystemSoftware,BoInfo,"Fagsystem for søknad og tildeling av bostøtte, utleiebolig og boligfinansiering."
+SYS_Pro_00064,SystemSoftware,braBar og braArkivSplitt,Del av løsning for digitalisering og tilgjengeliggjøring av historisk arkivmateriale i BK
+SYS_Pro_00065,SystemSoftware,BravaClientX,Tillegg til Internet Explorer som brukes fra web-hotell Byggnett
+SYS_Pro_00273,SystemSoftware,Bridge Designer,"Tools to model, test, and optimize a steel highway bridge"
+SYS_Pro_00682,SystemSoftware,Brief_P,Scoringsprogram for bruk i PP-tjenesten - småbarn
+SYS_Pro_00681,SystemSoftware,BRIEF_SP,Skåringsprogram for større barn. I bruk i Fyllingsdalen PPT
+SYS_Pro_00066,SystemSoftware,Brother P-touch 9500PC,Etikettskriverdriver
+SYS_Pro_00733,SystemSoftware,Buypass Javafri løsning,Javafri pålogging til Altinn og andre systemer som bruker javafri pålogging fra Buypass. 
+SYS_Pro_00067,SystemSoftware,Buypass LRA,Bare tilgjengelig for spesial-pcer. Skal ikke pakkes. Sertifikatutstederapplikasjon.
+SYS_Pro_00630,SystemSoftware,Byggnet ActiveX,Tillegg til Internet Explorer som brukes mot byggnet.no/.se./com.
+SYS_Pro_00597,SystemSoftware,Camstudio,Program for å gjøre opptak av skjerm.
+SYS_Pro_00069,SystemSoftware,Camtasia Studio 7.0,Gjør opptak av skjerm. Videoredigering
+SYS_Pro_00532,SystemSoftware,Canon P-150,Driver og programvare for skanner Canon P-150
+SYS_Pro_00070,SystemSoftware,Canon Zoom Browser 6.6,Fotosoftware
+SYS_Pro_00781,SystemSoftware,Cardpresso 1.4.121,Design og print av ID-kort/Driver og utility for skriver
+SYS_Pro_00071,SystemSoftware,CBCL,Skåringsprogram for PPT
+SYS_Pro_00072,SystemSoftware,CCleaner,Driftsrutiner skal sørge for at det ikke er behov for program som Ccleaner
+SYS_Pro_00804,SystemSoftware,cc-Vision,Kalibrering og oppdatering av gassmålerne
+SYS_Pro_00002,SystemSoftware,CD-ORD,"Lese- og skrivestøtteprogram - ligger som en del av image på nye Elev-PCer
+Elevene kan gratis  laste ned fra nettet fra leverandørens nettside på private maskiner  med FEIDE-pålogging.
+Gå inn på Leverandørens  downloadside: https://download.mikrov.no/
+Dette ligger ute på Personalrommet:
+https://www.bergen.kommune.no/aktuelt/personalrommet/9417/article-138475"
+SYS_Pro_00680,SystemSoftware,CELF 4,"CELF-4 er en amerikansk språktest. Den norske versjonen av CELF-4 kom i mai 2013 som et resultat av et skandinavisk samarbeidsprosjekt. CELF-4 er enkel å administrere og gir norske logopeder, psykologer og spesialpedagoger et nytt og viktig redskap i utredning av barn og unge med språkvansker."
+SYS_Pro_00577,SystemSoftware,Chrome for HsPro,Web browser
+SYS_Pro_00740,SystemSoftware,Cisco AnyConnect Secure Mobility Client,VPN-klient
+SYS_Pro_00811,SystemSoftware,Cisco Jabber Video,Tegnspråk – avspilling og opptak
+SYS_Pro_00609,SystemSoftware,Cisco WebEx Active X komponent i nettlesere,"Online meeting, web conferencing. Det finnes ingen pakke for dette. I stedet har det vært mer hensiktsmessig å legge inn regel i Applocker for å tillate denne programvaren å kjøre."
+SYS_Pro_00003,SystemSoftware,Citrix OnlinePlug-in 12.1 Web,Ikke oppgitt
+SYS_Pro_00742,SystemSoftware,Clarify,"Arvtaker etter Textpilot, er ferdig testet. Krever FEIDE-pålogging. 15000 bruker-lisenser er kjøpt, teller kun en bruker pr Feide-pålogging. Kan lastes ned på alle mobile flater"
+SYS_Pro_00797,SystemSoftware,ClickShare Extension Pack,"ClickShare wireless presentation system. The ClickShare Extension Pack is a collection of productivity tools that will enable you to get the most out of ClickShare. It contains the ClickShare launcher, a tool that will start the application for you when inserting the Button, and an extended desktop driver for Windows, which allows you to use the Presentation mode in PowerPoint. "
+SYS_Pro_00004,SystemSoftware,Clue 8.4,Bruk Google translate i stedet. Ikke lenger behov for dette. Oversettelsesprogram engelsk/norsk og norsk/engelsk
+SYS_Pro_00583,SystemSoftware,Communicate: In Print 2,Program for produksjon av all slags trykt materiale og skjermbaserte aktiviteter med både symbol- og bildestøtte.
+SYS_Pro_00007,SystemSoftware,Core FTP Light,Bruk Filezilla
+SYS_Pro_00008,SystemSoftware,Corporater,"Corporater Balanced Scorecard Suite er et verktøy for balansert målstyring. 
+
+Moduler for strategiutvikling, bygging av strategikart, manuell og automatisert datafangst, presentasjon, rapportering og oppfølging av resultater med handlingsplaner. 
+"
+SYS_Pro_00824,SystemSoftware,COWI CodeSigning 2020,"Sertifikat
+Link til Parka https://parka.cowisys.no:8080/parka.aspx?organisasjon=bergen"
+SYS_Pro_00751,SystemSoftware,Crash Recovery - RDW edition,"Informasjon om kjøretøy
+
+Daglig Ansvar: Robin Åsheim(YX847)"
+SYS_Pro_00655,SystemSoftware,Crestron AirMedia Presentation,Trådløs overføring av lyd og bilde fra PC laptop til storskjerm
+SYS_Pro_00545,SystemSoftware,Crystal Reports 2011,Rapporteringsverktøy
+SYS_Pro_00704,SystemSoftware,Crystal Reports for Visual Basics versjon 4.6.1.0,Utviklingsverktøy for BOEI
+SYS_Pro_00789,SystemSoftware,Cubase Elements,"Media (Musikkavspillere, videoavspillere, bilderedigering etc.) Krever lisensnøkkel for å starte. Brukere må selv skaffe lisens fra forhandler."
+SYS_Pro_00011,SystemSoftware,CutePdf Writer,Program for å lage pdf-filer
+SYS_Pro_00528,SystemSoftware,Cyberlink PowerDirector ,Videoredigering
+SYS_Pro_00012,SystemSoftware,Dagligspråk for Windows,Tegn til tale program
+SYS_Pro_00013,SystemSoftware,DameWare Mini Remote Control 32-bit,Fjernstyringsprogram
+SYS_Pro_00014,SystemSoftware,Datango producer 9,eLæringsprogram
+SYS_Pro_00782,SystemSoftware,DAt-Kon analyse,Kartlegging og analyse av atferds- og konsentrasjonsvansker hos barn i førskole- og grunnskolealder
+SYS_Pro_00734,SystemSoftware,DECAdry Soft Pro,"Lage/redigere label f.eks. visittkort, parkeringskort osv."
+SYS_Pro_00017,SystemSoftware,DeepBurner,"CD- og DVD-brenneprogram, ikke nødvendig. Bruk funksjoner i Windows7"
+SYS_Pro_00795,SystemSoftware,Deltaker.no,Brukerstøtte Deltaker.no
+SYS_Pro_00634,SystemSoftware,Det sentrale folkeregister - DSF,Oppslag mot sentralt folkeregister hos ekstern leverandør 
+SYS_Pro_00019,SystemSoftware,DigiCall+,Lekkasjeutstyrsprogram
+SYS_Pro_00020,SystemSoftware,DNRGPS,Program for overføring av data fra Garmin GPS til GIS (tidligere DNRGarmin)
+SYS_Pro_00021,SystemSoftware,Dolphin Lunar,Forstørrelsesprogram for PC
+SYS_Pro_00022,SystemSoftware,Doodle.com,Brukes til å avtale ulike møtedatoer med eksterne konsulenter
+SYS_Pro_00679,SystemSoftware,dRofus TIDA,Planleggingsprogram for byggeprosjekter - klientprogram med sentral base ASP
+SYS_Pro_00024,SystemSoftware,Dropbox,"Fildelingsprogram. Klient blir ikke pakket. Web-side er tilgjengelig for op/nedlasting av enkeltfiler.
+"
+SYS_Pro_00023,SystemSoftware,"Dräger Gas Vision, 5.8.9","Leser av data fra en gassmåler, i hovedsak H2S-gass."
+SYS_Pro_00616,SystemSoftware,DWG Trueview,Viewer for DWG filer
+SYS_Pro_00026,SystemSoftware,Dymo LabelWriter 330 Turbo,Programvare til etikettskriver
+SYS_Pro_00546,SystemSoftware,Dymo LabelWriter 450 Turbo,Programvare til etikettskriver
+SYS_Pro_00730,SystemSoftware,EA Driftssentral,Overvåking av stasjoner i Os kommune
+SYS_Pro_00708,SystemSoftware,EaSentral,Overvåking av stasjoner i Os kommune
+SYS_Pro_00784,SystemSoftware,Easy Correct,Retter digital tekst
+SYS_Pro_00028,SystemSoftware,EasyLog USB,Tar imot temperaturer som er logget på en USB-enhet
+SYS_Pro_00029,SystemSoftware,eBC - Business case,"Verktøy for registrering og oppfølging av IKT-prosjekt. Løsningen er utviklet av IKT-Konsern. Om Helpdesk får forespørsler om eBC, porteføljestyring, IKT-handlinsgplan, kan disse sendes til IKT.konsern@bergen.kommune.no Sekundært med kopi til maj-britt.brobakke@bergen.kommune.no og harald.kjensli@bergen.kommune.no"
+SYS_Pro_00030,SystemSoftware,eBeam Education Suite,Programvare for 3M digital tavle
+SYS_Pro_00758,SystemSoftware,eBeam for digital tavle,Program tilhørende smartboard
+SYS_Pro_00031,SystemSoftware,Eclipse,Programutviklingsrammeverk
+SYS_Pro_00032,SystemSoftware,EclipseCrossword,Produserer kryssord
+SYS_Pro_00034,SystemSoftware,eDoc Designer,Skjema designverktøy 
+SYS_Pro_00036,SystemSoftware,eFactory eDialog administrator,Ikke oppgitt
+SYS_Pro_00037,SystemSoftware,eFactory eDialog operator,"Ikke oppgitt, lisenser må bestilles hos Vidar Aspunvik"
+SYS_Pro_00038,SystemSoftware,e-lector,Lese- og skrivestøtte
+SYS_Pro_00039,SystemSoftware,Elektra Kofax,Venter på oppgradering. Samlebenevnelse på Kofax-programvare og database: ELEKTonisk RørleggerArkiv
+SYS_Pro_00040,SystemSoftware,Elektra Rett og slett,Venter på oppgradering. Elektronisk rørleggerarkiv (georefererte skannede dokumenter)
+SYS_Pro_00041,SystemSoftware,Elprolog,Programmere og lese av loggere
+SYS_Pro_00796,SystemSoftware,EndNote X9,Lagrer og finner litteraturreferanser og lager bibliografier automatisk i Word.
+SYS_Pro_00043,SystemSoftware,Enigma,Korroleringsprogram (lekkasjesøkingsprogram følger med utstyr)
+SYS_Pro_00044,SystemSoftware,EPANET,Bare tilgjengelig for spesial-pcer. Skal ikke pakkes. Spesialprogram på modellerings-PC-er ved BBKM. Modellering og simulering for avløpsnettet.
+SYS_Pro_00045,SystemSoftware,Epanet2,Nettmodellprogram
+SYS_Pro_00598,SystemSoftware,Epiphan Frame Video Grabber,Programmet er for at den synshemmede skal «fange» det som skjer på SmartBoard. Dette får hun presentert på sin egen skjerm og kan ta bilder/video slik at vedkommende ikke trenger å notere.
+SYS_Pro_00707,SystemSoftware,E-post på mobil (Activesync),Tilgang til e-post via mobiltelefon (Activesync).
+SYS_Pro_00573,SystemSoftware,E-post via internett (OWA),Tilgang til e-post via internettet.
+SYS_Pro_00046,SystemSoftware,Epson GT-15000 skanner-software,Ikke oppgitt
+SYS_Pro_00048,SystemSoftware,Equitrac Report manager,Rapporteringsmodul for styrt utskrift
+SYS_Pro_00565,SystemSoftware,eRoom klient,"eRoom is an on-line project collaboration, or collaborative software product from Opentext Corporation."
+SYS_Pro_00430,SystemSoftware,Escort Console Pro,Overfører data fra en logger til pc.
+SYS_Pro_00535,SystemSoftware,Euro2A,POS-software
+SYS_Pro_00432,SystemSoftware,Evernote,Program for å overføre notater og dokumenter mellom enheter
+SYS_Pro_00763,SystemSoftware,Evolis - print driver,Driver til printer for kort
+SYS_Pro_00780,SystemSoftware,Evolis Premium suite 6.25.0.942,Driver og utility for skriver
+SYS_Pro_00434,SystemSoftware,Expert GPS,Ingen brukere. Vil bli fjernet fra listen. Leser og konverterer direkte til shape-filer
+SYS_Pro_00435,SystemSoftware,Extens,Skoleadministrativt system
+SYS_Pro_00834,SystemSoftware,f.lux,Et dataprogram som justerer skjermens fargetemperatur i henhold til sted og tidspunkt på dagen. Programmet ble designet for å redusere belastningen på øynene og for å redusere forstyrrelser på sovemønsteret. 
+SYS_Pro_00437,SystemSoftware,Familia,Saksbehandler- og administrativt system for barnevernstjenesten
+SYS_Pro_00694,SystemSoftware,Farlig gods permen,Håndtering av brann- og eksplosjonsfarlige varer
+SYS_Pro_00438,SystemSoftware,FastSend,"Internettbasert program, årsabonnement. Sikker overføring av filer/kataloger som er for store som vedlegg til e-post. Ubegrenset filstørrelse."
+SYS_Pro_00439,SystemSoftware,FastStone Capture,Utklippsverktøy med utvidete muligheter for redigering av skjermbilde med tekst og figurer.
+SYS_Pro_00440,SystemSoftware,FastStone image viewer,Browser billedkataloger
+SYS_Pro_00441,SystemSoftware,FebDok,Kortslutningsberegning av elektriske anlegg samt dokumentasjon
+SYS_Pro_00442,SystemSoftware,FellesWeb - enhetsregister/eiendomsregister (WEBmatrikkel),Gir adgang til enhetsdata (data om firma/foretak/organisasjoner) i Bergen fra Enhetsregistret i Brønnøysund. Det er mulig fra systemet å slå direkte opp i det sentrale Enhetsregistreret. Eiendomsregisteret gir oversikt over gårds og bruksnummer i Bergen kommune. 
+SYS_Pro_00443,SystemSoftware,FellesWeb - Lokalt folkeregister ,Gir tilgang til folkeregisterdata for Bergen. Bruker må godta spesiell taushetserklæring som gjelder for folkeregisterdata.
+SYS_Pro_00642,SystemSoftware,FFMPEG - Encoding tool,for å få skjermopptakene som lages via Screencastomatic til å kunne lagres som videofiler på admnett og elevnett
+SYS_Pro_00445,SystemSoftware,FileZilla,FTP-klient
+SYS_Pro_00446,SystemSoftware,Finale 2012,Musikknotasjonsprogram - for skanning og utskrift av noter. Krever lisens.
+SYS_Pro_00526,SystemSoftware,Finale 2012 Notepad,"Finale NotePad can create, play, and print music notation. NotePad can also open and save MIDI and MusicXML files. Free version."
+SYS_Pro_00693,SystemSoftware,Fire Training,"Fire Training versjon 1 er utviklet av den svenske Myndigheten for samhällsskydd och beredskap (MSB) i samarbeid med de nordiske landene, Slovenia og Spania, og er ment å gi brann- og redningsetatene basiskunnskaper om brann som fenomen, om brannutvikling og om brannslokking. Treningsprogrammet sendes ut gratis til alle kommunale brannvesen og til DSBs skoler."
+SYS_Pro_00783,SystemSoftware,Fleet Manager II,"Kalibrere gassmålere
+Versjon: 4.3.31"
+SYS_Pro_00770,SystemSoftware,Flowlink,Programvare for å monitorere instrumenter vi har kjøpt av Teledyne.
+SYS_Pro_00737,SystemSoftware,Fluke Connect,Programmet henter logg fra måleinstrument som igjen skal brukes som dokumentasjon på en ny eller gammel elektro  installasjon
+SYS_Pro_00761,SystemSoftware,Focus Arealplan,Verktøy for utvikling av arealplaner.
+SYS_Pro_00452,SystemSoftware,Format Factory,Multifunctional media converter
+SYS_Pro_00381,SystemSoftware,Fotosizer 1.37,Bulk-konvertering av bilder (størrelse og format)
+SYS_Pro_00383,SystemSoftware,"FotoStation for Bergen Vann og Vann og Avløp, fast lisens","Prossessering, gjennfinning og deling av multimediafiler. Fast lisens"
+SYS_Pro_00384,SystemSoftware,"FotoStation for Bergen Vann og Vann og Avløp, flytende lisens","Prossessering, gjennfinning og deling av multimediafiler. Flytende lisens"
+SYS_Pro_00382,SystemSoftware,FotoStation for Byarkivet,"Fagsystem for arkivering av bilde , film og lydfiler. FotoStation kan ogsåbenyttes for søking av alle typer filer samt inneholder verktøy for bilderedigering."
+SYS_Pro_00385,SystemSoftware,FotoWeb,"Systemet er et fellessystem som tilbys alle brukere i Bergen kommune, på intranett med Fotoweb, på spredenett med Fotostation"
+SYS_Pro_00386,SystemSoftware,FotoWeb Desktop,Gjør multimediafiler tilgjengelig over intranettet/internettet
+SYS_Pro_00387,SystemSoftware,Foxit Reader,Program som leser PDF-filer
+SYS_Pro_00391,SystemSoftware,Free PDF to Word Doc Converter,Uønsket.Det er en årsak til at forfatter har distribuert tekst som PDF og ikke redigerbart format. Støtter dessuten bare engelsk.
+SYS_Pro_00392,SystemSoftware,Free PDF unlocker v 1.0.4,Uønsket programvare. Fjerner sikkerhet fra Adobe-dokumenter
+SYS_Pro_00743,SystemSoftware,FreeBASIC,"FreeBASIC is a high-level programming language supporting procedural, object-orientated and meta-programming paradigms, with a syntax compatible to Microsoft QuickBASIC."
+SYS_Pro_00393,SystemSoftware,FreeMind,"Tankekart, java-basert"
+SYS_Pro_00745,SystemSoftware,FreePascal,Programmeringsspråk
+SYS_Pro_00596,SystemSoftware,Fürst Forum,"Fürst Forum er et nettbasert verktøy som sikrer samspillet mellom legekontor og laboratoriet, ved elektronisk rekvirering og svarrapportering."
+SYS_Pro_00714,SystemSoftware,Garmin Express,Muliggjør overføring av data mellom PC og håndholdt GPS
+SYS_Pro_00394,SystemSoftware,Garmin MapSource,Ikke oppgitt
+SYS_Pro_00805,SystemSoftware,Gas vision,Brukes for å hente ut logg fra instrumentet
+SYS_Pro_00753,SystemSoftware,Gatturnus,"Styrer og logger turnus, fravær, variabel lønn og drift innen kompetanse og gjøremål samt har enkelte HR funksjoner f.eks ved fravær"
+SYS_Pro_00395,SystemSoftware,GBD,Tverrfaglig journalsystem for sykehjem
+SYS_Pro_00701,SystemSoftware,GeezIME,Språkpakke for Elevnett
+SYS_Pro_00396,SystemSoftware,Gemini,"Pakke med kommunaltekniske løsninger fra Powel. Inneholder mange moduler.
+I dag består Gemini-porteføljen (desktop) av Gemini VA, Gemini Melding, Gemini Fastmerke, Gemini IndSys, Gemini Oppfølging, Gemini Oppmåling, Gemini Sanitær, Gemini Slam og Gemini Vannmåler."
+SYS_Pro_00721,SystemSoftware,Geneious,"Bioinformatiske analyser, spesielt av DNA-sekvenser"
+SYS_Pro_00397,SystemSoftware,GeoAreal,"Bare tilgjengelig for spesial-pcer. Skal ikke pakkes. Applikasjon for fremstilling og forvaltning av arealplaner, samt forvaltning av norske kartdata"
+SYS_Pro_00398,SystemSoftware,GeoExpress,"Bare tilgjengelig for spesial-pcer. Skal ikke pakkes. Tilgang, vedlikehold  og distribusjon av store mengder rektifiserte bilder. Lager MR.Sid-filer"
+SYS_Pro_00399,SystemSoftware,Geogebra,"Gratis, dynamisk matematikkprogram, beregnet brukt bl.a. på eksamen uten nettilkobling"
+SYS_Pro_00400,SystemSoftware,Geonext 1.51,Programvare for dynamisk matematikk
+SYS_Pro_00401,SystemSoftware,GeoSKTrans,Bare tilgjengelig for spesial-pcer. Skal ikke pakkes. Transformasjon mellom koordinatsystemer
+SYS_Pro_00403,SystemSoftware,GeoView Web,"Spesial-PC. Vær, vind, strømningsdata på sjø"
+SYS_Pro_00404,SystemSoftware,Gimp 2,Bilderedigeringsprogram
+SYS_Pro_00333,SystemSoftware,GISLine,"Bestående av 12 moduler, 1 lisens pr. modul. 
+GisLine Innsyn kan presentere store mengder vektor og rasterdata sømløst fra GISLINE systemets kartserver, eller lese enkeltstående kartbaser/ rasterfiler.Utsnitt for"
+SYS_Pro_00334,SystemSoftware,Git,Adm-syst for kildekode
+SYS_Pro_00592,SystemSoftware,GoGlobal,Tilgjengeliggjør styrings- og overvåkingsdata fra Cactus-nettet i ADM-nettet.
+SYS_Pro_00335,SystemSoftware,Google Chrome,Nettleser - for adm og elev
+SYS_Pro_00336,SystemSoftware,Google Earth,Digitalt verdenskart
+SYS_Pro_00686,SystemSoftware,GoPro Studio,Videoredigering
+SYS_Pro_00735,SystemSoftware,GoToMeeting,"Go to meeting. Fil som er nødvendig for å få kjørt webinar. 
+Programmet startes ved å gå til https://www.gotomeeting.commeetingjoin-meeting. Skriv inn møte ID og trykk Join. Tillat programmet å laste ned og kjøre."
+SYS_Pro_00338,SystemSoftware,GP Untis,Timeplanleggingsprogram
+SYS_Pro_00670,SystemSoftware,GPG4Win,"Tilbyr pgp-tjenester gjennom åpen kildekode varianten, gpg implemementert for MS Windows."
+SYS_Pro_00342,SystemSoftware,G-Prog Beskrivelse,"Anbudssystem,NorConsult Informasjonssystemer G-Prog beskrivelse 9 for BKB - installsjon"
+SYS_Pro_00343,SystemSoftware,G-prog Linker,Bearbeiding og utveksling av byggebeskrivelser med mengder og priser
+SYS_Pro_00551,SystemSoftware,GraphiSoft BimX Desktop Viewer ver BimX15 - 3267,Viser 3D-modeller produsert av BimX for Graphisoft ArchiCAD
+SYS_Pro_00819,SystemSoftware,GraphoGame,Lesetreningsprogram
+SYS_Pro_00339,SystemSoftware,Graphtec CS500-11eN skanner,Skannerprogramvare
+SYS_Pro_00544,SystemSoftware,Graphtec CS610,Scannersoftware
+SYS_Pro_00725,SystemSoftware,GRID3,Kommunikasjonsprogram
+SYS_Pro_00178,SystemSoftware,Grubletegninger,Grubletegninger er tegninger som tar opp synspunkter på naturfaglige problemstillinger fra dagliglivet.
+SYS_Pro_00341,SystemSoftware,Gurosoft,Ekstern web løsning;Overtatt etter VKIS (VannKvalitetsInformasjonsSystem). Ikondistribusjon.
+SYS_Pro_00604,SystemSoftware,Handyman ePocket,"Arbeidsregistrering, synking mot Agresso"
+SYS_Pro_00692,SystemSoftware,HazMat Training,Opplæringsprogram i farlig gods
+SYS_Pro_00793,SystemSoftware,Helvar Designer 4.2.50,Overvåknings verktøy for alle belysning som er installert i klostergarasjen
+SYS_Pro_00344,SystemSoftware,Hjort- og fallvillt,Tildeling av jaktområder  løyve  registrering av fallvilt etc.
+SYS_Pro_00537,SystemSoftware,HP Color Laserjet 2600N,Driver og software til skriver
+SYS_Pro_00346,SystemSoftware,Hp Designjet 4000 HPGL2 plotter,Driver mm
+SYS_Pro_00524,SystemSoftware,HP Designjet T2300 eMFP series plotter,Driver til plotter
+SYS_Pro_00538,SystemSoftware,HP Officejet Pro 8000,Driver og software til skriver
+SYS_Pro_00347,SystemSoftware,HSPro,Ikke oppgitt
+SYS_Pro_00549,SystemSoftware,Huawei E3131 Mobile Broadband USB Stick,Programvare for USB internettstick (mobilt bredbånd)
+SYS_Pro_00813,SystemSoftware,Huawei E8278 LTE Mobile WiFi Smart ,Programvare for USB internettstick (mobilt bredbånd)
+SYS_Pro_00349,SystemSoftware,Huawei Internet Stick E173,Programvare for USB internettstick (mobilt bredbånd)
+SYS_Pro_00717,SystemSoftware,Huawei Mobile Partner E3372,Programvare for USB internettstick (mobilt bredbånd)
+SYS_Pro_00543,SystemSoftware,IBM SPSS Statistics,Program for å utarbeide statistikker
+SYS_Pro_00350,SystemSoftware,ICF,"Kodeverk for helsevesenet -  International Classification of Functioning, Disability and Health "
+SYS_Pro_00351,SystemSoftware,IE Developer Toolbar 1.00.2189.0,Utviklerverktøy for nettleser
+SYS_Pro_00352,SystemSoftware,iFinger,Engelsk - norsk / Norsk - engelsk. Ikke Windows 7. Bruk alternativ.
+SYS_Pro_00353,SystemSoftware,ImgBurn,Lightweight CD / DVD / HD DVD / Blu-ray burning application
+SYS_Pro_00817,SystemSoftware,In Print 3,"Pedagogisk program.
+NB! Når denne skal aktiveres via aktiveringsveiviseren må proxy settes manuelt til proxy.bergen.kommune..no (85.19.187.20) med port 8080. Innstillingen gjøres inne i aktiveringsveiviseren, ikke i nettverksinnstillingene."
+SYS_Pro_00608,SystemSoftware,Infovox3,"Talesyntese, skjermleser"
+SYS_Pro_00854,SystemSoftware,Inputlog,Inputlog er et tastetrykksprogram. 
+SYS_Pro_00713,SystemSoftware,Internet Explorer 11,Nettleser
+SYS_Pro_00799,SystemSoftware,IP Desktop Softphone klient,Fasttelefon på PC
+SYS_Pro_00286,SystemSoftware,IrFanView,"Bilde-viser, konverter bildefiler i batch"
+SYS_Pro_00762,SystemSoftware,IRIScan Mouse,Driverprogram som gjør det mulig å benytte IRIScan mouse skannemus til elevpcer
+SYS_Pro_00752,SystemSoftware,ISY Calcus,LCC-beregninger på bygg
+SYS_Pro_00287,SystemSoftware,ISY Eiendom Park,Ikke Windows 7-kompatibelt. Ekstern web løsning; ASP løsning men med en liten lokal installasjon i tillegg
+SYS_Pro_00288,SystemSoftware,iTunes,"Managementverktøy for iOS. Mediabutikk, applikasjonsbutikk, etc. "
+SYS_Pro_00289,SystemSoftware,Jabra Direct,"Oppdateringsverktøy for Jabra headset (til telefonkonsultasjoner), både kablede og trådløse"
+SYS_Pro_00290,SystemSoftware,Java,Nye versjoner av Java blir normalt distribuert etter hvert som de blir tilgjengelig.
+SYS_Pro_00291,SystemSoftware,Java jdk,Utviklingsverktøy
+SYS_Pro_00292,SystemSoftware,JDirPrinter,"Utskrift av katalogstrukturer, virker ikke i W7/user, letes etter alternativ"
+SYS_Pro_00293,SystemSoftware,Jing,Bruk innebygget Utklippsverktøy (i StartAlle programmerTilbehør)
+SYS_Pro_00749,SystemSoftware,Jing,"Skjermopptak, bilder og video."
+SYS_Pro_00842,SystemSoftware,JMP 14.0 ESD Software,Dataanalysverktøyet
+SYS_Pro_00654,SystemSoftware,Joboffice,Byggvedlikehold
+SYS_Pro_00298,SystemSoftware,JRuler,Linjal til målinger på skjermen
+SYS_Pro_00539,SystemSoftware,Junos Pulse Win32 / Win64,VPN klient for Juniper brannvegg. 
+SYS_Pro_00776,SystemSoftware,KeePass,Et sikkert passordhvelv der brukere kan lagre og få tilgang til egne passord.
+SYS_Pro_00548,SystemSoftware,Keyman desktop professional 7.1,For å skrive Amharisk i Windows 7
+SYS_Pro_00666,SystemSoftware,Klagesaker Legevakt,Klagesaker legevakt er et forskningsprogram som BLV deltar i. Det er et program som er installert på VDI-klienten og som skal samhandler med Profdoc. Programmet lager en fil som skal sendes til en fast adresse i Norsk Helsenett. Overføringen til NHN styres av programmet. 
+SYS_Pro_00299,SystemSoftware,K-Lite Codec pack Standard ,"Kodeker til film og video, inngår i VLC, bruk VLC."
+SYS_Pro_00600,SystemSoftware,KODU Game Lab,Kodu lets kids create games on the PC and XBox via a simple visual programming language.
+SYS_Pro_00769,SystemSoftware,KomTek Forvaltning for Brannvesenet,Kobler opp en VPN tunnel
+SYS_Pro_00301,SystemSoftware,KomTek Forvaltning for Kemneren,KomTek utnytter data fra Matrikkelen til å vedlikeholde basisinformasjon i de kommunale registre og knytter ulike fagdata sammen med digitale kart/geografiske informasjonssystem.
+SYS_Pro_00827,SystemSoftware,Komtek Forvaltning for Miljørettet Helsevern,Komtek Forvaltning for Miljørettet Helsevern
+SYS_Pro_00833,SystemSoftware,Komtek Gebyrimport,"Gir oversikt over inntekt, henter data fra Komtek Forvaltning-databasen til brannvesenet."
+SYS_Pro_00305,SystemSoftware,Kursbørsen,Kursadministrasjonssystem
+SYS_Pro_00306,SystemSoftware,Labbe Langøre - Lek og Lær 2: 3-5 år,Programmet kan ikke kjøres i W7 med standard brukerrettigheter. Forberedende begrepstrening for barnehagebarn
+SYS_Pro_00307,SystemSoftware,Labbe Langøre - Lek og Lær 2: 4-6 år,Programmet kan ikke kjøres i W7 med standard brukerrettigheter. Forberedende begrepstrening for barnehagebarn
+SYS_Pro_00773,SystemSoftware,LeakFinderST,"Programmer tilknyttet utstyr (Drivere, data-avlesing og -presentasjon etc)"
+SYS_Pro_00272,SystemSoftware,Lego Educations WeDo,Programmering med  lego-elementer
+SYS_Pro_00646,SystemSoftware,Lego Mindstorms Education EV3,Programmerer robot
+SYS_Pro_00237,SystemSoftware,Lego Mindstorms NXT 2.1.6 (NORM pakken),Programmering av lego-roboter
+SYS_Pro_00792,SystemSoftware,Leiter-3 Scoring ,Scorings program til en evne testing
+SYS_Pro_00837,SystemSoftware,Lenel 7-0 Alarm - Onguard,Kameraoveråkning
+SYS_Pro_00590,SystemSoftware,Lexia 4,Språktreningsprogram for mennesker med lese- og skrivevansker
+SYS_Pro_00243,SystemSoftware,LibreOffice,Open Source office applikasjonspakke
+SYS_Pro_00591,SystemSoftware,LifeCam Studio,Skal benyttes til filming av tolking for døve
+SYS_Pro_00244,SystemSoftware,LingDys,Lese- og skriveverktøy
+SYS_Pro_00245,SystemSoftware,LingRight,Lese- og skriveverktøy
+SYS_Pro_00248,SystemSoftware,Logitech Webcam 1.1,"Webkamera-software - blir ikke pakket, bruk heller Camstudio"
+SYS_Pro_00697,SystemSoftware,Logos,Diagnostisk lesetest av elever. 
+SYS_Pro_00755,SystemSoftware,Lovdata Pro,"Lovdata Pro gir tilgang til rettskilder, registre og rettsområder på internett via nettleser. Alle ansatte i Bergen kommune kan bli registrert  som personlig bruker av tjenesten.<br/><br/> IKT Drift har ikke brukerstøtte på systemet. IKT Drift håndterer tilganger og årlig fakturering. <br/><br/>Hjelp og informasjon om systemet finner du her:  <a href=""https://lovdata.no/pro/#article&url=/info/hjelpeside_for_lovdata_pro""</a>(krever innlogging).</a>
+<br/><br/>Tilgang til Lovdata Pro forutsetter e-postadresse i Bergen kommune.<br/><br/>Utregistrering av tjenesten skjer ved at du i kommentarfeltet skriver: Utregistrering  Lovdatal Pro: e-postadresse til bruker som skal utregistreres"
+SYS_Pro_00671,SystemSoftware,Lync 2013,"Microsoft Lync 2013 er et verktøy for samhandling. De viktigste funksjonalitetene er: sending av direktemelding, Lync-samtale, videosamtale, videokonferanse og deling av dokumenter. Microsoft Lync 2013 er integrert med skype."
+SYS_Pro_00603,SystemSoftware,MagiCAD 2013.4 for Autodesk BDS ,Arkitekt tegnings verktøy
+SYS_Pro_00581,SystemSoftware,MagiCAD for Revit og AutoCAD,Arkitekttegningsverktøy
+SYS_Pro_00259,SystemSoftware,Magnimaster Gold 3.5,Ikke Windows 7-kompatibelt
+SYS_Pro_00260,SystemSoftware,Mamut Office Standard,"Regnskapsprogram, lokalt installert på én PC"
+SYS_Pro_00146,SystemSoftware,Matematikk i Måneby,Matematikkprogram
+SYS_Pro_00722,SystemSoftware,Math-o-mir,Mattematikkskriveprogram
+SYS_Pro_00149,SystemSoftware,Matrikkel.no,Tilgang til grunnboken. Javabasert.
+SYS_Pro_00150,SystemSoftware,Maven,Java prosjektverktøy
+SYS_Pro_00791,SystemSoftware,MedCalc,Statistikkpakke
+SYS_Pro_00669,SystemSoftware,Medisinautomat Bergen fengsel,Nettverksmessig tilkopling fra tynnklientene (VDI-klientene) i fengselet slik at de kan kommunisere med medisinautomaten
+SYS_Pro_00778,SystemSoftware,Metafon Bildetema,Inneholder bilder/ikoner
+SYS_Pro_00823,SystemSoftware,Metasys Launcher,Logge på og fjernstyre SD-anlegg på kommunale bygg
+SYS_Pro_00571,SystemSoftware,Micro Rolltalk,Program for kommunikasjon mellom PC og tilkoplet Micro Rolltalk. Tillegg til Rolltalk Designer.
+SYS_Pro_00151,SystemSoftware,Microsoft Access,"Del av Microsoft Office 2010, preinstallert."
+SYS_Pro_00152,SystemSoftware,Microsoft Application Virtualization Desktop Client x86,App-V er klienten for kjøring av app-v pakker. (MS application virtualization and application streaming solution)
+SYS_Pro_00615,SystemSoftware,Microsoft Diagnostics and Recovery Toolset 7.0 x86 (DART),"Feilsøkingsverktøy for Windows 7 mm. 
+Driftsverktøy kun tilgjengelig for IKT Drift."
+SYS_Pro_00153,SystemSoftware,Microsoft Excel,"Del av Microsoft Office 2010, preinstallert."
+SYS_Pro_00156,SystemSoftware,Microsoft Mathematics - tillegg for Word og OneNote,Tillegg for å kunne utføre grafiske kalkulatorer og gjøre matematiske beregninger i Word og OneNote
+SYS_Pro_00613,SystemSoftware,Microsoft Network Monitor,"Verktøy for nettverkssniffing, feilsøking mm.. Tilsvarende som Wireshark, men har protokoll-parser som i en del tilfeller er bedre på å tolke Windows-basert nettverkstrafikk.
+Driftsverktøy som kun skal være tilgjengelig på IKT Drift."
+SYS_Pro_00157,SystemSoftware,Microsoft Office 2010,"Kontorstøtteprogrammer. Word, Excel, Powerpoint, Outlook og OneNote er preinstallert."
+SYS_Pro_00158,SystemSoftware,Microsoft Office 2010 Language pack fransk/spansk,Ikke oppgitt
+SYS_Pro_00159,SystemSoftware,Microsoft Office 2010 Language pack kinesisk,Ikke oppgitt
+SYS_Pro_00160,SystemSoftware,Microsoft OneNote,"Del av Microsoft Office 2010, preinstallert."
+SYS_Pro_00161,SystemSoftware,Microsoft Outlook,"Del av Microsoft Office 2010, preinstallert."
+SYS_Pro_00162,SystemSoftware,Microsoft PowerPoint,"Del av Microsoft Office 2010, preinstallert."
+SYS_Pro_00163,SystemSoftware,Microsoft Project 2007,Ikke oppgitt
+SYS_Pro_00729,SystemSoftware,Microsoft Project Pro 2013/6 (H30-05641),"MS Project Pro 2013 er et kraftig visuelt verktøy til administrasjon av alle typer prosjekter og programmer. Project Pro 2013 inneholder verktøy for planlegging, administrasjon og samarbeid, både med enkeltpersoner og team. Ved bestilling av MS Project Pro 2013 vil du også få tilgang til 2010-versjonene av samme program. NB! Det er 2010-versjonen som skal installeres dersom du skal bruke programmet i tilknytning til Prosjektallmenningen."
+SYS_Pro_00166,SystemSoftware,Microsoft Project Viewer,"Microsoft har ikke et viewerprogram. Det finnes tredjepartsprogrammer, men ingen er bestilt pakket."
+SYS_Pro_00167,SystemSoftware,Microsoft Publisher 2010,"Publiseringsverktøy - et program for publisering av bl.a.  hefter , postkort, bulletiner, nettsteder og epost."
+SYS_Pro_00168,SystemSoftware,Microsoft Silverlight,Nettleser-tillegg for å avspille silverlight-innhold på nettsider.
+SYS_Pro_00073,SystemSoftware,Microsoft SQL Server Management Studio Express,For oppkobling mot MSSQL-Databaser
+SYS_Pro_00698,SystemSoftware,Microsoft Threat Modelling Tool 2014,Microsoft Threat Modelling Tool 2014 - verktøy for å analysere sikkerhet i systemer
+SYS_Pro_00808,SystemSoftware,Microsoft Visio Pro for Office 365,Opprett alle slags profesjonelle diagrammer enkelt med ferdiglagde maler og 250 000 figurer i Visios innholdsdatabase.
+SYS_Pro_00831,SystemSoftware,Microsoft Whiteboard (Preview),Tegneprogram for nettbrett med Windows 10 og Surface Hub
+SYS_Pro_00074,SystemSoftware,Microsoft Windows Mobile Device Center,"Automatinstalleres ved tilkopling av enhet, trenger ikke pakkes. Synkroniseringsprogram mellom mobiltelefon/PDA og bærbar PC (tidligere ActiveSync)"
+SYS_Pro_00075,SystemSoftware,Microsoft Word,"Del av Microsoft Office 2010, preinstallert."
+SYS_Pro_00076,SystemSoftware,Mike Flood,"Bare tilgjengelig for spesial-pcer. Skal ikke pakkes. Spesialprogram på modellerings-PC-er ved BBKM. Modellering og simulering av oversvømmelse av elver, marker og dreneringssystemer"
+SYS_Pro_00077,SystemSoftware,Mike Urban,Bare tilgjengelig for spesial-pcer. Skal ikke pakkes. Spesialprogram på modellerings-PC-er ved BBKM. Modellering og simulering av vanndistrubusjon. 
+SYS_Pro_00078,SystemSoftware,Mikogo,"Online møter etc, ikke gratis. Bruk andre løsninger."
+SYS_Pro_00847,SystemSoftware,MindManager,Program for å produsere tankekart
+SYS_Pro_00750,SystemSoftware,Minecraftedu,"Programmerer. Programmet fungerer og klarer å koble til server i elevnettet. Det fungerer også i adm-nettet, men klarer der ikke å koble seg til server og programmet distribueres derfor ikke dit p.t."
+SYS_Pro_00605,SystemSoftware,Minneslek Flex,Minnetreningsprogram
+SYS_Pro_00179,SystemSoftware,Motic Eco Tool,Program til digitalt mikroskop
+SYS_Pro_00080,SystemSoftware,Motic Educator,"Program til digitalt mikroskop og lupe, versjon for ungdomsskole"
+SYS_Pro_00594,SystemSoftware,Motic Images Plus for MoticamX,Kamera til luper som skolene allerede har
+SYS_Pro_00081,SystemSoftware,Motic Play,"Program for digitalt mikroskop og lupe, versjon for barneskole"
+SYS_Pro_00082,SystemSoftware,Motorvognregisteret,Ekstern DB over registrerte motorkjøretøy
+SYS_Pro_00083,SystemSoftware,Mouse,Bare tilgjengelig for spesial-pcer. Skal ikke pakkes. Spesialprogram på modellerings-PC-er ved BBKM.
+SYS_Pro_00801,SystemSoftware,Movavi Video Suite,"Videoredigering, fotoredigering, opptak av skjerm, videokonvertering"
+SYS_Pro_00085,SystemSoftware,Mozilla Firefox,Nettleser
+SYS_Pro_00086,SystemSoftware,MP Navigator EX,Driver og applikasjon for skanning (Canon 5600F)
+SYS_Pro_00724,SystemSoftware,MS Project 2013/6 Standard (076-05702),Verktøy for strukturert prosjektstyring på egen PC.
+SYS_Pro_00510,SystemSoftware,MuseScore 1.2,Programvare for komposisjon og noteskriving
+SYS_Pro_00614,SystemSoftware,MySQL Workbench 5.2 CE,"Administrasjonsverktøy for MySQL.
+Driftsverktøy som er tilgjengelig for IKT Drift."
+SYS_Pro_00088,SystemSoftware,NBR pro,Web-applikasjon. Tilgang til dokumentmaler ifm byggesaker
+SYS_Pro_00089,SystemSoftware,NCR1 Nordea kortleserdriver,"Driver til Nordea kortleser, virker ikke, bruker har funnet altenativ løsning."
+SYS_Pro_00090,SystemSoftware,Netobjects Server Administrator,Ikke oppgitt
+SYS_Pro_00091,SystemSoftware,Netobjects Team Fusion,Publiseringsverktøy for Intranett og Internett
+SYS_Pro_00586,SystemSoftware,NetOP - 32bits,Fjernpålogging til Parkeringssystem
+SYS_Pro_00593,SystemSoftware,NetOp - 64 bits,Fjernpålogging til parkeringssystem
+SYS_Pro_00566,SystemSoftware,NettSoft nøkkelbank,Drift / vedlikehold nøkkelsystem 
+SYS_Pro_00841,SystemSoftware,Neutraface,"Programmet er en font som biblioteket bruker all promotering, som plakater, program og nettside"
+SYS_Pro_00092,SystemSoftware,NHN Adresseregister,Støttesystem for Profil
+SYS_Pro_00094,SystemSoftware,NilBild,Bildedatabase
+SYS_Pro_00095,SystemSoftware,Niton Data Transfer suite 6.5.5,"Leser av data fra en grunnstoffjordmåler innholdet av grunnstoff i ulike medier, jordforurensning, trykkimpregnert treverk, metaller etc"
+SYS_Pro_00097,SystemSoftware,Nober,Web-applikasjon. Hovedsystemet under beredskapsøvelser eller i reelle situasjoner.
+SYS_Pro_00774,SystemSoftware,Noisetools,Laster inn data fra ny støymåler
+SYS_Pro_00098,SystemSoftware,Nokia Internet Modem,Ikke oppgitt
+SYS_Pro_00099,SystemSoftware,Nokia Internet Modem 1.2,Ikke oppgitt
+SYS_Pro_00100,SystemSoftware,Nokia OVI Suite,Synkroniseringsverktøy
+SYS_Pro_00503,SystemSoftware,Nordic Eye Solo,Program til forstørrelseskamera
+SYS_Pro_00664,SystemSoftware,Nortronic NB09,Programmeringsverktøy for billettautomater av merket Nortronic
+SYS_Pro_00101,SystemSoftware,Notepad++,Tekst-editor
+SYS_Pro_00541,SystemSoftware,NovaPoint 18.40,"Overbygning på Autocad-versjoner. Består av Novapoint Basis, Arealplan, Road Sign, Vann og avløp,"
+SYS_Pro_00803,SystemSoftware,Novapoint v21,"Overbygning på Autocad-versjoner. Består av Novapoint Basis, Arealplan, Road Sign, Vann og avløp, Veg standard, Veg Utvidet, Vegoppmerking, Landskap, Terreng."
+SYS_Pro_00855,SystemSoftware,Novapoint Viewer,Viewer fot Novapoint filer
+SYS_Pro_00104,SystemSoftware,NSD Stat,Statistikk program (Data Utforsker og Data Manager)
+SYS_Pro_00105,SystemSoftware,NTK,Ikke oppgitt
+SYS_Pro_00536,SystemSoftware,NVDB,Norsk veidatabase
+SYS_Pro_00106,SystemSoftware,NygSys 9.36,Refusjon/elevsystem Nygård skole (minoritetsspråklige)
+SYS_Pro_00110,SystemSoftware,ODIN arkiv,Skannede byggesaks-dokumenter.
+SYS_Pro_00760,SystemSoftware,Office MIX,Tillegg til MS Office Powerpoint 2013.  Create and share interactive online videos
+SYS_Pro_00112,SystemSoftware,OfficeCustomUIEditor,Office custom UI editor is a tool to edit the Office custom UI XML part in the Open XML file format.
+SYS_Pro_00113,SystemSoftware,Omnibus,Bildedatabase
+SYS_Pro_00826,SystemSoftware,Omnijoin,Online Videokonferanseverktøy
+SYS_Pro_00114,SystemSoftware,Onenote creator,Program for møteforberederne Papirløs forvaltning
+SYS_Pro_00563,SystemSoftware,OnGuard,Programvare til å lage kort som hjemmetjenesten skal bruke til identifikasjon
+SYS_Pro_00115,SystemSoftware,OnGuard Foto-ID,Blir stående på XP og flyttes til byggteknisk nett. Design av id-kort mm
+SYS_Pro_00116,SystemSoftware,OpenOffice,Kontorstøtteprogrammer.
+SYS_Pro_00820,SystemSoftware,OpenShot Video Editor,Videoproduksjon
+SYS_Pro_00117,SystemSoftware,OpenVPN,VPN-software
+SYS_Pro_00118,SystemSoftware,Opera,Nettleser
+SYS_Pro_00119,SystemSoftware,Oracle Client 11.x,Program som må være installert for at databaseapplikasjonen kan få kontakt med oracle - databasen
+SYS_Pro_00120,SystemSoftware,Oracle sql Developer 2.1.0.63.73,"Gammel versjon, pakkes ikke. Bruk ny versjon."
+SYS_Pro_00477,SystemSoftware,Oracle SQL Developer 3.0,SQL modelleringsverktøy
+SYS_Pro_00547,SystemSoftware,Ordnett Pluss,Ordnett Pluss er et program som installeres på din datamaskin. Da har du tilgang til alle ordbøkene direkte fra datamaskinen – uten behov for Internett-tilkobling.
+SYS_Pro_00668,SystemSoftware,Oscilla Audiometer for virtuelle klienter,"Programvare for Audiometri-utstyr som brukes av Bedriftshelsetjenesten. Koblet til tynn-klient, for gjennomføring av hørselstester."
+SYS_Pro_00479,SystemSoftware,Paint.Net,Tegne program / bildeprogram
+SYS_Pro_00481,SystemSoftware,Panasonic skannerdriver KV-S5055C,Driver mm
+SYS_Pro_00482,SystemSoftware,Pasco Dataloggere,Datalogging 
+SYS_Pro_00483,SystemSoftware,Pasco SPARKvue,Programvare til dataloggere
+SYS_Pro_00633,SystemSoftware,PC Meter Connect,"Programvare og driver for frankeringsmaskin. (til bruk på 32-bits maskiner). Driveren fungerer ikke sammen med windows 10.
+"
+SYS_Pro_00484,SystemSoftware,Pc Tools fra www.sonimtech.com,Mobiltelefon/GPS-software fra www.sonimtech.com
+SYS_Pro_00800,SystemSoftware,Pdanalyze Fidas,Henter inn og tolker datafiler fra svevstøvmåler
+SYS_Pro_00656,SystemSoftware,Pegasus for Rolltalk Designer,Ferdiglaget opplegg for Rolltalk Designer 8. For å få tilgang må man ha meldt seg inn i NLB og ha mottatt lisenskode fra Abilia. Tilgang gis til logopeder som har lisens til Pegasus.
+SYS_Pro_00486,SystemSoftware,Pervasive Data Integrator 9.2.5.28,"For migrering av databaser, flatfiler, m.m."
+SYS_Pro_00487,SystemSoftware,Photostory 3,Bildefortellinger med animasjon og lyd
+SYS_Pro_00488,SystemSoftware,PhysioTools,Ikke oppgitt
+SYS_Pro_00556,SystemSoftware,Pictogram,"Tegn, symboler og bilder for kommunikasjon"
+SYS_Pro_00720,SystemSoftware,Picus Expert,"The PiCUS® Sonic Tomograph is an instrument to detect decay and cavities in standing trees non-invasively. The velocity of sound waves in wood depends on the modulus of elasticity and the density of the wood itself. The PiCUS unit tracks the speed of these waves. Most damage and disease causes fractures, cavities, or rot and reduces the wood’s elasticity and density."
+SYS_Pro_00492,SystemSoftware,Pinnacle Studio 15 HD Nordisk,Videoredigeringsprogram.
+SYS_Pro_00580,SystemSoftware,Pinnacle Studio 16 HD,Videoredigeringsprogram.
+SYS_Pro_00493,SystemSoftware,Pivot Animator,Animasjonsprogram
+SYS_Pro_00494,SystemSoftware,PixEdit,Pix-Edit:Skannerverktøy for BKSak og Byggesaksarkivet
+SYS_Pro_00635,SystemSoftware,PL-2303 USB-to-Serial,Driver for USB-til-Seriell adapter
+SYS_Pro_00495,SystemSoftware,Plania,System for eiendomsforvaltning og drift/vedlikehold
+SYS_Pro_00496,SystemSoftware,POLYDOC  v3.01,Databasesystem for lagring og søking i fritekst
+SYS_Pro_00497,SystemSoftware,PortWin,Havnedatasystem
+SYS_Pro_00180,SystemSoftware,PostgreSQL 9.3,Ikke oppgitt
+SYS_Pro_00687,SystemSoftware,PostgreSQL 9.3 - 64-bit,ODBC oppkopling til posgresql databaser
+SYS_Pro_00822,SystemSoftware,Power BI Desktop,"Power BI Desktop er en gratisversjon av Power BI, et analyseverktøy for data. Det er ikke mulig å dele rapporter med gratisversjonen, den kan kun brukes til å analysere data på egen PC. Skal data deles må Power BI Pro kjøpes, som krever lisens i Office365"
+SYS_Pro_00809,SystemSoftware,Power BI Desktop Pro,"Power BI Desktop PRO lets you build advanced queries, models, and reports that visualize data. Dette er versjonen som krever lisens og gjør at du kan dele rapporter med andre. Det er samme programpakken som Desktop, men lisens avgjør om du kan dele rapporter du lager. 
+"
+SYS_Pro_00849,SystemSoftware,Power BI Pro (NK4-00002),"Power BI er et avansert analyseverktøy med en unik mulighet for å visualisere data fra ulike kilder på en god måte i samme rapport. Power BI Pro er den lisensierte versjonen som gir muligheten til å dele innhold og samarbeide med andre Pro-brukere. Bare Pro-brukere kan publisere og bruke innhold fra apparbeidsområder, dele instrumentbord, og abonnere på instrumentbord og rapporter. "
+SYS_Pro_00845,SystemSoftware,Power PDF Advanced,Redigere og systematisere PDF dokumenter
+SYS_Pro_00499,SystemSoftware,PPI,Administrativt system for syns- og audiopedagogisk senter
+SYS_Pro_00500,SystemSoftware,PPTHK,Fagsystem PP-tjenesten
+SYS_Pro_00453,SystemSoftware,PrimeWorks,Lekkasjeutstyrsprogram. Følger med utstyr
+SYS_Pro_00848,SystemSoftware,Princh,Selvbetjent utskriftsløsning for publikumsPCer i bibliotekene
+SYS_Pro_00744,SystemSoftware,Processing,Programmering
+SYS_Pro_00455,SystemSoftware,Profil,Ikke oppgitt
+SYS_Pro_00164,SystemSoftware,Project 2010 (076-04709) ,Microsoft Project er et verktøy for prosjektstyring. Det må kjøpes lisens for hver PC det skal installeres på.
+SYS_Pro_00851,SystemSoftware,Project Online Professional (7LS-00002),Prosjektstyring i skyen via skrivebordsklient og nettleser.
+SYS_Pro_00165,SystemSoftware,Project Professional 2010 (H30-00255-1Y-D),"Klientprogram for planlegging, vedlikehold, ressursstyring og oppfølging av prosjekter og tilgang til Prosjektallmenningen. Prosjektledere har også mye funksjonalitet i Prosjektallmenningen (SharePoint) som er billigere. NB! Det er 2010-versjonen som skal installeres dersom du skal bruke programmet i tilknytning til Prosjektallmenningen."
+SYS_Pro_00458,SystemSoftware,Promethean ActivInspire,Interaktiv tavleprogram
+SYS_Pro_00459,SystemSoftware,Prosjektallmenningen (brukertilgang til Project Server) (H21-03424) ,"Prosjektallmenningen er samlebegrep for kommunens prosjektstyringsløsning på web. 
+Dette inkluderer en ""enkel"" versjon av MS Project. Prosjektledere som har behov for utvidet funksjonalitet ifm prosjektplanlegging og ressursoppfølging må bestille MS Project Professional i stedet. "
+SYS_Pro_00653,SystemSoftware,PRPDF - skriverdriver (pdfFactory),Program som brukes av BBKM og Bergen vann for å lage PDF-filer og behandle dem. BBKM har lisenser og programmet kan benyttes av alle. Lisensliste reguleres av Trond Kvam eller Reidar Waage på melding fra Pål Fagerheim. 
+SYS_Pro_00461,SystemSoftware,Putty SSH,SSH- og Telnetklient for windows
+SYS_Pro_00746,SystemSoftware,Python,Programmering
+SYS_Pro_00463,SystemSoftware,QBEVision 5.0,Databasespørreverktøy
+SYS_Pro_00732,SystemSoftware,QGIS,"Lage, editere, visualisere, analysere og publisere geospatial (geo-rommelig) informasjon "
+SYS_Pro_00464,SystemSoftware,QlikView,Rapporterings-- og statistikkprogram
+SYS_Pro_00465,SystemSoftware,Quadri Map Server (QMS),Forvaltningssystem for kartdata
+SYS_Pro_00468,SystemSoftware,RADAR,Trafikktelling (Erstattes av raffic 6 (sp605)? Ikke fått svar fra Samferdsel ennå)
+SYS_Pro_00637,SystemSoftware,RadonPro,Radon gas measurement
+SYS_Pro_00470,SystemSoftware,RDP mot egen PC,Remote desktop
+SYS_Pro_00471,SystemSoftware,Read-a-Card,Program for å lese/identifisere personer med adgangskort 
+SYS_Pro_00715,SystemSoftware,Readsoft,"Skanning og tolking av papirfaktura, faktura levert som pdf vedlegg til epost."
+SYS_Pro_00472,SystemSoftware,Readsoft 5.6,"Fakturaskanning, del av Agressoløsningen"
+SYS_Pro_00474,SystemSoftware,Relemo,Repetert lesetreningsprogram
+SYS_Pro_00531,SystemSoftware,ReleMo 1.5.1,"Økt lesehastighet, nøyaktighet og forståelse"
+SYS_Pro_00844,SystemSoftware,ReluxDesktop,"Lysberegning/Lysplanlegging, kobler opp mot ekstern database for å hente data på lysarmaturer."
+SYS_Pro_00475,SystemSoftware,Remedy,System for melding/håndtering av feil og bestillinger.
+SYS_Pro_00476,SystemSoftware,Rename Master,Ikke oppgitt
+SYS_Pro_00405,SystemSoftware,Ressursstyring (RS),Arbeidsplanleggingsprogram
+SYS_Pro_00756,SystemSoftware,Rettsdata Total ,"Rettsdata Total gir samlet tilgang til oppdaterte rettskilder, lovkommentarer fra Norsk Lovkommentar, praktiske dokumenter, fagbøker og tidsskrifter.  internett via nettleser. Alle ansatte i Bergen kommune kan bli registrert  som personlig bruker av tjenesten.<br/><br/> IKT Drift har ikke brukerstøtte på systemet. IKT Drift håndterer tilganger og årlig fakturering. <br/><br/>Hjelp og informasjon om systemet finner du her:  <a href=""https://www.rettsdata.no/Kontakt-oss""</a>Brukerstøtte.</a><br/><br/>Tilgang til Rettsdata Total forutsetter e-postadresse i Bergen kommune.<br/><br/> Utregistrering av tjenesten skjer ved at du i kommentarfeltet skriver: Utregistrering  Rettsdata Total: e-postadresse til bruker som skal utregistreres"
+SYS_Pro_00408,SystemSoftware,Rfid Manager Gold 1.4,RFID-programmering av kaffebetalingskort
+SYS_Pro_00410,SystemSoftware,RightFax for Outlook 2010,Faks-tillegg for Outlook 2010
+SYS_Pro_00648,SystemSoftware,Rolltalk Designer,Rolltak Designer (tidligere Programsnekkeren) gir mulighet for å lage eget brukerprogram til personer som trenger tekst og/eller symbolbasert kommunikasjon.
+SYS_Pro_00798,SystemSoftware,Rolltalk Designer PODD,"PODD er et kommunikasjonshjelpemiddel og en metode, utviklet for barn. PODD-metoden går ut på å finne den beste måten for barn å kommunisere"
+SYS_Pro_00415,SystemSoftware,ROSY Road Map,Forvaltning  Drift og Vedlikehold av kommunele veier
+SYS_Pro_00413,SystemSoftware,RoSyDIG,"RoSy Base er forvaltning, drift og vedlikeholdssystem av det kommunale veinettet. RoSyDIG holder oversikten over gravemeldinger og graving langs eller på kommunale veier."
+SYS_Pro_00416,SystemSoftware,Roxio,Brenneprogram med videoredigering
+SYS_Pro_00611,SystemSoftware,RoyalTS,"Fjerndriftsverktøy. Primært beregnet på serveradministrasjon. Lagring og administrasjon av oppkoblinger med RDP, SSH, Web, VNC etc.
+Driftsverktøy som er tilgjengelig kun for IKT Drift.
+Kjøpt Global License for versjon 3 i mars 2015 inkl. 3 år med gratis oppgraderinger."
+SYS_Pro_00825,SystemSoftware,RStudio,Statistikk og analyse-program
+SYS_Pro_00418,SystemSoftware,Safir OK,Registreringssystem for lærlinger/lærekontrakter
+SYS_Pro_00684,SystemSoftware,Salto RW Pro,Programmet brukes for å programmere dørene for individiduelle tilganger for de ansatte med nøkkelkort.
+SYS_Pro_00550,SystemSoftware,Samsung KIES,Administrasjonsprogram for mobiler og nettbrett fra Samsung.
+SYS_Pro_00607,SystemSoftware,Sarepta,Ordbehandlings- og kommunikasjonsprogram tilrettelagt for brukere med spesielle krav.
+SYS_Pro_00419,SystemSoftware,Satsync,GPS-software
+SYS_Pro_00184,SystemSoftware,Scangear CS,Applikasjon for skanning (Canon 3200F)
+SYS_Pro_00185,SystemSoftware,Scratch,Animasjon - programmering
+SYS_Pro_00814,SystemSoftware,SDParking RDP,Remote Desktop for styring av Skidata psystem
+SYS_Pro_00552,SystemSoftware,Sequel 2,Music creation and performance
+SYS_Pro_00422,SystemSoftware,Skiltbase,Basert på AutoCad / Novacad
+SYS_Pro_00423,SystemSoftware,Skype,"Skype-til-Skype-samtaler; Videosamtaler på tomannshånd, direktemeldinger, skjermdeling"
+SYS_Pro_00716,SystemSoftware,Smart Notebook,Programvare til digital tavle
+SYS_Pro_00427,SystemSoftware,SnagIt,Screen capture utility. Lisensnøkkel må legges inn i begynnelsen av installasjonen.
+SYS_Pro_00428,SystemSoftware,SoapUI,Verktøy for å teste websider
+SYS_Pro_00357,SystemSoftware,Socio for sosialtjenestene,"Fagsystem for sosialtjenesten,/NAV kommune"
+SYS_Pro_00358,SystemSoftware,Socio MOKS,Fagsystem for MOKS
+SYS_Pro_00359,SystemSoftware,Socio Utekontakten,Informasjonssystem for Utekontakten
+SYS_Pro_00360,SystemSoftware,Sofie - skatteetaten,"Sofie er kemneren i Bergen sitt system for skattregnskap og kjører via internett. Systemet krever spesiell versjon av Java og spesielle porter tilgjengelig for tilganger. Systemet driftes av  
+"
+SYS_Pro_00362,SystemSoftware,Solibri Model Checker,3D-visning (BIM) av bl.a. IFC-filer
+SYS_Pro_00853,SystemSoftware,Solibri Model Viewer,BIM viewer
+SYS_Pro_00364,SystemSoftware,SOSI Kontroll,"Kvalitetskontroll SOSI-filer, inneholder også SOSI Vis"
+SYS_Pro_00365,SystemSoftware,SOSI Shape,Konverteringsprogram mellom SOSI- og Shape-filer
+SYS_Pro_00542,SystemSoftware,Spilletid,"Dette er et spill der man manøvrerer seg inn i et galleri, der det henger tegninger laget av barn.  "
+SYS_Pro_00661,SystemSoftware,Spirare,"Spirare er et PC-program med tilhørende pusteapparat for å måle pust (ekspirasjon) installert på virtuelle klienter for Bedriftshelsetjenesten.  De har wyse-terminaler hvor pusteapparatet er tilknyttet.  Beskrivelse i SLA-vedlegg ""Profdoc for Bedriftshelsetjenesten"" "
+SYS_Pro_00555,SystemSoftware,Språkpakker til Microsoft Office,"Det er tilgjengelig språkpakker til en rekke språk - se i ""Run Advertised Programs"" under Program Name som starter med ""Microsoft Office Language"""
+SYS_Pro_00369,SystemSoftware,Stellarium,"Stellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a telescope."
+SYS_Pro_00772,SystemSoftware,Superoffice webtools 8.0,"Tillegg til programmet superoffice som blant annet omhandler kontakter.
+
+http://cs.superoffice.no/scripts/customer.fcgi?_sf=0&custSessionKey=&customerLang=no&noCookies=true&action=viewKbEntry&id=112122 "
+SYS_Pro_00821,SystemSoftware,Surface Hub,"SurfaceHub er en stor skjerm med innebygd pc fra Microsoft. SDI har kjøpt og fått satt opp 1 stk i november 2017, som er integrert med Exchange/Skype. Per Arne Hoff har vært kontaktperson. "
+SYS_Pro_00757,SystemSoftware,Sweet Home 3D,Interiør hustegning i 3D.
+SYS_Pro_00584,SystemSoftware,Symwriter,Verktøy for lese- og skrivetrening med tale- og bildestøtte. 
+SYS_Pro_00829,SystemSoftware,Synchro Open Viewer,Viser 4D-tegninger
+SYS_Pro_00372,SystemSoftware,TabQuick 5.03,Program for utskrift av etiketter
+SYS_Pro_00373,SystemSoftware,TABQUIK 7,Program for utskrift av etiketter
+SYS_Pro_00836,SystemSoftware,Tagvision,Rfid-leser som registerer innlån og utlån av materiale
+SYS_Pro_00606,SystemSoftware,TangoTouch 6.0N,Tastaturtrening - Forstørrer skjermbilde
+SYS_Pro_00787,SystemSoftware,Teamviewer,Fjernstyringsprogram
+SYS_Pro_00678,SystemSoftware,Tegnstart 1-2-3,Lær tegnspråk
+SYS_Pro_00638,SystemSoftware,Tekla Viewer,3D Viewer
+SYS_Pro_00794,SystemSoftware,Telchart/ C - Map,Navigasjon for Sjøbrand (Brann-båt)
+SYS_Pro_00812,SystemSoftware,Textpilot 3 pluss,Lese- og skrivestøtte
+SYS_Pro_00790,SystemSoftware,Textpilot pluss,Lese- og skriveverktøy
+SYS_Pro_00380,SystemSoftware,The English 2 Dyslexia Test,Dysleksitest
+SYS_Pro_00838,SystemSoftware,Tiamo 2.5,Robotstyring
+SYS_Pro_00564,SystemSoftware,Tilskuddsordning (Insights),Utlysning og saksbehandling av tilskudd. Er flyttet til en webportal.
+SYS_Pro_00636,SystemSoftware,Tjenestekatalogen (NTK),Løsning for definering av kommunale tjenester ut mot innbyggerne i Bergen kommmune
+SYS_Pro_00310,SystemSoftware,Tobii Communicator,"Programvare for alternative og supplerende kommunikasjonssystem. Konverterer tekst og symbol til tale, inneholder et rikholdig utvalg av funksjoner for lek,læring,omgivelskontroll og elektronisk fjernkommunikasjon"
+SYS_Pro_00832,SystemSoftware,Tobii Gaze Interaction,"For those with limited or without ability to use hands or fingers to control a computer, the classic Tobii Gaze Interaction software in combination with a Tobii Dynavox eye tracker allows you to operate your computer using your eyes."
+SYS_Pro_00311,SystemSoftware,Tobii SymbolMate,Tool for educators to create effective paper-based symbol communication
+SYS_Pro_00775,SystemSoftware,Tor Asle Skiple,Et sikkert passordhvelv der brukere kan lagre og få tilgang til egne passord.
+SYS_Pro_00313,SystemSoftware,TQM Enterprise,Kvalitet -og miljøstyringssystem
+SYS_Pro_00314,SystemSoftware,Traffic 6,Trafikkmålinger
+SYS_Pro_00315,SystemSoftware,TrakPro 4.4.0.5,Program til partikkelmåler
+SYS_Pro_00578,SystemSoftware,Trakpro 4.6.1,Leser av data fra inneklimalogger av typen Qtrak
+SYS_Pro_00316,SystemSoftware,Trend Micro OfficeScan Client 10.0.x,Standard Antivirus løsning
+SYS_Pro_00317,SystemSoftware,Trimble GPS- og korreksjons-software,Ikke oppgitt
+SYS_Pro_00508,SystemSoftware,Trimble SketchUp Pro,3D tegnekonstruksjonsprogram. Installasjonen installerer SketchupMake. Dersom man legger inn lisens vil programmet være Sketchup Pro.
+SYS_Pro_00731,SystemSoftware,Trio Callcenter,Program for sentralbordløsning i Bergen kommune. Trio-programvaren installeres på brukerens arbeidsstasjon.
+SYS_Pro_00660,SystemSoftware,True Type abc-skrift,Former bokstaver som er lik skriften i læreverk på 1. trinn
+SYS_Pro_00319,SystemSoftware,TruView Plugin for IE,Plugin for Internet Explorer som gir 3D-visning
+SYS_Pro_00507,SystemSoftware,Tuctyping,Tøtsjprogramm
+SYS_Pro_00321,SystemSoftware,Tuxpaint,Bildeprogram
+SYS_Pro_00323,SystemSoftware,Tweetdeck,"TweetDeck is a personal real-time browser, connecting you with your contacts across Twitter, Facebook, MySpace, LinkedIn, Foursquare, Google Buzz and more."
+SYS_Pro_00629,SystemSoftware,UBW HR,Programpakke for UBW HR fagsystem
+SYS_Pro_00215,SystemSoftware,UBW Økonomi,Økonomisystem. Office benyttes i utgangspunktet av sentrale enheter. 
+SYS_Pro_00324,SystemSoftware,UltraEdit-32 v 13.00a+2,Professional Text/Hex Editor
+SYS_Pro_00747,SystemSoftware,Unity Web Player,Nettlesertillegg. Trengs bl.a. hvis man skal kjøre DragonBox
+SYS_Pro_00326,SystemSoftware,USB Modem U90,"Mobilt bredbånd, ICE"
+SYS_Pro_00328,SystemSoftware,VAKO 4.8,Samme støtteverktøy som for Boinfo: Microsoft SOAP Toolkit 3.0
+SYS_Pro_00329,SystemSoftware,Vaktdata,Ikke oppgitt
+SYS_Pro_00509,SystemSoftware,VanBasco's Karaoke Player 2.53,MIDI Karaoke Player for Windows
+SYS_Pro_00331,SystemSoftware,Varsling 24,WEB-tjeneste. System som varsler alle innbyggere i et geografisk område eller personer som befinner seg i et område.
+SYS_Pro_00839,SystemSoftware,VISGI-odbc,"Programpakke til Plan og geodata, slik at de kan hente data fra fagsystemet Visgi inn i Access og analyse dataene. Pakken gir lesetilgang til Gisdata i EGDBPROD "
+SYS_Pro_00332,SystemSoftware,Visio 2010 Prof (D87-05004),"Visio er et tegneverktøy med sjablonger. Det finnes i professional versjon (denne), og standard. Det må kjøpes lisens for hver PC det skal installeres på."
+SYS_Pro_00261,SystemSoftware,Visio 2010 Std (D86-04531),"Visio er et tegneverktøy med sjablonger. Det finnes i standard versjon (denne), og professional. Det må kjøpes lisens for hver PC det skal installeres på."
+SYS_Pro_00569,SystemSoftware,Visio 2013/6 Professional (D87-07312) ,"Visio er et tegneverktøy med sjablonger. Det finnes i professional versjon (denne), og standard. Det må kjøpes lisens for hver PC det skal installeres på."
+SYS_Pro_00568,SystemSoftware,Visio 2013/6 Standard (D86-05738),"Visio er et tegneverktøy med sjablonger. Det finnes i standard versjon (denne), og professional. Det må kjøpes lisens for hver PC det skal installeres på."
+SYS_Pro_00850,SystemSoftware,Visio Pro for Office 365 (N9U-00002),"Microsoft Visio Pro for Office 365 har de samme mulighetene som Visio Professional 2016. I tillegg er eksklusive skyfunksjoner som Data Visualizer, Database Reverse Engineering og forbedret støtte for AutoCAD-tegninger nylig introdusert. Abonnement gir også hver bruker anledning til å installere Visio på opptil fem PC-er"
+SYS_Pro_00785,SystemSoftware,Visio Viewer 2016,"Med Office 2010-installasjonen følger det med en Visio Viever. Denne gir mulighet til å åpne .vsd-filer, men ikke .vsdx-filer. Denne vieweren gir mulighet til også å se disse filene av typen vsdx. 
+Dersom man allerede har Office 2013 eller Office 2016 installert trenger man ikke installere dette programmet. Da er VisioViewer inkludert i programsuiten. "
+SYS_Pro_00263,SystemSoftware,Visma Performit Guide Designer,Verktøy for produksjon av brukerveiledninger
+SYS_Pro_00264,SystemSoftware,Visma Performit Player,Brukerveiledninger og støtteverktøy
+SYS_Pro_00706,SystemSoftware,Visual Basic 6.0,Utviklingsverktøy for BOEI
+SYS_Pro_00265,SystemSoftware,VLC media player,Media player
+SYS_Pro_00267,SystemSoftware,Vocabulary Worksheet Factory 4.08,"Lærerne genererer oppgaver, skriver ut, og så får elevene oppgavene. "
+SYS_Pro_00268,SystemSoftware,Voxit Budgie Pro 2.4,Digital tekst til tale
+SYS_Pro_00269,SystemSoftware,VPSKeys 4.3,Vietnamesisk tastatur for å skrive vietnamesiske tegn med aksent.
+SYS_Pro_00270,SystemSoftware,Værbutikken,WEB-tjeneste fra DMNI. (Meget kritisk. Spesielt for vinterberedskapen)
+SYS_Pro_00530,SystemSoftware,Wacom Intous 4M,Tegnebrett
+SYS_Pro_00186,SystemSoftware,WAPS,Flygt sitt pumpevalgsprogram
+SYS_Pro_00271,SystemSoftware,WEB Matrikkel,Insynsverktøy mot matrikkeldata
+SYS_Pro_00815,SystemSoftware,WebForum plugin,Programtillegg for å benytte Webforum
+SYS_Pro_00587,SystemSoftware,WebPro Powerpointplugin,"Powerpointplugin som gjør det mulig å direktepublisere til infoskjermer, del av tjenesten Infoskjerm"
+SYS_Pro_00274,SystemSoftware,Wilab/Lims,Laboratoriesystem
+SYS_Pro_00189,SystemSoftware,WinCAPS,Grundfos sitt pumpevalgsprogram
+SYS_Pro_00574,SystemSoftware,Windows Help,Hjelp for Windows. Brukes når program ikke kan lese gammel type hjelpefiler i windows 7.
+SYS_Pro_00278,SystemSoftware,WinMerge 2.12.14,Verktøy for å finne forskjell i filer og mapper
+SYS_Pro_00281,SystemSoftware,WinSitu 4,Måleutstyr-SW til vannkvalitetapparatur
+SYS_Pro_00570,SystemSoftware,WinTid Dashboard,For superbrukere og ledere som skal ha tilgang til Wintid Dashboard.
+SYS_Pro_00282,SystemSoftware,Wintid skjermstempling (Mintid),For brukere som vil stemple via pc med skjermstempling (Mintid). Bildet for inn-stempling startes når pc'en startes. Bildet for ut-stempling må startes manuelt. Bruker administrerer sin egen tidskonto via Mintid - bildet.
+SYS_Pro_00190,SystemSoftware,Wintouch Office,e-læringsprogram for touchmetoden
+SYS_Pro_00699,SystemSoftware,WinVed,Program for vedlikehold av biler og utstyr. Bergen Brannvesen
+SYS_Pro_00612,SystemSoftware,Wireshark,"Verktøy for nettverks-sniffing, feilsøking mm.
+Driftsverktøy som kun skal være tilgjengelig på IKT Drift."
+SYS_Pro_00191,SystemSoftware,Wisc-IV Pearson,Skåringsprogram for test og vurdering av kognitive evner hos barn og ungdom. Leverandør er Pearson. Brukes av alle PPT-kontorer. Hver lisens av dette programmet er gyldig for installasjon og bruk på én PC.
+SYS_Pro_00690,SystemSoftware,WPS-dongle 2,Trådløst mellom projektor og pc/mobil/nettbrett
+SYS_Pro_00561,SystemSoftware,XAMPP 1.8.1,Webserver
+SYS_Pro_00843,SystemSoftware,xBim xplorer,Viser 3D-tegninger
+SYS_Pro_00193,SystemSoftware,XDM,"Xerox Device Manager er applikasjonen som bl a sørger for å bestille toner etc
+"
+SYS_Pro_00806,SystemSoftware,x-Dock Manager,dette er en USB stick med en softwarekode
+SYS_Pro_00194,SystemSoftware,XenCenter,Driftsverktøy IKT Drift
+SYS_Pro_00685,SystemSoftware,Xming X Server for Windows 7-5-0-79,Muliggjør pålogging med grafisk grensesnitt til ekstern (Linux) maskin.
+SYS_Pro_00196,SystemSoftware,XML-generator,Endrer format fra Agresso 5.4 til Agresso 5.5.3 i forbindelse med fakturering
+SYS_Pro_00197,SystemSoftware,XML-notepad,XML editor
+SYS_Pro_00198,SystemSoftware,YouSendIT,Brukes til å sende store filer via epost
+SYS_Pro_00199,SystemSoftware,Zebra LP 2844,Skriver ut etiketter til postpakker
+SYS_Pro_00200,SystemSoftware,Zebra P100i,Driver til ID-kort skriver
+SYS_Pro_00816,SystemSoftware,Zebra Stripe S4M,Etikettskriverdriver for produksjonskjøkken
+SYS_Pro_00201,SystemSoftware,ZoomText,"Forstørrer tekst på skjermen for svaksynte, samt talesyntese på norsk."
