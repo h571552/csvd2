@@ -1,6 +1,6 @@
 ID,Type,Name,Documentation
 SYS_Fag_00253,ApplicationComponent,24 timers BT apparat,24 timers BT apparatBlodtrykksapparat
-SYS_Fag_00414,ApplicationComponent,ABAX789kkk,
+SYS_Fag_00414,ApplicationComponent,ABAX789zzz1,
 SYS_Fag_00290,ApplicationComponent,Adgangskontrollsystem for Bergen kommune (Starwatch),"Adgangskontrollsystem (Starwatch) for Rådhuset og omliggende bygninger. Leveres og konfigureres av Westec AS, som har fjerntilgang til løsningen. August 2018 er løsningen utvidet med en SALTO-modul."
 SYS_Fag_00376,ApplicationComponent,Adobe Sign,
 SYS_Fag_00001,ApplicationComponent,Adra Match,"Adra Match er et system for automatiske kontoavstemminger og for automatisk oppdatering av innbetalinger. Systemet benyttes av Kemneren og forenkler avstemmingsarbeidet slik at der blir en effektivisert arbeidsflyt, med mindre manuelt arbeid for avstemming mot sosialsystemet til Bergen kommune. Programpakke Adra Match tilhører systemet"
