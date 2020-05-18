@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ID,Type,Name,Documentation
 SYS_Fag_00253,ApplicationComponent,24 timers BT apparat,24 timers BT apparatBlodtrykksapparat
 SYS_Fag_00414,ApplicationComponent,ABAX,
@@ -14,12 +13,12 @@ Kursmiljø er opphørt for Agresso. Er blitt erstattet av UBW økonomi. Gammel t
 SYS_Fag_00374,ApplicationComponent,Aksjonssamband (TETRA),
 SYS_Fag_00389,ApplicationComponent,ANPR,
 SYS_Fag_00306,ApplicationComponent,ArcGIS Portal Bergenskart,"Systemet brukes av Kart- og oppmålingsavdelingen på PBE. Systemet var kartportal for beredskapsavdelingen som ble benyttet av samvirkesenteret under sykkelVM 2017. Løsningen består av Arcgis Enterprise server og Portal i BK-nett, samt at systemet nås ved pålogging eksternt ifra. Midlertidig løsning som skal avvikles, men en ny mer permanent løsning er under etablering, og dette fagystemnavnet skal gjenbrukes. Kanskje avlevering i q3 2018,"
-SYS_Fag_00005,ApplicationComponent,Asta Prod,"Informasjonssystem for systematisk registrering, lagring og fremfinlning av informasjon om arkiver og arkivskapere"
+SYS_Fag_00005,ApplicationComponent,Asta Prod,"Informasjonssystem for systematisk registrering, lagring og fremfinning av informasjon om arkiver og arkivskapere"
 SYS_Fag_00344,ApplicationComponent,Beboerundersøkelse,
 SYS_Fag_00235,ApplicationComponent,"Bergen Kulturskole, Mellomlagringsløsning ","Bergen Kulturskole benytter Speedadmin, et fagsystem som driftes av 3.part. IKT Drift har opprettet en mellomlagringsløsning for fagsystemet slik at filer vedr. fakturainformasjon kan overførestil Agresso via tjenesten."
 SYS_Fag_00006,ApplicationComponent,Bergenskart/Braplan,"Nettleserbasert innsynsapplikasjon for kartdata for Bergen kommune basert på ArcIMS fra ESRI, og produksjonssystem for dokumenttyper som leveres via infoland-portalen til Ambita. Brukere av systemet er hovedsaklig Plan og geodata. Løsningen er tilgjengelig for publikum via internett. Digitalt planarkiv braPLAN for Bergen kommune er levert av Geomatikk AS. Benyttes både for innsyn og FDV av planarkivet . Tilgjengelig for publikum via internett."
 SYS_Fag_00144,ApplicationComponent,Bergenskart/Braplan i test,"Test-miljø for Bergenkart.no og Braplan, digitalt planarkiv. "
-SYS_Fag_00159,ApplicationComponent,Bestillingsweb,"Bestillingsweb er IKTl i Bergen kommune sin webshop, her kan autoriserte bestillere bestille IKT tjenester og produkter. Vi har ingen avtale med leverandøren Netpower. "
+SYS_Fag_00159,ApplicationComponent,Bestillingsweb,"Bestillingsweb er IKT i Bergen kommune sin webshop, her kan autoriserte bestillere bestille IKT tjenester og produkter. Vi har ingen avtale med leverandøren Netpower. "
 SYS_Fag_00377,ApplicationComponent,Bibliofil,
 SYS_Fag_00416,ApplicationComponent,BIBSYS,
 SYS_Fag_00390,ApplicationComponent,BILKRAFT,
@@ -1221,14 +1220,9 @@ SYS_Pro_00199,SystemSoftware,Zebra LP 2844,Skriver ut etiketter til postpakker
 SYS_Pro_00200,SystemSoftware,Zebra P100i,Driver til ID-kort skriver
 SYS_Pro_00816,SystemSoftware,Zebra Stripe S4M,Etikettskriverdriver for produksjonskjøkken
 SYS_Pro_00201,SystemSoftware,ZoomText,"Forstørrer tekst på skjermen for svaksynte, samt talesyntese på norsk."
-=======
-ID,Type,Name,Documentation
-<<<<<<< HEAD,,,
-ComNet0001,CommunicationNetwork,Adm sone,908
-Err:510,,,
-ComNet0001,CommunicationNetwork,Adm sone,asd
->>>>>>> 11316ee3a2424be608768f71677060408b37f03c,,,
-ComNet0002,CommunicationNetwork,Elevnett,
-Constr0001,Constraint,Persondata,
-Constr0002,Constraint,Sensitive persondata,
->>>>>>> e205d74beb0f51ade0b2fb2899c5f83a74d6564f
+ComNet0001,SystemSoftware,Adm sone,"Forstørrer tekst på skjermen for svaksynte, samt talesyntese på norsk."
+ComNet0002,SystemSoftware,Sikker sone,"Forstørrer tekst på skjermen for svaksynte, samt talesyntese på norsk."
+ComNet0003,SystemSoftware,Elevnett,"Forstørrer tekst på skjermen for svaksynte, samt talesyntese på norsk."
+ComNet0004,SystemSoftware,TU nett,"Forstørrer tekst på skjermen for svaksynte, samt talesyntese på norsk."
+Constr0001,SystemSoftware,Persondata,"Forstørrer tekst på skjermen for svaksynte, samt talesyntese på norsk."
+Constr0002,SystemSoftware,Sensitive persondata,"Forstørrer tekst på skjermen for svaksynte, samt talesyntese på norsk."
